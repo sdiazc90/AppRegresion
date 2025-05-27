@@ -185,7 +185,8 @@ def mostrar_importancias():
     )
 
 if __name__ == '__main__':
-    app.run
+    app.run(debug=True)
+
 
 
 
