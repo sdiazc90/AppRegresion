@@ -85,3 +85,25 @@ button:hover {
     width: 150%;
     object-fit: cover;
 }
+
+.btn-ignition {
+    width: 150px;
+    height: 150px;
+    background-image: url("../images/botonOFF2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    transition: background-image 0.5s ease, transform 0.3s ease;
+    margin-top: 0px;
+    position: relative;
+    left: 10px;
+    top: -13px;
+}
+
+.btn-ignition:hover {
+    background-image: url("../images/botonON.jpg");
+    transform: scale(1.05);
+}
+
