@@ -1,8 +1,14 @@
 {
   "builds": [
-    { "src": "app_interactiva.py", "use": "@vercel/python" }
+    {
+      "src": "app_interactiva.py",
+      "use": "@vercel/python"
+    }
   ],
   "routes": [
-    { "src": "/(.*)", "dest": "app_interactiva.py" }
+    {
+      "src": "/(.*)",
+      "dest": "app_interactiva.py"
+    }
   ]
 }
