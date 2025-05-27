@@ -1,0 +1,648 @@
+Marca,Modelo,Año,Versión,Color,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Fecha publicación,Kilómetros,Precio
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 9 días,115.000 km,23499999
+Volkswagen,Golf,2020,Vii 1.4 Tsi 250 2020,Gris oscuro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 23 días,45.000 km,35900000
+Volkswagen,Golf,2017,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 25 días,57.000 km,20900000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 36 días,63.565 km,22700
+Volkswagen,Golf,2020,1.4 Highline Dsg Comfortline Gti Trendline,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,119.000 km,32990000
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Blanco,Nafta,5,Manual,2.0,Hatchback,Publicado hace 6 días,117.000 km,21900
+Volkswagen,Golf,2005,1.8 Turbo Gti,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 12 días,122.000 km,8900
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,130.000 km,19500
+Volkswagen,Golf,2019,1.4 Tsi Comfortline,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 47 días,80.000 km,22900
+Volkswagen,Golf,2018,1.4 Comfortline Dsg Highline Trendline Gti,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 meses,88.000 km,26990000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 19 días,94.000 km,22800000
+Volkswagen,Golf,2021,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 43 días,54.000 km,36000000
+Volkswagen,Golf,2018,1.4 Comfortline Dsg Highline Trendline Gti,Celeste,Nafta,5,Manual,1.4,Hatchback,Publicado hace 2 meses,88.000 km,24990000
+Volkswagen,Golf,2004,Gti 2004,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 7 meses,193.113 km,8800
+Volkswagen,Golf,2018,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,86.000 km,9500000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 19 días,47.000 km,37000
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,175.000 km,16700
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg - Us,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 9 días,109.000 km,25990000
+Volkswagen,Golf,2016,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 19 días,138.000 km,17900000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 4 días,112.300 km,20100000
+Volkswagen,Golf,2017,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 4 días,102.000 km,17500000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 9 días,69.000 km,21500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Dorado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 12 días,108.000 km,21000
+Volkswagen,Golf,2018,2018 1.4 Highline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 meses,90.000 km,29500000
+Volkswagen,Golf,2018,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 23 días,83.300 km,36000
+Volkswagen,Golf,2019,2.0 Gti Tsi,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 24 días,55.000 km,40000
+Volkswagen,Golf,2015,1.6 Trendline,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 56 días,138.000 km,14900
+Volkswagen,Golf,2011,1.6 Advance,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 46 días,130.000 km,13500000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 26 días,120.000 km,17000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,55.768 km,25500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg Smart Garage,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 13 días,165.000 km,14800
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,95.000 km,20500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 6 días,92.000 km,21000000
+Volkswagen,Golf,2015,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,99.000 km,16000
+Volkswagen,Golf,2019,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 52 días,52.974 km,42000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 54 días,147.000 km,24500000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 11 días,33.000 km,36900
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 13 días,91.000 km,29500
+Volkswagen,Golf,2016,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 49 días,39.500 km,34000
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 meses,156.000 km,17000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 días,75.000 km,19200
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 11 días,78.300 km,17800000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 13 días,97.000 km,20500
+Volkswagen,Golf,2013,2.0 Vi Gti Nav Tsi 211cv Dsg,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 55 días,102.000 km,26900
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 13 días,138.000 km,23000
+Volkswagen,Golf,2017,2.0 Gti Tsi,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 38 días,100.000 km,30500
+Volkswagen,Golf,2012,2.0 Vi Gti Nav Tsi 211cv Dsg,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 41 días,122.000 km,21800
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,98.000 km,18000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,98.000 km,18000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 2 meses,165.000 km,27800
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,64.000 km,23300
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 días,93.174 km,35000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 17 días,95.000 km,23500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,62.050 km,27300
+Volkswagen,Golf,2020,2.0 Gti Tsi App Connect + Cuero,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 43 días,53.000 km,46800
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,140.000 km,16500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 53 días,120.000 km,24000000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,107.000 km,23500
+Volkswagen,Golf,2017,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 39 días,108.000 km,20500000
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 40 días,60.000 km,16000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 4 meses,66.000 km,36500
+Volkswagen,Golf,2008,Gti 2008,Gris,Nafta,5,Automática,1.8,Hatchback,Publicado hace 6 meses,111.800 km,12500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,138.000 km,18000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,126.000 km,23800000
+Volkswagen,Golf,2021,2.0 Gti + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 6 días,36.850 km,48900
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,116.000 km,20000
+Volkswagen,Golf,2008,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 12 días,232.000 km,10500000
+Volkswagen,Golf,2004,1.6 Comfortline,Azul,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 24 días,265.000 km,8200
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,173.000 km,25000000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 4 meses,124.000 km,18500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 11 días,114.000 km,23000
+Volkswagen,Gti,2019,Mk 7.5 Cuero + Accesorios,Blanco,Nafta,5,Automática,2.0 TURBO,Hatchback,Publicado hace 25 días,46.000 km,42500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 14 días,70.000 km,21500
+Volkswagen,Gti,2000,1999 Alemán 3 Puertas !!,Negro,Nafta,3,Manual,1.8,Hatchback,Publicado hace 27 días,195.000 km,16000
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 35 días,96.000 km,18500000
+Volkswagen,Golf,2018,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 37 días,138.000 km,16300
+Volkswagen,Golf,2002,2002 2.0 Highline,No disponible,Nafta,5,Manual,2.0,Hatchback,Publicado hace 5 meses,330.000 km,7000000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 4 días,68.000 km,38000
+Volkswagen,Golf,2001,1.9 Tdi Comfortline,Gris,Diésel,5,Manual,1.9,Hatchback,Publicado hace 34 días,143.000 km,9500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 58 días,110.000 km,20500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,64.000 km,23000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 19 días,98.500 km,32000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,114.000 km,20000
+Volkswagen,Golf,2015,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 24 días,175.000 km,13900
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 meses,130.000 km,16200
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Verde,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,110.000 km,22500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 días,95.000 km,21500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,183.000 km,18500
+Volkswagen,Golf,2019,Confortlin 2019 Dsg 77000km Unico Impecable. Titular,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,79.000 km,26000000
+Volkswagen,Golf,2015,Vii 1.4 Tsi Highline Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 meses,110.000 km,24500000
+Volkswagen,2.0,1999,Mk3 - Glx 159.000 Km,Dorado,Nafta,5,Manual,2.0,Sedán,Publicado hace 4 días,159.100 km,11000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,155.000 km,23500000
+Volkswagen,Golf,2005,2.0 Highline,Azul,Nafta,5,Manual,2.0,Hatchback,Publicado hace 9 días,147.000 km,8000
+Volkswagen,V6,2004,4 Motion,Negro,Nafta,3,Manual,2.8,Hatchback,Publicado hace 6 meses,143.000 km,25000
+Volkswagen,Golf,2007,"1.8 Turbo Gti, Cuero + Techo",Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 6 meses,162.000 km,11500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,83.500 km,29000000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 35 días,52.000 km,27500
+Volkswagen,Golf,2019,2019 1.4 Comfortline Tsi Dsg,No disponible,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 año,130.000 km,24000
+Volkswagen,Golf,2004,1.6 Comfortline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 32 días,179.000 km,5500
+Volkswagen,Gti,2021,No disponible,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 meses,85.000 km,40800
+Volkswagen,Golf,2006,1.6 Comfortline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 días,151.000 km,9000
+Volkswagen,Golf,2016,Vii 1.6 Fsi Trendline 2016 - Rpm Moviles,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 30 días,125.000 km,15000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect + Cuero,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 55 días,61.000 km,37900
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg - Dueño Directo,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,100.000 km,20000
+Volkswagen,Golf,2000,Gti Mk3 96,Negro,Nafta,3,Manual,2.0,Coupé,Publicado hace 25 días,200.000 km,7300
+Volkswagen,Golf,2015,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 45 días,116.000 km,18200000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 14 días,75.000 km,24000
+Volkswagen,Golf,2011,1.6 Advance,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 49 días,139.000 km,11000000
+Volkswagen,Golf,1999,1.9 Tdi Comfortline - Turbo Diesel Alemán,Azul,Diésel,5,Manual,1.9,Hatchback,Publicado hace 53 días,285.000 km,5500
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv Dsg,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 8 meses,39.800 km,31800
+Volkswagen,Golf,2018,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,58.000 km,39500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 28 días,148.000 km,20900000
+Volkswagen,Golf,1999,Mk3 Cabriolet,Rojo,Nafta,2,No disponible,2.0,No disponible,Publicado hace 5 meses,250.000 km,10500
+Volkswagen,Golf,2017,2017 1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 47 días,99.000 km,17500
+Volkswagen,Vw,1998,Golf 2.0 Glx Full Full Año 96,Rojo,Nafta,5,Manual,Audi 2.0,No disponible,Publicado hace 33 días,235.000 km,5000000
+Volkswagen,Golf,2016,1.4 Tsi Comfortline,Negro,Híbrido,4,Manual,1,Hatchback,Publicado hace 4 días,161.222 km,16350000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,115.000 km,23500000
+Volkswagen,Golf,2017,1.4 Tsi Highline Dsg,Plateado,Híbrido,4,Automática,1,Hatchback,Publicado hace 12 días,58.481 km,23720000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,115.000 km,21500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,118.000 km,22000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi 2016 Charliebrokers,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 22 días,200.000 km,14500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 23 días,120.000 km,16500
+Volkswagen,Golf,2009,1.6 Advance,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 23 días,160.000 km,11600000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg Turbo Charliebrokers,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 38 días,80.000 km,20900
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,120.000 km,16500
+Volkswagen,Golf,2019,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 11 días,30.000 km,36990
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 12 días,74.000 km,33900
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 46 días,56.000 km,32000
+Volkswagen,Golf,2016,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,70.000 km,18000
+Volkswagen,Golf,2015,1.6 Trendline Azul 2015 - Tute Cars A.,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 10 días,118.383 km,17000
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,125.000 km,17000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg 2016,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,63.500 km,25500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 días,115.000 km,23499999
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 5 días,115.000 km,21500000
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Sedán,Publicado hace 27 días,82.000 km,20500000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg Lineaautomotor,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 39 días,90.000 km,21300
+Volkswagen,Golf,2017,2.0 Gti Tsi,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 40 días,55.000 km,37500
+Volkswagen,Golf,2015,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 55 días,84.060 km,16500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 26 días,75.000 km,27490
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Celeste,Nafta,5,Automática,1.4,Hatchback,Publicado hace 36 días,69.000 km,25500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi 2016,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,161.000 km,16500
+Volkswagen,Golf,2019,2.0 Gti Tsi App Connect + Cuero Blindado Rb3,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 46 días,37.000 km,46700
+Volkswagen,Golf,2016,1.6 Trendline M/t 2016 46655831,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 54 días,163.000 km,14900
+Volkswagen,Golf,2002,Confortline 3 Ptas 1.9 Tdi Automatico 2002,Rojo,Diésel,3,Automática,diesel,Hatchback,Publicado hace 2 meses,242.000 km,9900
+Volkswagen,Golf,2016,1.6 Trendline Famaautos Gol/208/onix/207/yar,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 26 días,110.000 km,14900
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,118.000 km,21900000
+Volkswagen,Golf,2016,1.6 Trendline Famaautos Gol/208/onix/207/yar,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 26 días,110.000 km,14900
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,118.000 km,21900000
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 4 meses,72.000 km,46500
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 10 días,108.400 km,24500000
+Volkswagen,Golf,2016,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 15 días,80.000 km,17800
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Negro,Nafta,5,Manual,1.4,Hatchback,Publicado hace 2 meses,125.000 km,19500000
+Volkswagen,Golf,2017,Vii 1.4 Tsi Highline Dsg 2017,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 meses,84.900 km,28899000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect Maderomotors 2018,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 meses,39.500 km,37500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4 turbo,Hatchback,Publicado hace 30 días,158.000 km,16000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 días,92.000 km,16500
+Volkswagen,Golf,2018,Variant 1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 27 días,100.000 km,16800
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 57 días,114.000 km,21000
+Volkswagen,Golf,2015,1.6 Trendline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 meses,120.000 km,16900000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 44 días,181.000 km,19000000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,88.000 km,22900
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,167.700 km,15500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 11 días,95.000 km,22000
+Volkswagen,Golf,2011,2.0 Conceptline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 13 días,170.000 km,12500000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,141.000 km,23000000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 4 días,98.000 km,17500
+Volkswagen,Golf,2004,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,230.000 km,5500
+Volkswagen,Golf,2017,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 31 días,128.000 km,15200
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 37 días,75.520 km,27500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 37 días,75.520 km,27500
+Volkswagen,Golf,2015,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 45 días,117.000 km,18500000
+Volkswagen,Golf,2015,1.6 Trendline /// 2015 - 225.000km,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 días,225.000 km,14000
+Volkswagen,Golf,2019,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 18 días,53.000 km,39990
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 30 días,75.000 km,27500
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,104.643 km,19999
+Volkswagen,Golf,2016,1.6 Trendline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,118.000 km,16500
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Celeste,Nafta,5,Automática,1.4,Hatchback,Publicado hace 15 días,137.898 km,18000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,78.000 km,24800
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 44 días,108.000 km,23000
+Volkswagen,Golf,2010,1.6 Advance,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,145.000 km,13400000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 23 días,83.318 km,29000000
+Volkswagen,Golf,2017,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 33 días,86.000 km,16500
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 55 días,114.000 km,16900
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,85.600 km,32500
+Volkswagen,Golf,2016,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,197.000 km,22400000
+Volkswagen,No disponible,2015,No disponible,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 días,110.000 km,17500
+Volkswagen,82kms.,2021,Todos Los Service Oficiales. Único Dueño.,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 37 días,83.000 km,32000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 52 días,105.000 km,20000000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Dorado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,92.000 km,17500
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,124.000 km,19800
+Volkswagen,Golf,2017,1.6 (int 9417),Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 meses,143.592 km,19900000
+Volkswagen,Golf,2011,2.0 Advance Mt,Negro,Nafta,5,Manual,2.0,Hatchback,Publicado hace 2 meses,148.000 km,12600000
+Volkswagen,Golf,2016,2016 1.4 Highline Tsi Dsg,No disponible,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 meses,96.000 km,27604500
+Volkswagen,Golf,2015,Tsi 2015,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 1 año,87.000 km,20000000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Plateado,Nafta,5,Manual,1.4,Hatchback,Publicado hace 11 días,123.000 km,18000
+Volkswagen,Confoline,2018,1.4l Mt 2018,Negro,Nafta,5,Manual,1.4,Hatchback,Publicado hace 7 meses,59.000 km,21500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,136.000 km,20800000
+Volkswagen,Golf,2016,Gti Mk7 2016,Gris,Nafta,5,Automática,2.0,No disponible,Publicado hace 27 días,51.000 km,33000
+Volkswagen,Golf,2017,2.0l Gti 2017,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 11 días,102.000 km,36000
+Volkswagen,Golf,2015,1.4l Tsi Bluemotion Techno Blindado,Azul,Nafta,4,Automática,1.4,Hatchback,Publicado hace 33 días,157.580 km,20900
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,98.000 km,14500
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 1 día,700 km,45000
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 1 día,700 km,45000
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 1 día,700 km,45000
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 1 día,700 km,45000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 58 días,124.000 km,19000
+Volkswagen,Golf,2012,2.0 Vi Gti Nav Tsi 211cv Dsg Año 2012,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 30 días,125.000 km,24300
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 mes,250.000 km,8500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 26 días,112.000 km,19800
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Negro,Nafta,5,Manual,1.4,Hatchback,Publicado hace 36 días,146.000 km,21900000
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,110.000 km,18500000
+Volkswagen,Golf,2016,1.4 Bluemotion Techno,Azul,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 10 días,116.000 km,19200000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Blanco,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 27 días,84.000 km,38000
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 días,131.000 km,16000000
+Volkswagen,Golf,2017,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,185.000 km,21299000
+Volkswagen,Golf,2015,Vii 1.4 Tsi Comfortline Dsg 2015,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,76.000 km,22249990
+Volkswagen,Golf,2016,Vii 1.4 Tsi Comfortline Dsg 2016,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 19 días,118.000 km,17200
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,70.200 km,20000000
+Volkswagen,Golf,2013,2.0t Gti Tsi 2013,Azul,Nafta,5,Manual,2,Hatchback,Publicado hace 10 días,99.000 km,23500
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 22 días,150.000 km,9300000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 meses,155.000 km,18000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 10 días,119.800 km,25000000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 11 días,119.300 km,21000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect Auto-mania,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 32 días,57.000 km,43120
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 8 días,51.500 km,37500
+Volkswagen,Golf,2007,1.8 Turbo Gti,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 11 días,230.000 km,9500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,120.000 km,29900000
+Volkswagen,Golf,2009,1.6 Conceptline,Verde,GNC,5,Manual,1.6,Hatchback,Publicado hace 53 días,180.000 km,9200000
+Volkswagen,Golf,2018,1.6 Vii Fsi Trendline L15,Blanco,Nafta,5,Manual,INYECCION MULTI PUNTO,Hatchback,Publicado hace 11 días,82.000 km,25000000
+Volkswagen,Golf,2012,1.6 Conceptline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 20 días,156.000 km,13400
+Volkswagen,Golf,2015,1.6 Vii Fsi Trendline L15,Negro,Nafta,5,Manual,INYECCION MULTI PUNTO,Hatchback,Publicado hace 2 meses,122.000 km,16000
+Volkswagen,Con,2017,Solo 60.199 Km. Vendo Volkswagen Golf 1.4 Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,60.199 km,25500000
+Volkswagen,Golf,2016,1.6 Trendline Charliebrokers,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,100.000 km,16990
+Volkswagen,Golf,2016,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,87.000 km,17900
+Volkswagen,Golf,2005,1.6 Comfortline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,186.000 km,7500
+Volkswagen,Golf,2018,Comforline,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 6 meses,193.330 km,20503000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 20 días,105.000 km,28900
+Volkswagen,Golf,2017,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 43 días,100.000 km,17500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 43 días,91.000 km,21500
+Volkswagen,Golf,2019,Vii 1.4 Tsi Comfortline 2019,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,56.800 km,29500000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 2 meses,75.000 km,23000
+Volkswagen,Golf,2016,1.6l Trendline Nafta Gris Plata 2016 Traut,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 17 días,100.000 km,23500000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 26 días,58.000 km,32990
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Dorado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,120.000 km,25300000
+Volkswagen,Golf,2015,1.4 Vii Tsi Bluemotion Tech Comfortline Dsg,Gris,Nafta,5,Automática,TURBOALIMENTADO,Hatchback,Publicado hace 19 días,80.200 km,23950000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,124.000 km,19500
+Volkswagen,Golf,2015,Vii 1.6 Fsi Trendline 2015,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 44 días,115.000 km,19899000
+Volkswagen,Golf,2017,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 37 días,59.900 km,34500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 38 días,115.071 km,19900
+Volkswagen,Golf,2017,2017 1.6 Trendline,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,125.000 km,16500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,51.000 km,27000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 8 días,187.000 km,31000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 26 días,115.000 km,17500
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Plateado,Nafta,5,Manual,2.0,Hatchback,Publicado hace 43 días,120.000 km,21500
+Volkswagen,Golf,2004,1.8 Gti Highline,Gris,Nafta,5,Automática,1.8,Hatchback,Publicado hace 3 meses,170.000 km,10000
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 25 días,139.500 km,8900000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 52 días,71.000 km,29500000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,130.000 km,20600000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,75.000 km,33000
+Volkswagen,Golf,2016,"1,4 Tsi Bluemotion Techno",Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 5 meses,149.810 km,19500000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 24 días,38.900 km,25500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Dorado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 53 días,127.000 km,23000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,134.000 km,22000
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,144.000 km,8800
+Volkswagen,Golf,2003,1.6 Format,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 días,190.000 km,5500
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Negro,Nafta,5,Manual,2.0,Hatchback,Publicado hace 38 días,96.400 km,24000
+Volkswagen,Golf,2011,2.0 Advance Mt,Negro,Nafta,5,Manual,2.0,Hatchback,Publicado hace 5 meses,167.000 km,10700
+Volkswagen,Golf,2019,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 días,92.100 km,22500
+Volkswagen,Golf,2011,1.6 Advance,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 días,139.000 km,13400000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 41 días,150.000 km,18500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,103.000 km,23700
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,118.000 km,17500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Rojo,Nafta,5,Manual,1.4,Hatchback,Publicado hace 5 días,210.000 km,16900
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 17 días,128.000 km,17900
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 34 días,111.111 km,24000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,121.000 km,16500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,149.000 km,19000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 8 meses,84.985 km,22000
+Volkswagen,Golf,2017,Gti 2.0 Tsi Dsg App Connect 2016 Excelente!!,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 1 año,41.000 km,31500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 9 días,124.474 km,23500000
+Volkswagen,Golf,2017,No disponible,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 29 días,74.000 km,16900
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,132.000 km,20500000
+Volkswagen,Golf,2011,1.6 Conceptline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,124.000 km,11500000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,117.000 km,26500000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 26 días,79.000 km,23900
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,95.000 km,20500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 meses,110.000 km,28000000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 meses,100.000 km,28000000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg 2017 Km 114000 Titular!!,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 días,114.000 km,23500000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,80.000 km,19500
+Volkswagen,Golf,2008,1.6 Advance,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,161.000 km,10500
+Volkswagen,Golf,2004,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 22 días,200.000 km,6000
+Volkswagen,Golf,2018,Comfortline Dsg 1.4t 2018,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 año,104.000 km,20800
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 2 días,65.000 km,37000
+Volkswagen,Golf,2006,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 días,165.000 km,8500000
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 9 días,120.000 km,18000000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 días,107.000 km,32990
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv Dsg,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 12 días,150.000 km,27000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 27 días,90.000 km,26500000
+Volkswagen,Golf,2011,1.6 Advance,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,135.000 km,9200
+Volkswagen,1.6,2005,No disponible,Plateado,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 6 días,140.000 km,10900000
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,120.000 km,18000000
+Volkswagen,Golf,2019,2.0 Gti Blindado Rb3 Bullet Proof,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 meses,60.000 km,44900
+Volkswagen,Golf,2015,2015 1.4 Comfortline Tsi,No disponible,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 años,70.000 km,20000
+Volkswagen,Golf,2019,2.0 Gti Tsi 2019 Compro,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 23 días,40.000 km,40000000
+Volkswagen,Golf,2000,Cabrio Karmann 2.0 1996,Negro,Nafta,3,Manual,2.0,Cabriolet,Publicado hace 2 meses,130.000 km,12500
+Volkswagen,1.8,1998,Mi 5 Puertas Full Excelente Estado !!!!,Gris,Nafta,5,Manual,1.8,Sedán,Publicado hace 39 días,295.000 km,5900000
+Volkswagen,Golf,2000,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 2 días,148.000 km,7500000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,140.000 km,23500
+Volkswagen,Golf,2019,Confortline 1.4,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 meses,116.000 km,25500000
+Volkswagen,Golf,2005,1.6 Comfortline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 23 días,162.000 km,7800
+Volkswagen,Golf,2007,1.9 Tdi Comfortline,Gris,Diésel,5,Manual,1.9,Hatchback,Publicado hace 13 días,290.000 km,8000000
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 22 días,84.000 km,39000
+Volkswagen,Golf,2015,1.6 2015 Excelente Oportunidad!!,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,130.000 km,15500
+Volkswagen,Golf,2011,2.0 Advance Mt,Gris,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 30 días,199.000 km,10250000
+Volkswagen,Golf,2016,1.4 Bluemotion Techno,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 5 días,116.000 km,9800000
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 54 días,132.000 km,14000
+Volkswagen,Golf,2015,2015 1.6 Trendline,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 meses,85.000 km,17800000
+Volkswagen,Golf,1998,2.0 Gti 1996,Azul,Nafta,3,Automática,2.0,Coupé,Publicado hace 10 días,173.000 km,20000000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 27 días,99.863 km,22500000
+Volkswagen,Golf,2016,1.4 Tsi Bluemotion Techno /2016,Negro,Nafta,5,Automática secuencial,No disponible,No disponible,Publicado hace 21 días,83.643 km,17790
+Volkswagen,Golf,2015,2015,No disponible,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 39 días,162.500 km,15000
+Volkswagen,Golf,2016,1.4 Tsi Bluemotion Techno,Azul,Nafta,5,Automática secuencial,1.4,Hatchback,Publicado hace 2 meses,140.000 km,18500
+Volkswagen,1.8,1998,No disponible,Violeta,Nafta,4,Manual,1.8,Sedán,Publicado hace 3 meses,153.000 km,7500
+Volkswagen,Golf,2015,1.6 2015,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 4 días,130.000 km,19900000
+Volkswagen,Golf,2011,1.6 Conceptline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 18 días,199.000 km,10500000
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 55 días,211.000 km,17399000
+Volkswagen,Golf,2016,1.4l Tsi Bluemotion Techno,Azul,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 23 días,114.532 km,18400000
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 30 días,63.000 km,42000
+Volkswagen,Golf,2006,2006 1.6 Comfortline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 10 meses,187.000 km,7000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 9 días,11.111 km,18900
+Volkswagen,Golf,2019,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 meses,80.000 km,24700
+Volkswagen,Golf,2019,2.0 Gti Tsi App Connect + Cuero,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,78.000 km,40000
+Volkswagen,Golf,2007,1.6 Format,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 34 días,180.000 km,8500
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 34 días,34.000 km,46800
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 5 meses,108.000 km,31500
+Volkswagen,Golf,2000,1.6 Format,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 25 días,169.000 km,5500000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 meses,65.000 km,22000
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 días,87.000 km,20000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 35 días,60.000 km,36000
+Volkswagen,Golf,2000,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,160.000 km,12000
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 16 días,163.600 km,8000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 17 días,120.000 km,21000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,105.000 km,26000
+Volkswagen,Golf,2004,1.9 Tdi Comfortline,Plateado,Diésel,5,Manual,1.9,Hatchback,Publicado hace 2 meses,282.000 km,7500000
+Volkswagen,Golf,2015,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 22 días,132.900 km,17000000
+Volkswagen,Golf,2003,2003 1.6 Comfortline,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 meses,220.000 km,6900000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 12 días,67.000 km,33500
+Volkswagen,Golf,2005,1.6 Comfortline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,230.000 km,5800000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 16 días,122.000 km,25000000
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 37 días,43.000 km,42000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 48 días,80.000 km,24700
+Volkswagen,Golf,2005,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,210.000 km,10500
+Volkswagen,Golf,2009,2009 1.6 Advance,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,173.000 km,8500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 días,137.000 km,18000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 días,106.000 km,17000
+Volkswagen,Golf,2000,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 3 días,205.000 km,8700000
+Volkswagen,Golf,2004,1.6 Format,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,160.237 km,9000000
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 9 días,187.000 km,7700
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,85.800 km,22800
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,77.000 km,16500
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,147.500 km,15500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 16 días,92.000 km,22500
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv Dsg,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 17 días,128.000 km,22000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 26 días,166.000 km,15200
+Volkswagen,Golf,2021,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 31 días,34.500 km,33500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,97.000 km,17900
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,72.600 km,25000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,76.000 km,24500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 meses,101.000 km,21500
+Volkswagen,Golf,2004,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 3 meses,125.000 km,9000
+Volkswagen,Golf,2004,1.8 Gti Highline Tap Cuero,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 4 meses,167.000 km,15000
+Volkswagen,Golf,2016,2016 1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 meses,90.000 km,20000
+Volkswagen,Golf,2001,2001 1.6 Format,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 años,180.000 km,7000
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Rojo,Nafta,5,Manual,2.0,Hatchback,Publicado hace 1 día,70.000 km,27000
+Volkswagen,Golf,2000,1.8 Turbo Gti,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 1 día,154.000 km,10500
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,76.000 km,21500
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 días,87.000 km,20000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 35 días,60.000 km,36000
+Volkswagen,Golf,2000,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,160.000 km,12000
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 16 días,163.600 km,8000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 17 días,120.000 km,21000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,105.000 km,26000
+Volkswagen,Golf,2004,1.9 Tdi Comfortline,Plateado,Diésel,5,Manual,1.9,Hatchback,Publicado hace 2 meses,282.000 km,7500000
+Volkswagen,Golf,2015,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 22 días,132.900 km,17000000
+Volkswagen,Golf,2003,2003 1.6 Comfortline,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 meses,220.000 km,6900000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 12 días,67.000 km,33500
+Volkswagen,Golf,2005,1.6 Comfortline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,230.000 km,5800000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 16 días,122.000 km,25000000
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 37 días,43.000 km,42000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 48 días,80.000 km,24700
+Volkswagen,Golf,2005,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,210.000 km,10500
+Volkswagen,Golf,2009,2009 1.6 Advance,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,173.000 km,8500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 días,137.000 km,18000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 días,106.000 km,17000
+Volkswagen,Golf,2000,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 3 días,205.000 km,8700000
+Volkswagen,Golf,2004,1.6 Format,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,160.237 km,9000000
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 9 días,187.000 km,7700
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,85.800 km,22800
+Volkswagen,Golf,2015,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,77.000 km,16500
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,147.500 km,15500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 16 días,92.000 km,22500
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv Dsg,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 17 días,128.000 km,22000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 26 días,166.000 km,15200
+Volkswagen,Golf,2021,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 31 días,34.500 km,33500
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,97.000 km,17900
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 33 días,72.600 km,25000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,76.000 km,24500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 meses,101.000 km,21500
+Volkswagen,Golf,2004,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 3 meses,125.000 km,9000
+Volkswagen,Golf,2004,1.8 Gti Highline Tap Cuero,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 4 meses,167.000 km,15000
+Volkswagen,Golf,2016,2016 1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 meses,90.000 km,20000
+Volkswagen,Golf,2001,2001 1.6 Format,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 años,180.000 km,7000
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Rojo,Nafta,5,Manual,2.0,Hatchback,Publicado hace 1 día,70.000 km,27000
+Volkswagen,Golf,2000,1.8 Turbo Gti,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 1 día,154.000 km,10500
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,76.000 km,21500
+Volkswagen,Golf,2002,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 7 días,253.400 km,10000000
+Volkswagen,Golf,2008,2.0 Highline Tiptronic,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 8 días,185.000 km,9850000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 días,61.500 km,31000
+Volkswagen,Golf,2016,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 17 días,148.000 km,14500
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 50 días,230.000 km,8600000
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Negro,Nafta,5,Manual,2.0,Hatchback,Publicado hace 2 meses,151.200 km,26000
+Volkswagen,Golf,2013,2.0 Vi Gti Nav Tsi 211cv Dsg,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 7 meses,85.000 km,24000
+Volkswagen,Golf,2018,Gti Mk 7.5 Año Dsg 2018,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 7 meses,54.000 km,44500
+Volkswagen,Golf,2004,1.9 Tdi Comfortline,Azul,Diésel,5,Manual,1.9,Hatchback,Publicado hace 1 día,261.000 km,8500000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,77.000 km,24000
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect,Rojo,Nafta,5,Automática,2.0,Hatchback,Publicado hace 8 días,56.000 km,34000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática secuencial,1.4,Hatchback,Publicado hace 8 días,65.875 km,23500000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 11 días,100.000 km,21500
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 12 días,170.000 km,10500000
+Volkswagen,Golf,1998,1.8 Gti Highline Tiptronic,Beige,Nafta,5,Automática,1.8,Hatchback,Publicado hace 12 días,211.065 km,4800000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 14 días,83.000 km,22000
+Volkswagen,Golf,2004,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 16 días,220.000 km,9900000
+Volkswagen,Golf,2017,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 19 días,155.000 km,15300
+Volkswagen,Golf,2008,2.0 Highline,Azul,Nafta,5,Manual,2.0,Hatchback,Publicado hace 20 días,156.000 km,13000000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Negro,Nafta,5,Manual,1.4,Hatchback,Publicado hace 23 días,99.500 km,18500000
+Volkswagen,Golf,2003,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 24 días,200.000 km,6500
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,145.000 km,6100
+Volkswagen,Golf,2006,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,124.000 km,8700
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 2 días,61.000 km,35500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 días,179.000 km,18000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 6 días,138.000 km,16500
+Volkswagen,Golf,2006,1.8 Gti Highline Tiptronic+tap Cuero,Negro,Nafta,5,Automática,1.8,Hatchback,Publicado hace 8 días,142.000 km,10000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,98.200 km,21000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,155.000 km,25000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,65.000 km,28000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 25 días,91.000 km,21000000
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 48 días,172.000 km,8000
+Volkswagen,Golf,2017,Gti,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,53.250 km,37900
+Volkswagen,Golf,2016,2016 1.6 Trendline,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,140.000 km,15000
+Volkswagen,Golf,2002,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 1 día,210.000 km,8300
+Volkswagen,Golf,2004,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 2 días,230.000 km,8000000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect + Cuero,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 4 días,52.000 km,36700
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 7 días,87.000 km,30000
+Volkswagen,Golf,2012,Gti 2.0 Tsi 211cv,Azul,Nafta,5,Manual,2.0,Hatchback,Publicado hace 13 días,126.000 km,24500
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 13 días,54.000 km,40000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 13 días,109.000 km,20800
+Volkswagen,Golf,2004,1.6 Advance,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 19 días,179.000 km,9000000
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 22 días,80.000 km,37500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 27 días,81.500 km,25000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 45 días,109.777 km,27500000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 47 días,87.000 km,24500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,158.000 km,15000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Blanco,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 meses,142.000 km,19500
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,105.500 km,23000
+Volkswagen,Golf,2016,1.6 Trendline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 4 meses,99.000 km,15600
+Volkswagen,Golf,2016,2016 1.4 Comfortline Tsi,No disponible,Nafta,5,Manual,1.4,Hatchback,Publicado hace 11 meses,138.000 km,17000
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,137.000 km,9500000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,78.000 km,18900
+Volkswagen,Golf,2011,1.6 Advance,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 días,130.000 km,11000
+Volkswagen,Golf,2002,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 días,204.000 km,9000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 6 días,140.000 km,15000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 8 días,135.000 km,17000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 9 días,132.500 km,20500000
+Volkswagen,Golf,2016,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,117.000 km,16500
+Volkswagen,Golf,2016,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,100.000 km,17500000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Rojo,Nafta,5,Manual,1.4,Hatchback,Publicado hace 13 días,115.000 km,20000
+Volkswagen,Golf,2005,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 17 días,197.000 km,7500
+Volkswagen,Golf,1999,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 18 días,169.000 km,14500
+Volkswagen,Golf,2004,Gti 1.8 Turbo 180hp,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 19 días,223.000 km,15500
+Volkswagen,Golf,2016,2.0 Gti Tsi App Connect + Cuero,Beige,Nafta,5,Automática,2.0,Hatchback,Publicado hace 19 días,124.000 km,29000
+Volkswagen,Golf,2012,2.0 Ví Gti Tsi 211 Cv Dsg 2012,Rojo,Nafta,2,Automática,2.0,Hatchback,Publicado hace 24 días,117.300 km,25000
+Volkswagen,Golf,2021,2021 Highline Dsg 1.4 250 Tsi,Blanco,Nafta,5,Automática,1.4 Turbo,Hatchback,Publicado hace 27 días,69.000 km,31000
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 41 días,107.000 km,21000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 50 días,119.000 km,19200
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,169.000 km,17000
+Volkswagen,Golf,2004,1.6 Format,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,207.000 km,7000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 2 meses,32.000 km,30000000
+Volkswagen,Golf,2004,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,155.000 km,8000
+Volkswagen,Golf,2015,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,151.000 km,16200000
+Volkswagen,Golf,2009,1.8 Turbo Gti,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 4 meses,150.000 km,13000
+Volkswagen,Al,2006,Día. Se Va Transferido,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,179.000 km,7400
+Volkswagen,Golf,2006,1.6 Comfortline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,153.000 km,8500
+Volkswagen,Golf,2008,2.0 Highline,Negro,Nafta,5,Manual,2.0,Hatchback,Publicado hace 7 meses,185.000 km,7800
+Volkswagen,Golf,1998,1.8 Turbo Gti,Gris,Diésel,5,Manual,1.8,Hatchback,Publicado hace 1 día,230.000 km,5000000
+Volkswagen,Golf,2015,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 4 días,170.000 km,13500
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,94.500 km,18000
+Volkswagen,Golf,2000,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 días,162.000 km,8000
+Volkswagen,Golf,2000,Gti 1999,Plateado,Nafta,5,Automática,1.8,Hatchback,Publicado hace 10 días,93.000 km,12000
+Volkswagen,Golf,2016,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,45.000 km,18500
+Volkswagen,Golf,2006,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 12 días,180.000 km,7400
+Volkswagen,Golf,2013,2.0 Vi Gti Nav Tsi 211cv Dsg,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 15 días,116.200 km,25500
+Volkswagen,Golf,2018,2018 Dsg Comfortline Único Dueño- Particular,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 27 días,92.000 km,20800
+Volkswagen,1.4,2016,Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 28 días,96.000 km,17300
+Volkswagen,Golf,2018,2.0 Gti Tsi App Connect,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 35 días,60.000 km,37900
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 46 días,110.000 km,22800
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 54 días,120.000 km,15500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,113.000 km,15000
+Volkswagen,Golf,1998,2.0 Highline,Verde,Nafta,5,Manual,2.0,Hatchback,Publicado hace 4 meses,222.000 km,6700000
+Volkswagen,Golf,1998,2.0 Highline,Rojo,Nafta,5,Manual,2.0,Hatchback,Publicado hace 1 día,245.000 km,7500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 4 días,140.000 km,23000
+Volkswagen,Golf,2003,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 5 días,270.000 km,7900000
+Volkswagen,Golf,2015,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,108.000 km,15900
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 12 días,21.000 km,30000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 15 días,119.000 km,18500
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect + Cuero,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 15 días,79.000 km,34000
+Volkswagen,Golf,2000,1.6 Advance,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 16 días,300.000 km,4500000
+Volkswagen,Golf,2007,1.6 Comfortline,Plateado,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 17 días,195.000 km,10000000
+Volkswagen,Golf,2013,2.0 Vi Gti Tsi 211cv Dsg,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 20 días,89.600 km,25500
+Volkswagen,Golf,2013,2.0 Vi Gti Tsi 211cv Dsg,Plateado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 20 días,87.400 km,26700
+Volkswagen,Golf,2001,1.8 Turbo Gti,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,220.000 km,8500
+Volkswagen,Golf,1999,1.8 Turbo Gti,Blanco,Nafta,5,Manual,1.8,Hatchback,Publicado hace 5 meses,160.000 km,11100
+Volkswagen,Golf,2013,Gti 2.0 Blindado Rb3,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 2 meses,73.000 km,27000
+Volkswagen,Golf,2016,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 49 días,92.000 km,15000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,103.000 km,25014200
+Volkswagen,Golf,2007,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,142.000 km,10000000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 1 día,109.000 km,21500
+Volkswagen,Golf,2015,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 días,156.000 km,17500000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 días,121.700 km,18600
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Negro,Nafta,5,Manual,1.4,Hatchback,Publicado hace 8 días,136.000 km,16800
+Volkswagen,Golf,1999,Sr,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 10 días,215.000 km,5800
+Volkswagen,Golf,2016,1.6 Trendline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,92.000 km,16300
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 13 días,120.000 km,21000000
+Volkswagen,Golf,2007,1.6 Format,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 19 días,240.000 km,10000000
+Volkswagen,Golf,2003,1.6 Comfortline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 20 días,60.000 km,6500000
+Volkswagen,Golf,2004,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 36 días,150.000 km,8800
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,91.000 km,20500
+Volkswagen,Golf,2018,1.6 Trendline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,36.000 km,18800
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 1 día,143.000 km,18500
+Volkswagen,Golf,2008,1.6 Advance,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,162.000 km,9000
+Volkswagen,Golf,2001,1.6 Comfortline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 14 días,278.600 km,7000000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg Impecable,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,47.300 km,29500
+Volkswagen,Golf,2004,1.6 Format,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,217.000 km,7200000
+Volkswagen,Golf,2003,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 días,218.000 km,5500
+Volkswagen,Golf,2000,2.0 Highline At,Azul,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 días,148.900 km,8500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 40 días,98.000 km,21000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 41 días,72.000 km,23500
+Volkswagen,Golf,2016,1.6 Trendline,Dorado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 46 días,93.000 km,18500000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Rojo,Nafta,5,Manual,1.4,Hatchback,Publicado hace 2 meses,130.000 km,15700
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 15 días,110.800 km,18000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 16 días,80.000 km,24000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,105.000 km,19500
+Volkswagen,Golf,2002,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 años,192.000 km,6500000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,82.000 km,24000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 4 días,65.000 km,25000
+Volkswagen,Golf,2004,1.6 Comfortline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 días,171.000 km,9000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 24 días,130.000 km,20900
+Volkswagen,Golf,1999,1.9 Tdi Comfortline,Blanco,Diésel,5,Manual,1.9,Hatchback,Publicado hace 3 meses,200.000 km,5000000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 meses,99.600 km,21000
+Volkswagen,Golf,1999,1.8 Turbo Gti,Rojo,Nafta,5,Manual,1.8,Hatchback,Publicado hace 1 día,141.000 km,10500
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Beige,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 días,109.800 km,21000000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 17 días,134.000 km,23000
+Volkswagen,Golf,1999,1.8 Turbo Gti,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 1 día,195.000 km,11000
+Volkswagen,Golf,2016,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 4 días,195.000 km,16000000
+Volkswagen,Golf,2004,1.6 Comfortline,Gris,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 5 días,250.000 km,8500000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 6 días,120.000 km,18600
+Volkswagen,Golf,1999,1.6 Format,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 9 días,240.000 km,8000000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 10 días,80.000 km,23500
+Volkswagen,Golf,2000,1.8 Turbo Gti,Naranja,Nafta,5,Manual,1.8,Hatchback,Publicado hace 17 días,160.000 km,7000
+Volkswagen,1.6,2005,Confortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 18 días,257.000 km,8500000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,88.000 km,28200
+Volkswagen,1.6,2005,Confortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 18 días,257.000 km,8500000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 20 días,88.000 km,28200
+Volkswagen,Golf,2005,2.0 Highline,Gris,Nafta,5,Manual,2.0,Hatchback,Publicado hace 58 días,250.000 km,8000000
+Volkswagen,Golf,2006,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 5 meses,188.000 km,10000000
+Volkswagen,Golf,2008,1.6 Advance,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 meses,243.000 km,6700
+Volkswagen,Golf,2017,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 días,93.000 km,19900000
+Volkswagen,Golf,2000,1.6 Comfortline,Rojo,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 3 días,270.000 km,6200000
+Volkswagen,Golf,2006,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 11 días,240.000 km,5600
+Volkswagen,Golf,2010,1.6 Advance,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,160.000 km,9500
+Volkswagen,Golf,2004,1.6 Format,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,189.000 km,7800000
+Volkswagen,Golf,2009,1.6 Advance,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 21 días,128.000 km,10500
+Volkswagen,Golf,2017,1.6 Trendline,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 26 días,142.000 km,17000000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4 turbo,Hatchback,Publicado hace 28 días,90.000 km,22000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 57 días,55.000 km,20000
+Volkswagen,Golf,2021,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 4 meses,42.500 km,42000
+Volkswagen,Mk3,1999,Glx 2.0,Verde,GNC,4,Manual,2.0,Sedán,Publicado hace 5 meses,200.000 km,2900000
+Volkswagen,Tdi,1999,Sportedition,Negro,Diésel,3,Manual,1.9,Coupé,Publicado hace 6 meses,156.000 km,11500
+Volkswagen,Golf,2017,Nada Para Hacerle Se Usa Como Segundo Auto.,Negro,Nafta,5,Manual,1.4,No disponible,Publicado hace 27 días,130.000 km,17000
+Volkswagen,Golf,1999,Mk2 20v Turbo,Verde,Nafta,5,Manual,1.8,Sedán,Publicado hace 7 meses,111.111 km,13000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 días,129.000 km,17500
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 6 días,134.000 km,25000
+Volkswagen,Golf,2000,2.0 Highline,Verde,Nafta,5,Manual,2.0,Hatchback,Publicado hace 8 días,166.000 km,7500000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 15 días,55.000 km,28000
+Volkswagen,Golf,1998,Cabrio Año 97,Negro,Nafta,2,Manual,2.0,Cabriolet,Publicado hace 18 días,59.500 km,20000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,66.000 km,24000
+Volkswagen,Golf,2011,2011 2.0 Advance Mt,No disponible,Nafta,5,Manual,2.0,Hatchback,Publicado hace 11 meses,170.000 km,9800
+Volkswagen,Golf,2006,1.6 Comfortline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 5 días,197.000 km,8100000
+Volkswagen,Golf,2008,1.6 Advance,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,250.000 km,7500000
+Volkswagen,Golf,2009,1.6 Conceptline,Negro,Nafta,5,Manual,1.6,Hatchback,Publicado hace 10 días,179.000 km,8800
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 11 días,144.000 km,19500000
+Volkswagen,Golf,2017,2.0 Gti Tsi App Connect,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 14 días,76.000 km,32500
+Volkswagen,Golf,2011,2.0 Advance Mt,Blanco,Nafta,5,Manual,2.0,Hatchback,Publicado hace 18 días,82.000 km,13000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 27 días,60.000 km,23500
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 44 días,112.000 km,23600
+Volkswagen,Golf,2016,1.4 Comfortline Tsi,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 3 meses,115.000 km,17500
+Volkswagen,Golf,2015,1.4 Highline Tsi Dsg,Negro,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,107.000 km,19000
+Volkswagen,Golf,2019,1.4 Comfortline Tsi Dsg,Rojo,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 años,59.000 km,29000000
+Volkswagen,Golf,1998,1.8 Mi,Beige,Nafta,4,Manual,No disponible,No disponible,Publicado hace 7 días,163.000 km,8000000
+Volkswagen,Golf,1999,1.8 Mi Mexicano Nafta Motor Audi Unico Hoy!,Rojo,Nafta,5,Manual,Audi,Sedán,Publicado hace 2 meses,210.000 km,5000
+Volkswagen,Gtd,1998,1.8 Sedan 5 Ptas,Rojo,Diésel,5,Manual,1.8,Sedán,Publicado hace 1 día,218.000 km,3800000
+Volkswagen,Golf,2006,1.6 Format,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 días,231.000 km,12290000
+Volkswagen,Golf,2005,1.6 Comfortline,Gris,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 2 días,400.000 km,8200000
+Volkswagen,Golf,2018,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 5 días,35.000 km,30000000
+Volkswagen,Mk3,1998,1.8 Mi,Dorado,Nafta,5,Manual,1.8,No disponible,Publicado hace 24 días,220.000 km,6400
+Volkswagen,Golf,2006,1.6 Conceptline,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 26 días,160.000 km,8000
+Volkswagen,Golf,2016,1.6 Trendline,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,89.000 km,20500000
+Volkswagen,Golf,2004,1.8 Turbo Gti,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 17 días,193.000 km,9000000
+Volkswagen,Golf,1998,Gl Mí 1.8 Mexicano,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 3 meses,243.000 km,5500000
+Volkswagen,Patentes,2000,"Al Día ,año 1997",Blanco,Nafta,5,Manual,1.8,No disponible,Publicado hace 45 días,230.000 km,4700
+Volkswagen,Golf,2022,1.8 Gl,Azul,Nafta,5,Manual,1.8,No disponible,Publicado hace 2 meses,266.000 km,4000
+Volkswagen,Golf,2004,1.6 Comfortline,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 24 días,1.000.000 km,7200000
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 26 días,52.000 km,23500
+Volkswagen,Golf,2017,2.0 Gti Tsi #mkt,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,84.729 km,29000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,100.000 km,20000000
+Volkswagen,Golf,2015,1.4 Comfortline Tsi,Azul,Nafta,5,Manual,1.4,Hatchback,Publicado hace 25 días,116.000 km,14800
+Volkswagen,Golf,2016,Gti 2.o Tsi Dsg App Connect 2016 La Mejor!!!,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 2 años,40.000 km,31500
+Volkswagen,Golf,2013,Gti,Rojo,Nafta,5,Manual,2.0,Hatchback,Publicado hace 1 año,31.700 km,29500
+Volkswagen,Golf,2020,2.0 Gti Tsi App Connect + Cuero,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 10 meses,29.000 km,43000
+Volkswagen,Golf,2013,2.0 Vi Gti Tsi 211cv Dsg,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,135.000 km,20500
+Volkswagen,Golf,2018,1.4 Comfortline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,67.000 km,25800000
+Volkswagen,Golf,2018,1.4t Comfortline Tsi Dsg Blanco 2018,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 3 meses,89.000 km,20900
+Volkswagen,Golf,2019,2.0 Gti Tsi,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,30.000 km,40500
+Volkswagen,Golf,2013,2.0 Vi Gti Nav Tsi 211cv Dsg,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 52 días,123.542 km,17000
+Volkswagen,Golf,2017,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,95.000 km,5300000
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Plateado,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,86.000 km,25000000
+Volkswagen,Golf,2016,1.4 Comfortline Tsi Dsg,Azul,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,140.000 km,9500
+Volkswagen,Golf,2018,2.0 Gti Tsi,Dorado,Nafta,5,Automática,2.0,Hatchback,Publicado hace 24 días,80.000 km,34900
+Volkswagen,Golf,2012,2.0 Vi Gti Tsi 211cv,Azul,Nafta,5,Manual,2.0,Hatchback,Publicado hace 3 meses,92.000 km,23000
+Volkswagen,Golf,2016,1.4 Tsi Comfortline At Dsg Oportunidad!!,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 7 meses,115.000 km,18900
+Volkswagen,Golf,2017,1.4 Highline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 24 días,38.900 km,20600000
+Volkswagen,Golf,2017,1.6 Trendline,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,95.000 km,5799000
+Volkswagen,Golf,2017,1.4 Comfortline Tsi Dsg,Gris,Nafta,5,Automática,1.4,Hatchback,Publicado hace 2 meses,90.000 km,12000
+Volkswagen,Golf,2016,1.4 Highline Tsi Dsg,Blanco,Nafta,5,Automática,1.4,Hatchback,Publicado hace 24 días,116.000 km,16900
+Volkswagen,Gti,2017,2.0,Blanco,Nafta,5,Automática,2.0,Hatchback,Publicado hace 7 meses,108.000 km,28900
+Volkswagen,Golf,2005,2.0 Highline At,Negro,Nafta,5,Automática,2.0,Hatchback,Publicado hace 3 meses,141.000 km,8000000
+Volkswagen,Golf,1999,1.8,Blanco,Nafta,5,Manual,1.8,No disponible,Publicado hace 7 meses,220.000 km,5800000

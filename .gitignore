@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Entorno virtual y configuración local
+venv/
+.env
+*.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+
+# Ignorar datos temporales o cachés
+data/cache_*.pkl
+data/tmp_*.pkl
+
+# **NO** ignorar estos archivos que tu app necesita:
+!data/mejor_modelo_xgb.pkl
+!data/columnas_modelo.pkl
+!data/scaler.pkl
+!data/autos_limpios.csv

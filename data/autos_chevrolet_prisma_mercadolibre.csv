@@ -1,0 +1,578 @@
+Marca,Modelo,Año,Versión,Color,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Fecha publicación,Kilómetros,Precio
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,85.000 km,14989900
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,139.000 km,10100000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,139.000 km,13989900
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,23.243 km,17550000
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,70.288 km,16800000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,75.000 km,16989900
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,77.199 km,14437000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 26 días,69.287 km,18700000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,82.000 km,13190000
+Chevrolet,Prisma,2020,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,55.000 km,18600000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 4 meses,101.000 km,12000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,97.500 km,13700000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,135.860 km,12700000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv Automatico 2018,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 11 días,98.000 km,15900000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv Kb,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 14 días,33.772 km,17000000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Negro,Nafta/GNC,4,Automática,1.4,Sedán,Publicado hace 26 días,90.000 km,12990
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,86.000 km,3800
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,85.000 km,14800000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,70.000 km,14890900
+Chevrolet,Prisma,2017,1.4 Lt L17 2017,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,92.000 km,14300000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Plateado,Nafta,4,Automática,1.4,Sedán,Publicado hace 49 días,132.095 km,14800000
+Chevrolet,Prisma,2015,1.4 Ltz L13 2015 - Rpm Moviles,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 32 días,116.000 km,13400000
+Chevrolet,Prisma,2020,Lt Automatico 1.4l,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,61.000 km,19000000
+Chevrolet,Prisma,2013,1.4 Lt Full Gnc Oportunidad Modelo 2013!,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 39 días,165.000 km,10000000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,18.000 km,10500000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta/GNC,4,Automática,1.4,Sedán,Publicado hace 21 días,93.000 km,16000000
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 34 días,60.000 km,19000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 41 días,89.500 km,13700000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,174.000 km,10999999
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 39 días,152.000 km,14450000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,120.000 km,11000000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,139.785 km,14500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,119.000 km,13500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 32 días,90.000 km,11000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 40 días,62.471 km,16689000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,51.000 km,12700
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,5,Manual,1.4,Sedán,Publicado hace 28 días,135.247 km,12900000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 2 meses,96.000 km,12600
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,93.000 km,15500000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,70.000 km,12000
+Chevrolet,Prisma,2012,1.4 Ls 92cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 51 días,135.000 km,8800
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,62.000 km,17500000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,94.000 km,12800000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 28 días,88.000 km,12500
+Chevrolet,Prisma,2014,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 39 días,90.000 km,10500
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 40 días,128.500 km,13600000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 46 días,155.000 km,13500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,128.000 km,13370000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,128.000 km,13370000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Azul,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 8 días,140.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,79.000 km,15800000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,103.000 km,14500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 10 días,170.000 km,10500
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,175.000 km,10900000
+Chevrolet,Prisma,2018,1.4 Lt 98cv-permuto-financio-,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,120.000 km,15900000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Azul,Nafta,4,Automática,1.4,Sedán,Publicado hace 49 días,36.000 km,14990
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Verde,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,98.000 km,10700
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 18 días,209.500 km,12700000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,30.000 km,15900000
+Chevrolet,Prisma,2018,Joy 1.4 Ls 98cv Gnc Titular Primera Mano,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,142.500 km,11500000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,90.000 km,12500
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,161.018 km,13700000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,90.000 km,15000000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,84.111 km,10500
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 58 días,139.140 km,11000
+Chevrolet,Permuto,2016,- Vendo Prisma 1.4 N Lt 4 Puertas Naftero Al Dia,Plateado,Nafta,5,Manual,1.4,Sedán,Publicado hace 3 meses,68.000 km,13000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,140.000 km,11500
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,140.000 km,11500
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,136.000 km,14900000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,95.000 km,13500
+Chevrolet,Prisma,2021,1.4 Ltz 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,49.000 km,12800
+Chevrolet,Prisma,2019,Ltz - Automático,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 28 días,52.000 km,18500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,69.000 km,12500
+Chevrolet,Prisma,2020,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 21 días,32.000 km,16800
+Chevrolet,Prisma,2017,Joy 4p 1.4 N Ls Mt +,PLATA,Nafta,5,Manual,1.4,Sedán,Publicado hace 3 días,117.000 km,13900000
+Chevrolet,Prisma,2017,Lt,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,120.000 km,12800
+Chevrolet,Prisma,2014,1.4 Ltz At,Blanco,Híbrido,4,Automática,1,Sedán,Publicado hace 5 días,178.735 km,12570000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv Usado /fr,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,87.000 km,13499999
+Chevrolet,Prisma,2015,1.4 Ltz 98cv Usado /fr,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,90.000 km,13999999
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv Usado /fr,Rojo,Nafta,4,Automática,1.4,Sedán,Publicado hace 9 días,69.000 km,15499999
+Chevrolet,Prisma,2013,1.4 Ltz,Negro,Híbrido,4,Manual,1,Sedán,Publicado hace 11 días,147.610 km,10780000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv Unico Dueño L.r,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 18 días,117.000 km,16500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,52.100 km,6980000
+Chevrolet,Prisma,2012,1.4 Lt,Negro,Híbrido,4,Manual,1,Sedán,Publicado hace 47 días,34.433 km,8590000
+Chevrolet,Prisma,2018,2018 Ltz 1.4 98cv Full Oscar Automotores,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,120.000 km,16800000
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 6 días,80.820 km,14000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,80.000 km,10500
+Chevrolet,Prisma,2014,1.4 Ltz L13 2014 Gnc,Azul,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 34 días,170.000 km,10500
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,150.000 km,12500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,150.000 km,13500
+Chevrolet,Prisma,2017,Ltz At 1.4,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 7 meses,92.780 km,17000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 41 días,104.000 km,13300000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 51 días,83.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,150.000 km,13499
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,138.000 km,16000000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,173.000 km,7990
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,GNC,4,Manual,1.4,Sedán,Publicado hace 12 días,131.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 14 días,143.000 km,13900000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 18 días,80.000 km,11500
+Chevrolet,Prisma,2018,1.4 Gnc,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 días,78.000 km,9000000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 25 días,90.000 km,12990
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,85.000 km,14000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,135.000 km,9400
+Chevrolet,Prisma,2017,1.4 Ltz M/t 2017 1167468820,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 34 días,115.000 km,12500
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 38 días,98.000 km,10900
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,58.000 km,14800000
+Chevrolet,Prisma,2019,1.4 Lt 98cv La Plata 067,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,33.307 km,17889000
+Chevrolet,Prisma,2016,Ltz Full 1.4n |2016,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 30 días,110.000 km,15899000
+Chevrolet,Prisma,2019,1.4 Joy Ls M/t 2019 46655831,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 40 días,133.000 km,11300
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 41 días,124.249 km,14500000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,123.000 km,11999990
+Chevrolet,Prisma,2018,2018 1.4 Joy Ls + 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,75.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Lt Gnc Impecable Ideal Uber/didi/taxi,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 40 días,130.000 km,13500000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 16 días,150.000 km,10500
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,106.000 km,12900000
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Blanco,Nafta/GNC,4,Automática,1.4,Sedán,Publicado hace 14 días,68.085 km,17500
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Azul,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 19 días,97.992 km,16500
+Chevrolet,Prisma,2011,1.4 Ls 92cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 10 días,130.000 km,10000000
+Chevrolet,Prisma,2014,1.4 Ltz,Café,Híbrido,4,Manual,1,Sedán,Publicado hace 5 días,85.000 km,12700000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,116.900 km,10900
+Chevrolet,Prisma,2020,1.4 Ltz 2020 Permuto Fcio Solo Con Dni,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,66.000 km,15900
+Chevrolet,Prisma,2019,1.4 Ltz At 98cv,Plateado,Nafta,4,Automática,1.4,Sedán,Publicado hace 6 meses,128.000 km,13000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 8 días,80.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,96.000 km,15900000
+Chevrolet,Prisma,2019,Ltz 1.4 { Unico Dueño - Excelente },Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,64.000 km,14800
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,156.000 km,15600000
+Chevrolet,Prisma,2019,1.4 Joy Ls Ad499,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,106.000 km,13600000
+Chevrolet,Prisma,2019,Ltz 2019 Con Gnc,Negro,Nafta/GNC,4,Automática,1.4,Sedán,Publicado hace 6 meses,150.000 km,15500000
+Chevrolet,Prisma,2014,2014 1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 8 meses,136.400 km,12995000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,115.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,140.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 14 días,99.000 km,14400000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,62.000 km,16500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 39 días,115.000 km,15200000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 1 día,100.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 12 días,105.000 km,12500000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,133.000 km,12900000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,41.800 km,18900000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,145.000 km,12500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,96.000 km,14800000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,85.000 km,17000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,72.000 km,13900000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,48.000 km,18900000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 4 meses,234.500 km,9700000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 11 días,159.000 km,16500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 16 días,77.000 km,15300000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,95.000 km,12000000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 18 días,133.000 km,13400000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 45 días,92.000 km,12500
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 12 días,101.533 km,14500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 34 días,80.000 km,15800000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 55 días,126.000 km,13900000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,131.000 km,14800000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,255.000 km,8900
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,122.000 km,10900000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,87.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 16 días,120.000 km,16500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,122.000 km,17000000
+Chevrolet,Prisma,2017,Ltz 87.000 1 Ra Mano Nafta-gnc,Verde,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 28 días,87.000 km,15900000
+Chevrolet,Prisma,2015,2015 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,104.000 km,13000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,131.000 km,16500000
+Chevrolet,Prisma,2013,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 5 días,220.000 km,7900
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,120.000 km,15500000
+Chevrolet,Prisma,2016,1.4 Ltz,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 meses,85.000 km,15500000
+Chevrolet,Prisma,2018,2018 1.4 Joy Ls + 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 meses,100.000 km,15500000
+Chevrolet,Prisma,2016,1.4n Ltz,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,80.000 km,15900000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,92.000 km,15500000
+Chevrolet,"Particular,",2014,"Aire Acondicionado, Dirección,solo Nafta",Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,178.000 km,9400
+Chevrolet,Prisma,2018,Joy 4p 1.4 N Ls Mt +,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,81.738 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,95.000 km,9500000
+Chevrolet,Prisma,2019,1.4 Lt L16,Plata,Nafta,4,Manual,INYECCION MULTI PUNTO,Sedán,Publicado hace 7 días,83.180 km,16990000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Azul,Nafta,4,Automática,1.4,Sedán,Publicado hace 45 días,140.000 km,14600000
+Chevrolet,Prisma,2011,1.4 Lt 92cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,161.000 km,9700000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv Año 2016,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,100.000 km,14700000
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 34 días,90.000 km,8250000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 40 días,96.000 km,14100
+Chevrolet,Prisma,2015,2015 1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 año,76.000 km,14000000
+Chevrolet,Prisma,2015,1.4 Ltz At L14,Gris,Nafta,4,Automática,INYECCION MULTI PUNTO,Sedán,Publicado hace 1 día,178.148 km,11000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 18 días,87.000 km,16000000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,78.230 km,16900000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,120.000 km,12900000
+Chevrolet,Prisma,2015,No disponible,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 meses,140.000 km,12900000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,97.000 km,15900000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,89.200 km,13490000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 49 días,192.421 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,73.500 km,14900000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,70.000 km,15000000
+Chevrolet,Prisma,2015,1.4 Lt 98cv Carwestcaba,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,169.000 km,12700000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,80.000 km,11500
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 45 días,80.000 km,11500
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 50 días,125.000 km,12500000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv Con Gnc,Azul,Nafta,4,Automática,1.4,Sedán,Publicado hace 3 meses,78.000 km,16500000
+Chevrolet,Prisma,2018,Ltz 1.4 Manual 2018,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 año,143.000 km,16000000
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,100.000 km,17500000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,110.000 km,12900000
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ls Joy L17 2018,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,125.000 km,13500000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,45.000 km,17500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 13 días,146.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv No Logan No Cronos No Voyage,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 23 días,129.000 km,16500
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 38 días,98.000 km,13200000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,70.100 km,17900000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,104.000 km,13000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 3 días,125.000 km,14900000
+Chevrolet,Prisma,2020,1.4 Lt 98cv Berazategui 517,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,52.907 km,18592000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,161.000 km,8500
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 18 días,160.000 km,11900
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,123.400 km,11800000
+Chevrolet,Prisma,2020,1.4 Ltz 98cv La Plata 191,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,99.085 km,17537000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,92.000 km,13500000
+Chevrolet,Prisma,2016,1.4 Joy Ls + 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,123.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv La Plata 767,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,84.062 km,15075000
+Chevrolet,Prisma,2015,2015 1.4n Lt,Celeste,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 7 meses,279.000 km,8900
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,150.000 km,15200000
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 3 días,55.000 km,17990
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,105.000 km,14000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 21 días,111.700 km,14888000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 48 días,105.000 km,13500000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 2 meses,76.000 km,13500
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,80.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 39 días,70.000 km,15500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,110.000 km,14200000
+Chevrolet,Prisma,2011,1.4 Ls 92cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,130.000 km,10000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv H.o,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 17 días,117.600 km,7500
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 49 días,180.000 km,11500
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 12 días,84.050 km,15999999
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,56.000 km,13500
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 35 días,115.000 km,14900000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,177.000 km,11900000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,126.000 km,14000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 21 días,178.000 km,12500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,89.000 km,11600
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,107.000 km,13000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,57.501 km,13400
+Chevrolet,Prisma,2017,No disponible,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 31 días,177.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,50.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,60.000 km,15500000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,100.000 km,14800000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,94.000 km,17500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,126.000 km,14200000
+Chevrolet,Prisma,2019,2019 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,108.000 km,12500
+Chevrolet,Prisma,2017,Joy 4p 1.4 N Ls 2017,Gris,Nafta,5,Manual,1.4,Sedán,Publicado hace 7 meses,145.130 km,10499
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 37 días,85.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 52 días,88.000 km,17900000
+Chevrolet,Prisma,2018,No disponible,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 8 meses,200.000 km,13200000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 3 días,50.000 km,15900
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,115.000 km,8800000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,160.000 km,16500000
+Chevrolet,Prisma,2017,Joy Ls,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 28 días,134.000 km,10500
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 46 días,200.000 km,10900000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 55 días,180.000 km,12950000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,80.000 km,17500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Azul,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 35 días,135.200 km,14000000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,47.000 km,16500000
+Chevrolet,Prisma,2019,2019 1.4 Joy Ls,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 meses,73.000 km,16500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,58.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv Autobaires,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 38 días,87.000 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 mes,54.000 km,13900
+Chevrolet,Prisma,2018,No disponible,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,117.077 km,13500000
+Chevrolet,Prisma,2013,Ltz 2013,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,102.000 km,10500
+Chevrolet,Prisma,2015,2015 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 meses,100.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,80.000 km,17550000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,105.000 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,60.000 km,14500000
+Chevrolet,Prisma,2017,Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,53.700 km,13500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 52 días,90.000 km,15290000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,136.000 km,13000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,92.000 km,15900000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,90.000 km,13000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,101.000 km,14900000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,105.000 km,14500000
+Chevrolet,Prisma,2013,2013 1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 año,84.000 km,13500000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Marrón,Nafta,4,Automática,1.4,Sedán,Publicado hace 22 días,167.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 56 días,120.000 km,14000000
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 13 días,166.000 km,14500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,57.501 km,13400
+Chevrolet,Prisma,2017,No disponible,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 31 días,177.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,50.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,60.000 km,15500000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,100.000 km,14800000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,94.000 km,17500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,126.000 km,14200000
+Chevrolet,Prisma,2019,2019 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,108.000 km,12500
+Chevrolet,Prisma,2017,Joy 4p 1.4 N Ls 2017,Gris,Nafta,5,Manual,1.4,Sedán,Publicado hace 7 meses,145.130 km,10499
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 37 días,85.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 52 días,88.000 km,17900000
+Chevrolet,Prisma,2018,No disponible,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 8 meses,200.000 km,13200000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 3 días,50.000 km,15900
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,115.000 km,8800000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,160.000 km,16500000
+Chevrolet,Prisma,2017,Joy Ls,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 28 días,134.000 km,10500
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 46 días,200.000 km,10900000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 55 días,180.000 km,12950000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,80.000 km,17500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Azul,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 35 días,135.200 km,14000000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,47.000 km,16500000
+Chevrolet,Prisma,2019,2019 1.4 Joy Ls,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 meses,73.000 km,16500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,58.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv Autobaires,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 38 días,87.000 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 mes,54.000 km,13900
+Chevrolet,Prisma,2018,No disponible,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,117.077 km,13500000
+Chevrolet,Prisma,2013,Ltz 2013,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,102.000 km,10500
+Chevrolet,Prisma,2015,2015 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 meses,100.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,80.000 km,17550000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,105.000 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,60.000 km,14500000
+Chevrolet,Prisma,2017,Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,53.700 km,13500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 52 días,90.000 km,15290000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,136.000 km,13000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,92.000 km,15900000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,90.000 km,13000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,101.000 km,14900000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,105.000 km,14500000
+Chevrolet,Prisma,2013,2013 1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 año,84.000 km,13500000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Marrón,Nafta,4,Automática,1.4,Sedán,Publicado hace 22 días,167.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 56 días,120.000 km,14000000
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 13 días,166.000 km,14500000
+Chevrolet,Prisma,2023,1.4 Joy Ls J Perez Ruiz,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,1.500 km,23000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 21 días,76.000 km,12500
+Chevrolet,Prisma,2014,1.4 Ltz At 98cv,Marrón,Nafta,4,Automática,1.4,Sedán,Publicado hace 4 meses,130.000 km,13500000
+Chevrolet,Prisma,2019,"Ltz 2019, Impecable! Autodesco",Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,85.000 km,16900000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,88.513 km,15500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 32 días,120.000 km,12900000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 37 días,134.000 km,12400000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 41 días,86.000 km,10300
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 45 días,136.000 km,11000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,80.000 km,15000000
+Chevrolet,Prisma,2017,2017 1.4 Joy Ls Mt + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,88.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,87.000 km,13500
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,108.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 35 días,136.000 km,13500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 44 días,112.000 km,16800000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 44 días,81.000 km,14000000
+Chevrolet,Prisma,2017,Ls+ 2017,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 53 días,150.000 km,13980000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 54 días,50.000 km,16500000
+Chevrolet,Prisma,2013,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,120.000 km,11900000
+Chevrolet,Prisma,2017,Ltz 1.4n Con Gnc 5ta Gen. Año 2017,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,68.000 km,16500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,89.000 km,16500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,74.000 km,13800
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 20 días,130.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,84.900 km,11000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,150.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 46 días,112.000 km,16800000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,73.000 km,17200000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,60.000 km,16300000
+Chevrolet,Prisma,2015,2015 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,100.000 km,13500000
+Chevrolet,Prisma,2020,1.4 Lt 98cv,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,117.000 km,15950000
+Chevrolet,Prisma,2020,1.4 Joy Ls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,46.000 km,18500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,118.000 km,14800000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 44 días,188.000 km,8900
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,125.000 km,15300
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,69.000 km,8350000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,142.000 km,12800000
+Chevrolet,Prisma,2019,Joy Ls 2019,Gris,Nafta/GNC,4,No disponible,No disponible,No disponible,Publicado hace 30 días,65.000 km,16900
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Celeste,Nafta,4,Manual,1.4,Sedán,Publicado hace 14 días,90.000 km,15300000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 55 días,89.000 km,8500000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,88.000 km,14500000
+Chevrolet,Prisma,2013,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,105.000 km,10000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 26 días,200.000 km,11500000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv 2014 - Autofacu,Negro,Nafta,5,Manual,1.4,Sedán,Publicado hace 32 días,246.000 km,7900
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 59 días,79.000 km,111111
+Chevrolet,Prisma,2017,Ltz Gnc,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 8 meses,120.000 km,16500000
+Chevrolet,Joy,2018,4p 1.4 N Ls Mt,Blanco,Diésel,5,Manual,1.4,Sedán,Publicado hace 55 días,72.100 km,18000000
+Chevrolet,Prisma,2019,Lt 1.4 2019 - Bellocchioautoslp,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,105.000 km,11500
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,90.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 25 días,157.000 km,16000000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,128.000 km,13300000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,98.000 km,16500000
+Chevrolet,Prisma,2013,1.4 Lt 98cv,Marrón,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,104.000 km,14000000
+Chevrolet,Prisma,2017,Joy Ls 2017 - Autosfaculp,Blanco,Nafta,5,Manual,1.4,Sedán,Publicado hace 5 meses,135.000 km,10500
+Chevrolet,Prisma,2018,Joy 1.6 Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,97.000 km,13600000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,100.000 km,7300000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,80.000 km,18000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,100.000 km,7300000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,80.000 km,18000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 mes,100.000 km,14500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,125.000 km,14000000
+Chevrolet,Prisma,2018,2018 1.4 Joy Ls + 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 8 meses,116.000 km,15500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Verde,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 28 días,72.000 km,12500
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 30 días,65.700 km,14500000
+Chevrolet,Joy,2021,Plus Joy Plus.,No disponible,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 6 meses,53.000 km,18500000
+Chevrolet,Prisma,2013,1.4 N Ltz,Gris oscuro,Nafta,4,Manual,1.4,Sedán,Publicado hace 10 días,140.000 km,12500000
+Chevrolet,Prisma,2017,Joy 4p 1.4 N Ls Mt +,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,66.950 km,15500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,61.000 km,13000
+Chevrolet,Prisma,2016,Ltz 2016,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,145.000 km,14000000
+Chevrolet,Prisma,2013,Ltz Automático,Marrón,Nafta,4,Automática,No disponible,No disponible,Publicado hace 2 meses,120.000 km,13000000
+Chevrolet,Prisma,2015,- 2015,No disponible,Nafta,4,Automática,1.4,Sedán,Publicado hace 2 meses,145.000 km,13000
+Chevrolet,Prisma,2016,1.4 Ltz At L/17 2016,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 2 años,84.100 km,15500000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,159.026 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,60.000 km,14400000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,179.000 km,9000000
+Chevrolet,Prisma,2018,2018 1.4 Ltz At 98cv,No disponible,Nafta,4,Automática,1.4,Sedán,Publicado hace 11 meses,48.500 km,13000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,104.000 km,15000000
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,102.000 km,10500000
+Chevrolet,Prisma,2014,2014 1.4 Ltz 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,180.000 km,11900000
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 14 días,74.000 km,19000000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 52 días,74.000 km,17300000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 33 días,224.000 km,11500000
+Chevrolet,Prisma,2019,1.4 Joy Con Gnc.,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 43 días,175.000 km,14000000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 47 días,109.000 km,12600
+Chevrolet,Prisma,2011,1.4 Lt 92cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 meses,230.000 km,8500000
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 21 días,36.500 km,14500
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,100.000 km,12300
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 44 días,146.000 km,12500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,120.000 km,14500000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,53.000 km,13900000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,136.000 km,13000000
+Chevrolet,Prisma,2016,1.4 Ltz Mt C/ Gnc,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 15 días,158.000 km,12500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 17 días,65.500 km,12800
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 20 días,160.000 km,15000000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,145.000 km,13000000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,67.000 km,12900
+Chevrolet,Prisma,2020,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 7 días,38.000 km,15900
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,55.000 km,16500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,32.000 km,13400
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 41 días,153.000 km,14500000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 56 días,76.000 km,15900000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,83.000 km,14300000
+Chevrolet,Prisma,2013,2013 1.4 Ltz 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 meses,200.000 km,8000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,42.000 km,18500000
+Chevrolet,Prisma,2011,1.4 Ls 92cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 14 días,240.000 km,9300000
+Chevrolet,Prisma,2011,1.4 Ls 92cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 14 días,240.000 km,9300000
+Chevrolet,Prisma,2016,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,92.000 km,11200
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 24 días,183.000 km,10000
+Chevrolet,Prisma,2016,2016 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 año,35.000 km,13000000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,123.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,74.000 km,15500
+Chevrolet,Prisma,2019,Joy +,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,45.000 km,15500000
+Chevrolet,Prisma,2012,1.4 Ls 92cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,78.000 km,9300000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 16 días,120.000 km,14500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,158.500 km,12000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 26 días,106.000 km,13500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta,5,Manual,1.4,Sedán,Publicado hace 28 días,191.000 km,12500
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,126.000 km,13500000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 días,200.000 km,9000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,141.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,56.400 km,15000000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,78.500 km,13000000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 34 días,175.000 km,14000000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 36 días,130.000 km,12900000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 43 días,38.800 km,14000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 50 días,73.000 km,13000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,147.000 km,11000
+Chevrolet,Prisma,2020,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,64.900 km,21000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,80.000 km,14000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 7 meses,140.000 km,12500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 9 días,56.000 km,14500000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,14.000 km,15500000
+Chevrolet,Prisma,2013,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,170.000 km,10000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 15 días,155.000 km,12800000
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 20 días,179.000 km,7100
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 21 días,68.000 km,16850000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,45.825 km,16200000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 26 días,220.000 km,13000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 45 días,180.000 km,11500000
+Chevrolet,Prisma,2019,1.4,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 48 días,117.000 km,13900000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 54 días,150.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv Blanco - No Se Permuta,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,77.000 km,17000000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 3 meses,160.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 5 meses,115.000 km,14000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 días,265.000 km,10999999
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,180.000 km,142000000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 8 días,94.000 km,15000000
+Chevrolet,Ya!!!,2018,"Prisma 2018, Gnc 5ta Generación",Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 18 días,245.000 km,8999000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,227.000 km,12000000
+Chevrolet,Prisma,2013,1.4 Lt 92cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 20 días,142.500 km,11500000
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,112.000 km,7600
+Chevrolet,Prisma,2021,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,78.000 km,18000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 1 día,196.000 km,11500000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,97.000 km,14000000
+Chevrolet,Prisma,2011,1.4 Lt 92cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 días,210.000 km,7500000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 días,98.000 km,13900000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,68.000 km,12000
+Chevrolet,Prisma,2017,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 9 días,93.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv 42000 Km,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,42.000 km,13000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,119.000 km,12300
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,286.000 km,11000000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Negro,Nafta,5,Manual,1.4,Sedán,Publicado hace 30 días,170.000 km,10500
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 meses,136.000 km,13000000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,149.000 km,14000000
+Chevrolet,Prisma,2017,2017 1.4 Joy Ls + 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,90.000 km,11500
+Chevrolet,Prisma,2017,No disponible,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 49 días,160.000 km,16000000
+Chevrolet,Prisma,2017,Joy Plus 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,167.000 km,12999950
+Chevrolet,Prisma,2017,Lt 2017 Únic Dueño Pat. 9-17,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 años,315.000 km,9500000
+Chevrolet,Prisma,2012,1.4 Ls 92cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 17 días,104.000 km,9000000
+Chevrolet,Prisma,2017,1.4 Joy Ls + 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,100.000 km,12250000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,174.000 km,16500000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,80.000 km,16000000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,81.700 km,12000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 6 días,140.000 km,13700000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,81.000 km,17000000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,138.000 km,13500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,200.000 km,9900
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 37 días,99.000 km,12000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 41 días,200.000 km,11000000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 46 días,26.500 km,15500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,93.000 km,14750000
+Chevrolet,Prisma,2012,1.4 Ls 92cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 19 días,235.000 km,6500
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,56.000 km,12800
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 23 días,147.000 km,7500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 58 días,125.000 km,12400000
+Chevrolet,Prisma,2016,Ltz 1.4 At Full Full,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 1 año,149.000 km,13500000
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,48.000 km,16500000
+Chevrolet,Prisma,2019,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,120.500 km,13000
+Chevrolet,Prisma,2015,Ltz 2015 Con Gnc,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,129.000 km,11900
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,168.000 km,12000000
+Chevrolet,Prisma,2019,1.4 Joy Ls,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 57 días,51.000 km,14500
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 14 días,200.000 km,10000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,88.000 km,15500000
+Chevrolet,Prisma,2019,1.4 Ltz At 98cv,Negro,Nafta,4,Automática,1.4,Sedán,Publicado hace 26 días,52.000 km,15000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,205.000 km,9000000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,85.000 km,14500000
+Chevrolet,Ltz,2018,At 2018,Blanco,Nafta/GNC,4,Automática,1.4,Sedán,Publicado hace 19 días,77.000 km,17000000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 57 días,109.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,45.000 km,14000000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,94.000 km,13500000
+Chevrolet,Prisma,2015,1.4 Lt Taxi Gnc,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 4 días,205.000 km,10800000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 4 días,195.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 17 días,90.000 km,12000000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,162.000 km,15900000
+Chevrolet,Prisma,2014,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,162.000 km,11400000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,83.000 km,15000000
+Chevrolet,Prisma,2016,2016 1.4 Lt 98cv,No disponible,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 meses,150.000 km,13000000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 días,191.000 km,10000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,116.000 km,15000000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,169.000 km,12750000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 8 días,87.000 km,13200
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,125.000 km,14000000
+Chevrolet,En,2016,Excelentes Estado. Papeles Al Día.,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 22 días,104.520 km,12800000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 25 días,87.000 km,13000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,49.000 km,13500000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 28 días,230.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 33 días,96.000 km,16000000
+Chevrolet,Prisma,2016,1.4 Ltz At 98cv,Gris,Nafta,4,Automática,1.4,Sedán,Publicado hace 48 días,167.000 km,12500000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 56 días,119.000 km,13500000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 58 días,50.400 km,18000000
+Chevrolet,Prisma,2018,1.4 Joy Ls + 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,104.000 km,10000000
+Chevrolet,Prisma,2018,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,105.000 km,14300000
+Chevrolet,Prisma,2018,Impecable,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,100.000 km,13000000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 días,97.000 km,13000000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,140.000 km,13000000
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,98.000 km,14500000
+Chevrolet,Prisma,2015,1.4 Lt 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 11 días,150.000 km,11600000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 18 días,208.000 km,15000000
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 27 días,189.000 km,9901600
+Chevrolet,Prisma,2019,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 28 días,125.000 km,12000000
+Chevrolet,Prisma,2015,1.4 Ltz At 98cv,Blanco,Nafta,4,Automática,1.4,Sedán,Publicado hace 46 días,100.100 km,14500000
+Chevrolet,Prisma,2017,1.4 Ltz 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,104.000 km,15650000
+Chevrolet,Prisma,2013,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,171.000 km,12500000
+Chevrolet,La,2018,Plata,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,75.000 km,18000
+Chevrolet,Prisma,2016,Lt,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 años,28.000 km,13500
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,116.000 km,12500000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 4 días,232.000 km,10000000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 días,120.000 km,11500000
+Chevrolet,Prisma,2016,1.4 Ltz 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 11 días,140.000 km,12000
+Chevrolet,Prisma,2018,1.4 Ltz 98cv,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,60.000 km,18500000
+Chevrolet,Prisma,2017,1.4 Joy Ls 98cv,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 16 días,147.000 km,14400000
+Chevrolet,Prisma,2012,1.4 Lt 92cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 18 días,200.000 km,6500
+Chevrolet,Prisma,2014,* Unico Dueño * Impecable,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,92.000 km,12800000
+Chevrolet,Prisma,2014,* Unico Dueño * Impecable,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 28 días,92.000 km,12800000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 48 días,150.000 km,13500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,150.000 km,13500000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Azul,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 12 días,14.600 km,14600000
+Chevrolet,Prisma,2014,1.4 Lt 98cv,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 19 días,130.000 km,12900000
+Chevrolet,Prisma,2016,1.4 Lt 98cv,Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 23 días,220.000 km,13000
+Chevrolet,Prisma,2013,1.4 Ls 92cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 24 días,35.000 km,15000000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,100.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 6 días,130.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,100.000 km,14000000
+Chevrolet,Prisma,2018,1.4 Joy Ls 98cv,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 6 días,130.000 km,15500000
+Chevrolet,Prisma,2017,1.4 Lt 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 13 días,80.000 km,14000000
+Chevrolet,Prisma,2015,1.4 Ltz 98cv,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,77.000 km,8300
+Chevrolet,Prisma,2016,No disponible,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,87.000 km,12500000

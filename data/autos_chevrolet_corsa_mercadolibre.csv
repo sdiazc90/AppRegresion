@@ -1,0 +1,350 @@
+Marca,Modelo,Año,Versión,Color,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Fecha publicación,Kilómetros,Precio
+Chevrolet,Corsa,2009,City 1.4n,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 4 meses,185.000 km,5500
+Chevrolet,Corsa,2009,1.4 Classic Gls,Dorado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,65.000 km,8400
+Chevrolet,Corsa,2009,Gls 1.4 2009 112.500 Kilómetros,Dorado,Nafta,4,Manual,1.4,Sedán,Publicado hace 31 días,112.500 km,7400
+Chevrolet,Corsa,2008,Classic,Verde,Nafta,4,Manual,1.6,Hatchback,Publicado hace 1 día,102.000 km,8000000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Dorado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,95.000 km,7800
+Chevrolet,Corsa,2000,1.6 Wind,Verde,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 3 meses,282.500 km,5500
+Chevrolet,Corsa,2009,1.4 Wagon Classic Gl,Verde,Nafta,5,Manual,1.4,Rural,Publicado hace 3 meses,148.000 km,7600000
+Chevrolet,Corsa,2010,1.8 Cd,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 4 meses,203.000 km,8500000
+Chevrolet,Corsa,2008,2 1.8 Gls 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 41 días,180.000 km,8500000
+Chevrolet,Corsa,2004,1.8 Gl Pack 2,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 18 días,154.000 km,6000000
+Chevrolet,Corsa,2009,1.4 Classic Gl,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 21 días,138.000 km,6900
+Chevrolet,Corsa,2008,2 1.8 Gls 2008,Rojo,Nafta,5,Manual,1.8,Sedán,Publicado hace 32 días,173.400 km,6200
+Chevrolet,Corsa,2010,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 23 días,74.000 km,6700
+Chevrolet,3,2006,Puertas 1.6,Gris,Nafta,3,No disponible,No disponible,No disponible,Publicado hace 15 días,215.000 km,6500000
+Chevrolet,Corsa,2000,2000 1.7 D Wind,Blanco,Diésel,4,Manual,1.7,Sedán,Publicado hace 6 meses,214.000 km,5300
+Chevrolet,Cargo,2011,1.4,Blanco,Nafta,3,Manual,1.4,Coupé,Publicado hace 8 meses,149.000 km,6900000
+Chevrolet,Clásic,2012,Ls 2012 Motor 1.4,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 meses,120.000 km,9500
+Chevrolet,Corsa,2011,Cargo Con Asientos 2011 Impecable,Blanco,Nafta,3,Manual,1.6,Coupé,Publicado hace 15 días,85.000 km,6900000
+Chevrolet,2016,2016,Con Gnc,Blanco,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 26 días,286.000 km,8500000
+Chevrolet,Corsa,2009,1.6 Classic,Plateado,Nafta,4,Manual,1.6,Sedán,Publicado hace 1 mes,139.700 km,6800
+Chevrolet,Corsa,2009,1.4 3p Base L09 2009,Verde oscuro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 22 días,105.000 km,7500000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 4p Negro 2008 - Tute Cars A,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 49 días,245.427 km,8300000
+Chevrolet,Corsa,2004,Ii Gl 2004,Gris,Nafta,4,Manual,1.8,Hatchback,Publicado hace 21 días,137.000 km,9200000
+Chevrolet,Corsa,2009,Ii 2009,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 6 meses,195.000 km,7800000
+Chevrolet,Corsa,2004,1.6 Gl Gnc,Gris,Nafta,3,Manual,1.6,Coupé,Publicado hace 10 días,150.000 km,5800000
+Chevrolet,Corsa,2009,1.4 Classic Gl,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 48 días,105.000 km,7500
+Chevrolet,Corsa,2011,1.8 Gl Aa Dh 5p,Gris,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 8 días,170.000 km,8200000
+Chevrolet,Corsa,2007,1.6 Classic Super Pkele,Gris,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 11 días,200.000 km,7000000
+Chevrolet,Corsa,2003,1.6 Gl Gnc,Blanco,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 22 días,205.000 km,4800000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Rojo,Nafta,4,Manual,1.4,Sedán,Publicado hace 1 día,110.000 km,6500
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 18 días,150.000 km,7700000
+Chevrolet,Corsa,2006,2006 1.6 Gl Aa Dh,No disponible,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 meses,158.000 km,7300000
+Chevrolet,Corsa,2016,1.4 Classic Ls Abs Airbag 2016,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 6 días,101.000 km,12500000
+Chevrolet,Corsa,2015,Classic 1.4 Ls+levantavidrio,Gris,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 21 días,140.000 km,8390
+Chevrolet,Corsa,2011,1.4 Wagon Lt,Gris,Nafta,5,Manual,1.4,Sedán,Publicado hace 20 días,156.003 km,7800000
+Chevrolet,Corsa,1997,1.6 Gls,Verde,Nafta,4,Manual,1.6,Sedán,Publicado hace 1 día,242.000 km,5000000
+Chevrolet,Corsa,2009,1.8 Gl Aa+da,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 7 días,168.000 km,6800
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Gris,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 11 días,198.000 km,6500000
+Chevrolet,Corsa,2005,1.8 Gl Aa Dh 4p,Dorado,Nafta,4,Manual,1.8,Sedán,Publicado hace 59 días,142.000 km,6900000
+Chevrolet,Corsa,2010,Classic City 2010 Ls Aa 3p Oscar Automotores,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,138.000 km,8900000
+Chevrolet,Corsa,2005,Wagon Gl 1.6 Dh C/gas,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 años,120.000 km,4250
+Chevrolet,Corsa,2009,1.4 Classic Gl,Gris,Nafta/GNC,3,Manual,1.4,Hatchback,Publicado hace 45 días,169.000 km,9000000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Life,Plateado,Nafta,5,Manual,1.4,Rural,Publicado hace 3 meses,160.000 km,7200000
+Chevrolet,Corsa,2009,1.4 Life 2009,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 11 días,137.500 km,7000000
+Chevrolet,Corsa,2009,1.4 Classic Gls 2009 Muy Buen Estado Permuto,Verde,Nafta,4,Manual,1.6,Hatchback,Publicado hace 44 días,184.000 km,6999
+Chevrolet,Corsa,2008,Classic 1.6n Super 4p,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 25 días,113.000 km,11500000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 4p,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 53 días,1.212 km,8300000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 5p,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 26 días,239.000 km,8500000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 5p,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 26 días,239.000 km,8500000
+Chevrolet,Corsa,2008,1.8 Cd,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 2 meses,120.000 km,7500
+Chevrolet,Corsa,2009,1.4 Wagon Classic Life,Gris,Nafta,5,Manual,1.4,Rural,Publicado hace 5 días,150.000 km,7800000
+Chevrolet,Corsa,2007,1.6 Super Pack,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 6 días,120.000 km,6900
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 27 días,157.000 km,6500000
+Chevrolet,Corsa,1997,1.6 Gl Aa Dh,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,31.000 km,7900
+Chevrolet,Corsa,2009,1.6 Classic Gl,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 2 días,130.000 km,7200000
+Chevrolet,Corsa,2008,Ii 1.8 5 Puertas Cd Easytronic 2008,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 6 meses,136.000 km,8500000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Plateado,Nafta,3,Manual,1.6,Hatchback,Publicado hace 5 días,142.000 km,6800000
+Chevrolet,Corsa,2007,2007,Celeste,Nafta,4,Manual,1.8,Sedán,Publicado hace 5 meses,97.900 km,7400
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 4p,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 37 días,98.000 km,7800
+Chevrolet,Corsa,2010,1.4 Classic,Plateado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 37 días,154.000 km,7900000
+Chevrolet,Corsa,1998,1.7 D Gl Aa,Blanco,Diésel,4,Manual,1.7,Sedán,Publicado hace 50 días,349.000 km,4500000
+Chevrolet,Corsa,2006,1.6 Gl Aa Dh,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 52 días,165.000 km,6800
+Chevrolet,Corsa,2000,2000 1.7 D Gl Aa Dh Sw 2000,No disponible,Diésel,4,Manual,1.7,Rural,Publicado hace 11 meses,121.720 km,3890000
+Chevrolet,Corsa,2008,1.8 Cd,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 2 días,132.000 km,6800
+Chevrolet,Corsa,2010,1.8 Gls Full 5p,Plateado,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 3 meses,98.000 km,7500
+Chevrolet,Corsa,2009,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,115.000 km,7900000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 meses,250.000 km,7000000
+Chevrolet,Corsa,2008,1.8 Cd,Dorado,Nafta,4,Manual,1.8,Sedán,Publicado hace 2 meses,150.000 km,8000000
+Chevrolet,Corsa,2009,1.6 Classic Gls,Gris,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 3 meses,240.000 km,8500000
+Chevrolet,Corsa,2002,1.6n 3 Puertas 2002,Gris,Nafta,3,Manual,1.6,Coupé,Publicado hace 3 días,111.000 km,5600000
+Chevrolet,Compro,2009,Motos Caidas Fundidas Con Deudas,Dorado,Nafta,4,Manual,1.4,Rural,Publicado hace 3 años,140.000 km,8000000
+Chevrolet,Corsa,2015,1.4 Classic Ls Carwestcaba,Plateado,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 1 día,49.700 km,10900000
+Chevrolet,Corsa,2006,Ii Cd 2006,Blanco,Nafta,4,Manual,1.8,Sedán,Publicado hace 10 meses,204.000 km,6500000
+Chevrolet,Corsa,2009,1.8 Gl Aa Dh 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 16 días,179.000 km,6300
+Chevrolet,Corsa,2010,1.4 Classic,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 9 meses,170.000 km,5000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh Sw,Blanco,Nafta,5,Manual,1.6,Rural,Publicado hace 18 días,200.000 km,5000000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 7 días,170.000 km,7500
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 2 meses,80.000 km,10000000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 36 días,95.500 km,8000000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Blanco,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 53 días,220.000 km,6800000
+Chevrolet,Corsa,2008,Gl 1.6 Nafta/gnc,No disponible,Nafta/GNC,4,No disponible,No disponible,No disponible,Publicado hace 9 meses,170.000 km,6300000
+Chevrolet,City,2007,1.6,Azul,Nafta,3,Manual,1.6,Coupé,Publicado hace 20 días,129.000 km,5800000
+Chevrolet,Enfierrado,2008,Motor 2.0 Caja La Cia Butacas Nico Listo Pa,Gris,Nafta,2,Manual,2.0,No disponible,Publicado hace 25 días,9.999 km,8000
+Chevrolet,Corsa,2004,1.6 2004 Base,Plateado,Nafta,3,Manual,1.6,Coupé,Publicado hace 37 días,240.000 km,5300
+Chevrolet,Corsa,2009,2009,No disponible,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 40 días,171.000 km,6000
+Chevrolet,Classic,2015,4p Ls Abs+airbag 1.4n,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,153.200 km,9800000
+Chevrolet,Corsa,2016,Classic,Gris,Nafta/GNC,5,Manual,1.4,No disponible,Publicado hace 11 días,175.000 km,9000
+Chevrolet,Corsa,2004,1.8 Gls 5p Financio (aty Automotores),Verde,Nafta,5,Manual,1.8,Hatchback,Publicado hace 47 días,111.111 km,6500000
+Chevrolet,Corsa,2007,1.6 Con Gnc Financio (aty Automotores),No disponible,Nafta/GNC,4,No disponible,No disponible,No disponible,Publicado hace 11 meses,111.111 km,6500000
+Chevrolet,3p,2010,City Ls+aa 1.4n,Gris,Nafta,3,Manual,1.4 Nafta,Sedán,Publicado hace 42 días,58.500 km,8800000
+Chevrolet,Corsa,1998,1.6 Gl,Azul,Nafta,3,Manual,1.6,Pick-Up,Publicado hace 3 días,207.000 km,6000
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 35 días,149.000 km,8400000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Negro,Nafta,3,Manual,1.6,Hatchback,Publicado hace 36 días,10.000 km,3200000
+Chevrolet,Corsa,2010,1.8 Cd,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 2 meses,333.333 km,6000000
+Chevrolet,Mil,2001,Kms Corsa City 1.0,Gris,Nafta,3,Manual,1.0,Hatchback,Publicado hace 41 días,64.400 km,7000
+Chevrolet,Corsa,2010,1.4 Classic,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 3 días,80.000 km,8600000
+Chevrolet,Corsa,2010,1.8 Gl Aa Dh 5p,Azul,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 4 días,250.000 km,6300000
+Chevrolet,Corsa,2007,1.6 Super Pack,Gris,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 26 días,320.000 km,5300000
+Chevrolet,Corsa,2006,2 Modelo 2006. 1.8 Cd Abs,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 3 meses,173.000 km,6600
+Chevrolet,Corsa,2002,1.4 Super Sport,Plateado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 3 días,236.000 km,5000000
+Chevrolet,Ii,2007,Modelo Sp Cd Gas 1.8,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 13 días,81.000 km,7100
+Chevrolet,Corsa,2011,1.8 5 Puertas. Abs 110000 Km Reales,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 22 días,110.000 km,6800
+Chevrolet,Corsa,2009,2009 1.4 Classic,No disponible,Nafta,3,Manual,1.4,Hatchback,Publicado hace 11 meses,166.000 km,7500000
+Chevrolet,Corsa,2010,Ii 5p Cd (full) 1.8 Gnc Modelo 2010,Azul,Nafta/GNC,5,Manual,1.8,Sedán,Publicado hace 6 días,236.000 km,7000000
+Chevrolet,Corsa,2003,1.8 Gls 5p,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 16 días,115.000 km,5000000
+Chevrolet,Corsa,2001,1.6 Gls,Verde,Nafta,4,Manual,1.6,Sedán,Publicado hace 49 días,195.000 km,6100000
+Chevrolet,Corsa,1998,1.6 Gl Aa Dh,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,370.000 km,4300000
+Chevrolet,Corsa,2008,1.8 Cd,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 1 día,260.000 km,5500000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 días,173.000 km,7250000
+Chevrolet,Corsa,1998,1.7 D Gl,Verde,Diésel,4,Manual,1.7,Pick-Up,Publicado hace 15 días,236.000 km,4300000
+Chevrolet,Corsa,2000,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 15 días,179.800 km,7000
+Chevrolet,Corsa,2000,1.7 D Wind,Blanco,Diésel,4,Manual,1.7,Sedán,Publicado hace 25 días,292.000 km,5200000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Gris,Nafta,4,Manual,1.6,Hatchback,Publicado hace 28 días,241.000 km,6000000
+Chevrolet,Corsa,2009,1.6 Classic Gls,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 50 días,250.000 km,6000000
+Chevrolet,Corsa,2010,1.4 Classic Gl,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 56 días,102.000 km,5800
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,132.000 km,8000000
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 4 meses,92.500 km,7900
+Chevrolet,Corsa,2008,Weekend,Blanco,Nafta/GNC,5,Manual,1.6,Rural,Publicado hace 8 días,200.000 km,8500000
+Chevrolet,Corsa,1997,1.7 D Gl,Verde,Diésel,5,Manual,1.7,Hatchback,Publicado hace 22 días,217.000 km,4800000
+Chevrolet,Corsa,2009,1.4 Classic Gl,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 32 días,160.000 km,9000000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 2 meses,200.000 km,5800000
+Chevrolet,Corsa,2002,1.4 Super Sport,Plateado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 3 meses,166.000 km,6000000
+Chevrolet,Corsa,2009,1.4 Classic,Dorado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 5 meses,230.000 km,9500000
+Chevrolet,Corsa,1998,1.6 Gl,Verde,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 18 días,70.000 km,4700000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,235.000 km,6500
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Azul,Nafta,5,Manual,1.6,Hatchback,Publicado hace 25 días,130.000 km,6700
+Chevrolet,Corsa,2007,1.8 Gl Aa Dh 4p,Gris,Nafta,5,Manual,1.8,Sedán,Publicado hace 30 días,147.000 km,6000
+Chevrolet,Corsa,1998,1.6 Gl,Rojo,Nafta/GNC,4,Manual,1.6,Pick-Up,Publicado hace 3 meses,180.000 km,8000000
+Chevrolet,Corsa,2009,1.6 Classic,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 2 días,130.000 km,6800000
+Chevrolet,Corsa,2001,1.7 D Gl,Rojo,Diésel,4,Manual,1.7,Pick-Up,Publicado hace 15 días,480.000 km,2500000
+Chevrolet,Corsa,2004,1.6 Gl Aa Dh,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 15 días,111.111 km,5400000
+Chevrolet,Corsa,2006,1.8 Gl Aa Dh,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 16 días,180.000 km,5900
+Chevrolet,Corsa,1999,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 18 días,190.000 km,4500000
+Chevrolet,Corsa,2001,1.6 Wind,Rojo,Nafta,3,Manual,1.6,Hatchback,Publicado hace 19 días,259.000 km,4700000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Dorado,Nafta,4,Manual,1.4,Sedán,Publicado hace 42 días,150.000 km,8600000
+Chevrolet,Corsa,2010,1.8 Gl Aa Dh 4p,Negro,Nafta,4,Manual,1.8,Sedán,Publicado hace 4 meses,148.109 km,5300000
+Chevrolet,Corsa,2009,Wagon 1.4 Gls Nafta Inmaculado,Blanco,Nafta,5,Manual,1.4,Rural,Publicado hace 4 meses,140.000 km,8500000
+Chevrolet,Corsa,2008,1.8 Gl Aa+da,Blanco,Nafta,4,Manual,1.8,Sedán,Publicado hace 9 meses,180.000 km,6200000
+Chevrolet,Corsa,2007,1.6 Super Pack,Gris,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 1 día,200.000 km,4290000
+Chevrolet,Corsa,2009,1.4 Classic Life,Blanco,Nafta,3,Manual,1.4,Hatchback,Publicado hace 21 días,157.000 km,6500000
+Chevrolet,Listo,2007,Para Trasferir,Plateado,Nafta/GNC,5,Manual,1.8,Sedán,Publicado hace 43 días,170.000 km,4500000
+Chevrolet,Corsa,2009,1.6 Wagon Classic Gl,Negro,Nafta/GNC,5,Manual,1.6,Rural,Publicado hace 47 días,262.000 km,6200000
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,140.000 km,7900000
+Chevrolet,Corsa,2004,1.8 Gl Aa Dh 5p,Gris,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 3 meses,179.000 km,5500
+Chevrolet,Corsa,2004,2004 1.7 Gl Pack 1,Gris,Diésel,4,Manual,1.7,Sedán,Publicado hace 7 meses,162.000 km,6500000
+Chevrolet,Corsa,2004,1.7 Gls,Rojo,Diésel,4,Manual,1.7,Sedán,Publicado hace 1 día,200.000 km,5419000
+Chevrolet,Corsa,2009,1.8 Gl Aa+da,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 4 días,269.000 km,8500000
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 5 días,87.000 km,8930000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Life,Plateado,Nafta,5,Manual,1.4,Rural,Publicado hace 6 días,188.000 km,6300000
+Chevrolet,Corsa,2010,1.4 Wagon Classic Gl,Blanco,Nafta,5,Manual,1.4,Rural,Publicado hace 6 días,489.000 km,4000
+Chevrolet,Corsa,2010,1.4 Classic Gl,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 7 días,151.000 km,7000000
+Chevrolet,Corsa,2005,2 Gl 1.8 Aa.dd Gnc,Azul,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 9 días,180.000 km,5000
+Chevrolet,Corsa,2008,1.6 Se Esp 2 Sw,Rojo,Nafta,3,Manual,1.6,Hatchback,Publicado hace 13 días,200.000 km,6000000
+Chevrolet,Corsa,2006,1.6 Gl Aa Dh Sw,Azul,Nafta/GNC,5,Manual,1.6,Rural,Publicado hace 13 días,278.000 km,7500000
+Chevrolet,Corsa,2010,1.8 Gl Aa Dh 4p,Plateado,Nafta,4,Manual,1.8,Sedán,Publicado hace 22 días,62.000 km,10000
+Chevrolet,No disponible,2010,No disponible,Gris,Nafta,3,Manual,1.4,Coupé,Publicado hace 23 días,170.000 km,7000000
+Chevrolet,Corsa,2006,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 26 días,140.000 km,6500000
+Chevrolet,Corsa,2007,Ii 2007. Nafta. Gnc. Todo Al Día.,Gris,Nafta/GNC,5,Manual,1.8,Sedán,Publicado hace 28 días,200.000 km,6500000
+Chevrolet,Corsa,2001,1.6 Wind,Plateado,Nafta,3,Manual,1.6,Hatchback,Publicado hace 55 días,150.000 km,5300000
+Chevrolet,Corsa,2007,1.8 Cd Abs,Plateado,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 2 meses,190.000 km,7200000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,112.000 km,8000000
+Chevrolet,Corsa,2002,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 meses,225.000 km,4800000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 3 meses,191.000 km,6500
+Chevrolet,Corsa,2010,1.4 Wagon Classic Gls,Dorado,Nafta,5,Manual,1.4,Rural,Publicado hace 3 meses,148.000 km,4000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,139.085 km,5700
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 4 meses,208.000 km,6900000
+Chevrolet,Corsa,2009,2009 1.8 Cd,No disponible,Nafta,4,Manual,1.8,Sedán,Publicado hace 9 meses,98.000 km,6000
+Chevrolet,Corsa,2009,1.8 Gl Aa Dh 5p,Azul,Nafta,5,Manual,1.8,Hatchback,Publicado hace 1 día,265.000 km,8500000
+Chevrolet,Corsa,2001,1.7 D Gl Aa,Gris,Diésel,4,Manual,1.7,Sedán,Publicado hace 9 días,163.000 km,4500
+Chevrolet,Corsa,2009,1.4 Classic Gls,Azul,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,200.000 km,5400
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,191.000 km,6200000
+Chevrolet,Corsa,2005,2 1.8 Gl Aa+dh 4p,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 22 días,150.000 km,6900000
+Chevrolet,Corsa,1998,1.6 Gl Aa Dh,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 25 días,225.000 km,4700000
+Chevrolet,Corsa,1996,1.4 Gl Aa,Gris,Nafta,5,Manual,1.4,Hatchback,Publicado hace 32 días,250.000 km,4650000
+Chevrolet,Corsa,2009,1.4 Classic Gl,Verde,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,180.000 km,7400000
+Chevrolet,Corsa,1999,1.6 Gl,Blanco,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 3 meses,115.000 km,5000000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Verde,Nafta,3,Manual,1.6,Hatchback,Publicado hace 4 meses,102.000 km,6200
+Chevrolet,Corsa,2009,1.4 Classic Gls,Dorado,Nafta,4,Manual,1.4,Sedán,Publicado hace 4 meses,128.000 km,7000
+Chevrolet,Corsa,2007,1.6 Classic Super Pkele,Rojo,Nafta,3,Manual,1.6,Hatchback,Publicado hace 1 día,197.000 km,7200000
+Chevrolet,Corsa,2009,1.8 Gl Aa Dh 5p,Azul,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 1 día,300.000 km,6500000
+Chevrolet,Corsa,2007,1.8 Gl Aa Dh 5p,Blanco,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 7 días,225.000 km,5500000
+Chevrolet,Motor,2004,1.8 Sedan 4 Ptas,Gris,Nafta/GNC,5,Manual,1.8,Sedán,Publicado hace 8 días,327.000 km,8200000
+Chevrolet,Corsa,2002,1.7 D Wind,Rojo,Diésel,4,Manual,1.7,Sedán,Publicado hace 26 días,280.000 km,4000000
+Chevrolet,Corsa,2000,1.6 Gl,Gris,Nafta/GNC,4,Manual,1.6,Pick-Up,Publicado hace 27 días,300.000 km,4500000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 4p,Dorado,Nafta,4,Manual,1.8,Sedán,Publicado hace 2 meses,68.000 km,9800
+Chevrolet,Corsa,1999,1999 1.6 Wind,No disponible,Nafta,3,Manual,1.6,Hatchback,Publicado hace 6 meses,111.111 km,4000000
+Chevrolet,Corsa,2009,2009 1.4 Classic,No disponible,Nafta,3,Manual,1.4,Hatchback,Publicado hace 6 meses,77.700 km,6500000
+Chevrolet,Corsa,1998,1.6 Gl Aa Dh,Verde,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 días,135.000 km,3500
+Chevrolet,Corsa,2000,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 4 meses,130.000 km,5000
+Chevrolet,Corsa,2007,1.8 Cd Abs,Negro,Nafta,4,Manual,1.8,Sedán,Publicado hace 2 días,60.000 km,9000000
+Chevrolet,Corsa,2009,1.4 Classic 71.000 Km Impecable.,Verde,Nafta,3,Manual,1.4,Hatchback,Publicado hace 3 días,71.000 km,8000
+Chevrolet,Corsa,2007,1.8 Gl,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 3 días,207.000 km,7000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Gl,Gris,Nafta/GNC,5,Manual,1.4,Rural,Publicado hace 5 días,190.000 km,4500000
+Chevrolet,Corsa,2002,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 5 días,189.912 km,5000000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Gl,Gris,Nafta/GNC,5,Manual,1.4,Rural,Publicado hace 5 días,190.000 km,4500000
+Chevrolet,Corsa,2002,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 5 días,189.912 km,5000000
+Chevrolet,Corsa,1999,1.6 Wind,Verde,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 6 días,260.000 km,5000000
+Chevrolet,Corsa,2001,1.6 Wind,Rojo,Nafta,3,Manual,1.6,Hatchback,Publicado hace 7 días,140.000 km,7000
+Chevrolet,Corsa,2006,1.8 Gl Aa Dh,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 14 días,149.000 km,7500000
+Chevrolet,Corsa,2000,1.7 D Gl,Rojo,Diésel,4,Manual,1.7,Pick-Up,Publicado hace 14 días,200.000 km,5000000
+Chevrolet,Corsa,2004,1.8 Gl Aa Dh,Verde,Nafta,5,Manual,1.8,Hatchback,Publicado hace 14 días,196.000 km,7500000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Dorado,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 15 días,168.000 km,4900000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Gris,Nafta/GNC,3,Manual,1.6,Hatchback,Publicado hace 20 días,180.000 km,7000000
+Chevrolet,Corsa,2006,1.8 Gl,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 22 días,204.933 km,5500
+Chevrolet,Corsa,2002,1.4 Super Sport,Blanco,Nafta,3,Manual,1.4,Hatchback,Publicado hace 26 días,186.000 km,5000000
+Chevrolet,Corsa,1995,1.4 Gl,Negro,Nafta,3,Manual,1.4,Hatchback,Publicado hace 40 días,200.000 km,4000000
+Chevrolet,Corsa,2009,1.4 Classic,Verde,Nafta,3,Manual,1.4,Hatchback,Publicado hace 47 días,95.000 km,8000000
+Chevrolet,Corsa,1998,1998 1.6 Gls,No disponible,Nafta,4,Manual,1.6,Sedán,Publicado hace 7 meses,250.000 km,4000000
+Chevrolet,Corsa,2006,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,230.000 km,6000000
+Chevrolet,Corsa,2010,1.4 Wagon Classic Gl,Gris,Nafta/GNC,5,Manual,1.4,Rural,Publicado hace 9 días,220.000 km,4650000
+Chevrolet,Corsa,1996,1.4 Gl,Dorado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 16 días,210.000 km,5500000
+Chevrolet,Corsa,2010,1.4 Classic,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 6 meses,98.000 km,6900
+Chevrolet,Corsa,2009,1.4 Classic,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 18 días,105.000 km,6800
+Chevrolet,Corsa,2006,1.8 Nafta Metanol Fueltech 300,Azul,Nafta,2,Manual,1.8,Hatchback,Publicado hace 20 días,226.000 km,8700000
+Chevrolet,Corsa,2010,3 Ptas 2010 Full,Negro,Nafta,3,Manual,1.4,Coupé,Publicado hace 28 días,150.000 km,6900
+Chevrolet,Corsa,2009,Classic 4 Ptas Gl 1.4n,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 36 días,79.250 km,8000000
+Chevrolet,Corsa,1997,1.6 Gl Aa Dh,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 54 días,293.000 km,4000000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh Sw,Gris,Nafta,5,Manual,1.6,Rural,Publicado hace 14 días,221.000 km,4500
+Chevrolet,Corsa,2006,1.8 Gl Aa Dh 5p,Plateado,Nafta,5,Manual,1.8,Hatchback,Publicado hace 36 días,126.000 km,5500
+Chevrolet,Corsa,1998,1.7 D Gl,Blanco,Diésel,4,Manual,1.7,Pick-Up,Publicado hace 51 días,222.000 km,3000
+Chevrolet,Corsa,1999,1.6 Gl,Azul,Nafta/GNC,4,Manual,1.6,Pick-Up,Publicado hace 12 días,356.000 km,4000000
+Chevrolet,Corsa,2009,1.4 Classic Gl,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 12 días,165.500 km,7300
+Chevrolet,Corsa,1998,1.6 Gl,Verde,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 12 días,250.000 km,4000000
+Chevrolet,Corsa,2001,1.4 Super Sport,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 28 días,159.000 km,13000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Gls,Azul,Nafta/GNC,5,Manual,1.4,Rural,Publicado hace 28 días,170.000 km,8000000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Plateado,Nafta,4,Manual,1.4,Sedán,Publicado hace 2 meses,219.000 km,8000000
+Chevrolet,Corsa,1996,1.4 Gl,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 4 días,183.000 km,4200000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Verde,Nafta,4,Manual,1.4,Sedán,Publicado hace 5 días,147.000 km,8000000
+Chevrolet,Corsa,2006,1.6 Super Pack,Negro,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 19 días,471.000 km,4800000
+Chevrolet,Corsa,2008,2008 1.8 Gl Aa+da,No disponible,Nafta,4,Manual,1.8,Sedán,Publicado hace 7 meses,103.000 km,7799999
+Chevrolet,Corsa,2007,1.6 Classic Super Pkele,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 2 días,276.000 km,7250000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 4p,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 5 días,100.000 km,9000
+Chevrolet,Corsa,1995,1.6 Wind,Violeta,Nafta,3,Manual,1.6,Hatchback,Publicado hace 5 días,218.000 km,5000000
+Chevrolet,Corsa,2008,1.6 Classic Super Pkele,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 5 días,275.000 km,6000000
+Chevrolet,Corsa,2005,1.8 Gl Aa Dh 5p,Azul,Nafta/GNC,5,Manual,1.8,Hatchback,Publicado hace 6 días,330.000 km,5500000
+Chevrolet,Corsa,2006,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 7 días,166.700 km,6500000
+Chevrolet,Corsa,2005,1.8,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 8 días,170.000 km,6500
+Chevrolet,Corsa,2005,1.6 3 Puertas Mod 2005 Aire Y Direccion,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 11 días,220.000 km,5500000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Beige,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 14 días,111.111 km,6000000
+Chevrolet,Corsa,2007,1.8 Gl Aa Dh 5p,Blanco,Nafta,5,Manual,1.8,Hatchback,Publicado hace 17 días,300.000 km,6000000
+Chevrolet,Corsa,2010,1.4 Classic,Blanco,Nafta,3,Manual,1.4,Hatchback,Publicado hace 17 días,190.000 km,7000000
+Chevrolet,Corsa,1997,1.6 Gl,Verde,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 21 días,10.000 km,4000000
+Chevrolet,Corsa,2006,1.8 Gls 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 24 días,222.888 km,7262500
+Chevrolet,Corsa,2001,1.7 D Wind,Verde,Diésel,4,Manual,1.7,Sedán,Publicado hace 26 días,111.111 km,4000000
+Chevrolet,Corsa,2006,1.8 Gls 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 24 días,222.888 km,7262500
+Chevrolet,Corsa,2001,1.7 D Wind,Verde,Diésel,4,Manual,1.7,Sedán,Publicado hace 26 días,111.111 km,4000000
+Chevrolet,Corsa,2008,1.8 Gl Aa+da,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 27 días,181.000 km,7500000
+Chevrolet,Corsa,2008,1.8 Gl Aa+da,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 2 meses,320.000 km,4500000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 5p,Verde,Nafta,5,Manual,1.8,Hatchback,Publicado hace 3 meses,191.000 km,6800000
+Chevrolet,Corsa,1999,Sedan 1.6 16v,Gris,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 3 meses,115.000 km,4500000
+Chevrolet,Corsa,2004,1.8 Gl Internet,Azul,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 9 días,173.000 km,7100000
+Chevrolet,Corsa,2013,1.4 Ls,Gris,Nafta,4,Manual,1.4,Sedán,Publicado hace 12 días,144.000 km,10000000
+Chevrolet,Corsa,2009,1.4 Wagon Classic Gls,Blanco,Nafta,5,Manual,1.4,Rural,Publicado hace 13 días,140.000 km,8700000
+Chevrolet,Corsa,1997,1.7 D Gl,Verde,Diésel,5,Manual,1.7,Hatchback,Publicado hace 14 días,250.000 km,1300000
+Chevrolet,Classic,2003,3 Puertas Aire Y Dirección 1.6,Blanco,Nafta,3,Manual,1.6,Sedán,Publicado hace 14 días,193.000 km,6200000
+Chevrolet,Corsa,2004,1.8 Gl Pack 1,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 17 días,320.000 km,6930000
+Chevrolet,Corsa,2007,1.8 Gl Aa Dh,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 19 días,200.000 km,6500000
+Chevrolet,Corsa,1998,1.6 Gl,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 22 días,250.000 km,3600000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Plateado,Nafta,5,Manual,1.6,Hatchback,Publicado hace 23 días,189.454 km,7000000
+Chevrolet,Corsa,2010,1.4 Classic Gls,Negro,Nafta,4,Manual,1.4,Sedán,Publicado hace 49 días,130.000 km,8500000
+Chevrolet,Corsa,2009,Classic Wagon Gls 1.6n,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 9 meses,330.000 km,6500000
+Chevrolet,Corsa,2005,1.6,No disponible,Nafta/GNC,3,No disponible,No disponible,No disponible,Publicado hace 7 meses,149.000 km,5500
+Chevrolet,Corsa,2003,Super 1.6,No disponible,Nafta/GNC,4,No disponible,No disponible,No disponible,Publicado hace 6 meses,140.379 km,4200
+Chevrolet,"1.4,",2011,"Full, Con Aire Acondicionado Y Calefacción Y Gnc",Rojo,Nafta/GNC,3,No disponible,1.4,No disponible,Publicado hace 30 días,171.000 km,7100000
+Chevrolet,Classic,2015,4p Sedan,Gris,Nafta,4,Manual,1.4,No disponible,Publicado hace 33 días,157.000 km,9000000
+Chevrolet,Classic,2008,3 Puertas Aire Y Dirección...,Gris,Nafta,3,No disponible,1.6,Coupé,Publicado hace 20 días,100.000 km,8750000
+Chevrolet,Oblea,2014,Al Día/4 Cubiertas Nuevas/todas Las Correas Nueva,Negro,Nafta/GNC,4,Automática,1.6,Sedán,Publicado hace 2 meses,221.000 km,8500
+Chevrolet,Corsa,2011,1.4,No disponible,Nafta/GNC,5,No disponible,No disponible,No disponible,Publicado hace 9 días,325.000 km,8000000
+Chevrolet,2016,2016,Con Gnc Ex Remis En Excelentes Condiciones,Blanco,Nafta/GNC,5,Manual,No disponible,Sedán,Publicado hace 44 días,210.000 km,7500000
+Chevrolet,Classic,2013,No disponible,Negro,Nafta/GNC,4,No disponible,No disponible,No disponible,Publicado hace 11 días,500.000 km,5900000
+Chevrolet,Chevroelt,2011,Corsa 1.4 Nafta,Blanco,Nafta,3,Manual,1.4,Coupé,Publicado hace 12 días,1.111 km,7000000
+Chevrolet,Corsa,2006,Wagon,Gris,Nafta/GNC,5,Manual,No disponible,No disponible,Publicado hace 16 días,224.000 km,6500000
+Chevrolet,Corsa,2013,1.4 Lt Nafta,Gris,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 19 días,176.000 km,10800000
+Chevrolet,Corsa,2007,Super Pack,Blanco,Nafta/GNC,5,Manual,1.6,No disponible,Publicado hace 24 días,325.000 km,6000000
+Chevrolet,No disponible,2005,No disponible,Azul,Nafta,5,Manual,1.6,Sedán,Publicado hace 3 meses,369.390 km,4500000
+Chevrolet,Corsa,1998,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 día,200.000 km,3700000
+Chevrolet,Corsa,1995,1.4 Gl Aa,Violeta,Nafta,3,Manual,1.4,Hatchback,Publicado hace 1 día,220.000 km,3500000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 3 días,248.000 km,6500000
+Chevrolet,Corsa,2009,1.4 Classic,Negro,Nafta/GNC,3,Manual,1.4,Hatchback,Publicado hace 4 días,63.000 km,8000000
+Chevrolet,Corsa,2010,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 12 días,205.000 km,6400000
+Chevrolet,Corsa,2007,1.8 Gl Aa Dh,Gris,Nafta/GNC,4,Manual,1.8,Sedán,Publicado hace 12 días,204.000 km,7800000
+Chevrolet,Wagon,2007,1.6 2007,Azul,Nafta/GNC,5,Manual,1.6,Sedán,Publicado hace 14 días,400.000 km,5500000
+Chevrolet,Corsa,2005,1.8 Gls 5p,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 15 días,190.000 km,6500000
+Chevrolet,Corsa,1998,1.6 Gl,Verde,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 15 días,190.000 km,5700000
+Chevrolet,Corsa,2008,No disponible,Azul,Nafta,5,Manual,1.8,Rural,Publicado hace 15 días,140.000 km,7500000
+Chevrolet,Chevrolet,2012,Corsa Lt Spirit 2012,Gris,Nafta,5,Manual,No disponible,No disponible,Publicado hace 19 días,141.000 km,9500000
+Chevrolet,Corsa,2010,1.4 Classic,Blanco,Nafta/GNC,3,Manual,1.4,Hatchback,Publicado hace 44 días,200.000 km,3500000
+Chevrolet,Corsa,2006,1.6 Super Pack,Azul,Nafta,4,Manual,1.6,Sedán,Publicado hace 50 días,10.000 km,5000
+Chevrolet,Corsa,2008,1.8 Gl Aa Dh 5p,Negro,Nafta,5,Manual,1.8,Hatchback,Publicado hace 2 meses,100.000 km,7600000
+Chevrolet,Corsa,1998,1.6 Gl,Gris,Nafta/GNC,4,Manual,1.6,Pick-Up,Publicado hace 3 meses,400.000 km,5500000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Rojo,Nafta,3,Manual,1.6,Hatchback,Publicado hace 1 día,97.000 km,5400000
+Chevrolet,Corsa,2004,1.7 Gls,Gris,Diésel,4,Manual,1.7,Sedán,Publicado hace 12 días,170.000 km,5500000
+Chevrolet,Corsa,2003,1.6 Gl Aa Dh,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 13 días,170.000 km,4500000
+Chevrolet,Corsa,1999,1.6 Super,Gris,Nafta,4,Manual,1.6,Sedán,Publicado hace 41 días,228.000 km,5200
+Chevrolet,Corsa,2010,1.4 Classic Gl,Blanco,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,400.000 km,5500000
+Chevrolet,Corsa,2011,3p 1.4 Full,Negro,Nafta,3,No disponible,1.4,No disponible,Publicado hace 4 meses,76.000 km,8900
+Chevrolet,Corsa,2007,3p. 1.6 Gi Aa Dh Primer Dueño. Exc Estado,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 1 año,123.000 km,7000
+Chevrolet,Corsa,2001,No disponible,Verde,Nafta,3,Manual,1.0,No disponible,Publicado hace 27 días,155.000 km,5500000
+Chevrolet,Ls,2014,No disponible,Blanco,Nafta,4,Manual,1.4,Sedán,Publicado hace 19 días,75.000 km,10900000
+Chevrolet,Corsa,2010,1.6,Rojo,Nafta,3,No disponible,No disponible,No disponible,Publicado hace 21 días,126.000 km,6500
+Chevrolet,Corsa,1998,1.6 Gls,Blanco,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 1 día,300.000 km,3000000
+Chevrolet,Corsa,2014,Classic 1.4 Linea Nueva Con Equipo De Gas,Negro,Nafta/GNC,5,Manual,1.4,No disponible,Publicado hace 4 días,217.000 km,5800000
+Chevrolet,3,2000,Puertas Modelo 2000 Papeles Al Día Vtv Vigente,Blanco,Nafta,5,Manual,1.6,Hatchback,Publicado hace 6 días,337.000 km,4500000
+Chevrolet,Corsa,1998,1.6 Gl Aa Dh,Blanco,Nafta,3,Manual,1.6,Hatchback,Publicado hace 7 días,190.000 km,5000000
+Chevrolet,Corsa,2005,1.6 Gl Aa Dh,Blanco,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 20 días,150.000 km,5500000
+Chevrolet,Corsa,2008,1.8 Gl Aa+da,Gris,Nafta,4,Manual,1.8,Sedán,Publicado hace 58 días,500.000 km,7500000
+Chevrolet,Corsa,1998,1.6 Gls,Rojo,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 2 meses,240.000 km,5000000
+Chevrolet,Corsa,2010,1.4 Classic,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 9 días,170.000 km,7500
+Chevrolet,Dos,2006,Gris,Gris,Nafta/GNC,5,Manual,1.6,No disponible,Publicado hace 14 días,290.000 km,6000
+Chevrolet,Corsa,2004,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 17 días,165.836 km,7000000
+Chevrolet,1.4,2012,Gnc De 5° Generación,Negro,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 17 días,150.000 km,3657000
+Chevrolet,Claccic,2015,No disponible,Blanco,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 20 días,108.000 km,11000000
+Chevrolet,Corsa,2009,1.4 Classic,Gris,Nafta,3,Manual,1.4,Hatchback,Publicado hace 22 días,6.000 km,7369000
+Chevrolet,Corsa,1995,1.4 Gl,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 27 días,240.000 km,4500000
+Chevrolet,Clásicc,2011,1.4 Modelo 2011 Lt Spirit,Dorado,Nafta/GNC,5,Manual,1.4,No disponible,Publicado hace 10 días,293.000 km,7500000
+Chevrolet,Corsa,2011,2011. Muy Cuidado.,Blanco,Nafta,3,Manual,1.4,No disponible,Publicado hace 2 meses,140.000 km,6400
+Chevrolet,Corsa,2012,1.4,No disponible,Nafta,4,No disponible,No disponible,No disponible,Publicado hace 1 día,230.000 km,8000000
+Chevrolet,1.6,2008,City,Plateado,Nafta,3,Manual,1.6,Sedán,Publicado hace 21 días,138.000 km,6200000
+Chevrolet,Corsa,2005,"1.6 ,3 Puertas , Motor 10 Puntos",Gris,Nafta,3,Manual,1.6,Sedán,Publicado hace 52 días,195.000 km,5000000
+Chevrolet,Corsa,2010,2010 1.4 Classic,No disponible,Nafta,3,Manual,1.4,Hatchback,Publicado hace 4 meses,1.000 km,5500000
+Chevrolet,Clásico,2007,4p Base,Gris,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 4 meses,200.000 km,6000000
+Chevrolet,Wagon,2006,1.6 Para Repuesto,Gris,Nafta/GNC,5,No disponible,No disponible,No disponible,Publicado hace 2 días,200.000 km,3093200
+Chevrolet,Corsa,2008,Easytronic,Azul,Nafta,4,Automática secuencial,1.8,Sedán,Publicado hace 13 días,120.000 km,7000000
+Chevrolet,Vtv,2014,"Asta Febrero 2026,con Gnc 5 Generacion Asta 2029",Plateado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 16 días,216.500 km,7500
+Chevrolet,No disponible,2007,No disponible,Verde,Nafta,3,No disponible,No disponible,No disponible,Publicado hace 24 días,170.000 km,7000000
+Chevrolet,Tres,2001,"Puertas , Mod 2001 Impecable!!",Gris,Nafta,3,Manual,No disponible,No disponible,Publicado hace 56 días,200.000 km,4800
+Chevrolet,En,2008,Buena Calidad Detalles,Gris,Nafta/GNC,3,Manual,1.6,Sedán,Publicado hace 5 meses,185.680 km,6000000
+Chevrolet,Spirit,2013,No disponible,Negro,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 5 meses,200.000 km,7000
+Chevrolet,Corsa,2010,1.4 Classic,Blanco,Nafta,3,Manual,1.4,Hatchback,Publicado hace 8 días,1.026.000 km,6000000
+Chevrolet,Corsa,2003,1.6 Gl Aa Dh,Gris,Nafta,5,Manual,1.6,Hatchback,Publicado hace 8 días,1.111.111 km,3500000
+Chevrolet,Corsa,1998,1.6 Gls,Gris,Nafta/GNC,4,Manual,1.6,Sedán,Publicado hace 48 días,5.000.000 km,4500000
+Chevrolet,Corsa,1999,1.6 Gl Aa Dh,Violeta,Nafta/GNC,5,Manual,1.6,Hatchback,Publicado hace 26 días,9.999.999 km,4000000
+Chevrolet,Corsa,2009,1.4 Classic Gls,Verde,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 13 días,180.000 km,8000000
+Chevrolet,Corsa,2005,1.8 Gl Aa Dh,Azul,Nafta,4,Manual,1.8,Sedán,Publicado hace 9 días,169.500 km,5990000
+Chevrolet,Classic,2012,1.4 Ls Gnc,Dorado,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 21 días,145.000 km,8000
+Chevrolet,Corsa,2007,1.6 Se Esp 2 Sw,Plateado,Nafta,5,Manual,1.6,Rural,Publicado hace 24 días,210.000 km,4400
+Chevrolet,Corsa,1999,1.6 Gl,Verde,Nafta,4,Manual,1.6,Pick-Up,Publicado hace 3 meses,99.000 km,5800
+Chevrolet,Corsa,2009,1.6 Classic Gl,Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 2 meses,134.000 km,6000
+Chevrolet,Corsa,2010,1.4 Cargo,Blanco,Nafta,3,Manual,1.4,Furgón,Publicado hace 17 días,200.000 km,1400
+Chevrolet,Corsa,2016,Classic Ls,Gris,Nafta/GNC,5,Manual,1.4,Sedán,Publicado hace 3 meses,250.000 km,8500000
+Chevrolet,Corsa,2010,1.4 Classic,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,110.000 km,7500
+Chevrolet,Corsa,2005,1.8 Gl Aa Dh 5p 2005 Gris,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 26 días,155.000 km,4999000
+Chevrolet,Corsa,2010,1.4 Classic,Rojo,Nafta,3,Manual,1.4,Hatchback,Publicado hace 2 meses,110.000 km,7500
+Chevrolet,Corsa,2005,1.8 Gl Aa Dh 5p 2005 Gris,Gris,Nafta,5,Manual,1.8,Hatchback,Publicado hace 26 días,155.000 km,4999000
+Chevrolet,Corsa,2009,1.4 Classic Gls C/gnc 2009 Gris,Gris,Nafta/GNC,4,Manual,1.4,Sedán,Publicado hace 2 años,122.000 km,5290000
+Chevrolet,Corsa,2007,1.6 Gl Aa Dh,Rojo,Nafta,5,Manual,1.6,Hatchback,Publicado hace 55 días,195.000 km,5270
+Chevrolet,Corsa,2009,1.4 Classic Gl,Plateado,Nafta,3,Manual,1.4,Hatchback,Publicado hace 1 mes,152.000 km,5500
+Chevrolet,Corsa,2008,"Classic Wagon 1.6n C/gnc , Anticipo $",Gris,Nafta,3,Manual,1.6,Hatchback,Publicado hace 1 año,170.000 km,5000000
+Chevrolet,Corsa,1998,1.6 Gl,Rojo,Nafta/GNC,4,Manual,1.6,Pick-Up,Publicado hace 2 meses,150.000 km,3500000

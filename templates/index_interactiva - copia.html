@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predicción de precio de autos usados</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
+
+    <style>
+        body {
+            background-color: #2B2A2A;
+            color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            height: 100vh;
+        }
+
+        .side-images {
+            width: 400px;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            background-color: #2B2A2A;
+        }
+
+        .side-images img {
+            width: 100%;
+            height: 33%;
+            object-fit: cover;
+            margin: 20px 0;
+            border-radius: 10px;
+        }
+
+        .form {
+            flex: 2;
+            background-color: #2B2A2A;
+            padding: 20px;
+            border-radius: 8px;
+            max-width: 600px;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0 20px;
+        }
+
+        .form h1 {
+            color: #FFFFFF;
+            margin-bottom: 0px;
+            text-align: center;
+	    margin-top: 0px;
+ 	    font-size: 24px; 
+        }
+
+        .form h2.subtitulo {
+            color: #2B2A2A; /* Cambia este valor para personalizar el color */
+            font-size: 10px;
+            margin-top: 0;
+            margin-bottom: 0px;
+            text-align: center;
+        }
+
+        .form label {
+            color: #FFFFFF;
+            font-size: 14px;
+            text-align: center;
+            width: 100%;
+            max-width: 300px;
+            margin: 0px auto;
+        }
+
+        .form select, .form input[type="number"] {
+            background-color: #4F4F4F;
+            color: #FFFFFF;
+            border: none;
+            padding: 10px;
+            margin: 2px auto;
+            border-radius: 4px;
+            width: 100%;
+            max-width: 300px;
+            text-align: center;
+            text-align-last: center;
+        }
+
+        .btn-ignition {
+            width: 150px;
+            height: 150px;
+            background-image: url('{{ url_for("static", filename="img/botonOFF2.png") }}');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+            cursor: pointer;
+            transition: background-image 1.0s ease, transform 0.8s ease;
+            margin-top: 0px;
+            position: relative;
+            left: 10px;
+            top: -13px;
+        }
+
+        .btn-ignition:hover {
+            background-image: url('{{ url_for("static", filename="img/botonON.jpg") }}');
+            transform: scale(1.05);
+        }
+
+        button[type="submit"] {
+            background-color: transparent;
+            color: transparent;
+            padding: 0;
+            border: none;
+            cursor: pointer;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <!-- Lado izquierdo con imagen -->
+    <div class="side-images">
+        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Imagen 1">
+        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Imagen 2">
+        <img src="{{ url_for('static', filename='img/Batimovil-Tim-Burton.jpg') }}" alt="Imagen Batimovil">
+    </div>
+
+    <!-- Formulario central -->
+    <div class="form">
+        <h1>Predictor de precio de usados</h1>
+        <h2 class="subtitulo">Sergio Díaz Colina</h2>
+        <form action="/predict" method="post">
+            <label for="marca">Marca:</label>
+            <select id="marca" name="marca" required>
+                <option value="">Seleccione una marca</option>
+                {% for marca in marcas %}
+                    <option value="{{ marca }}">{{ marca }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="modelo">Modelo:</label>
+            <select id="modelo" name="modelo" required disabled>
+                <option value="">Seleccione un modelo</option>
+            </select>
+
+            <label for="motor">Cilindrada:</label>
+            <select id="motor" name="motor" required disabled>
+                <option value="">Seleccione una cilindrada</option>
+            </select>
+
+            <label for="transmision">Transmisión:</label>
+            <select id="transmision" name="transmision" required disabled>
+                <option value="">Seleccione tipo de transmisión</option>
+            </select>
+
+            <label for="traccion">Tracción:</label>
+            <select id="traccion" name="traccion" required disabled>
+                <option value="">Seleccione tipo de tracción</option>
+            </select>
+
+            <label for="año">Año:</label>
+            <select name="ano" required>
+                {% for año in range(2024, 1989, -1) %}
+                    <option value="{{ año }}">{{ año }}</option>
+                {% endfor %}
+            </select>
+
+            <label for="kilometros">Kilómetros:</label>
+            <input type="number" name="kilometros" min="0" required>
+
+            <button type="submit" class="btn-ignition"></button>
+        </form>
+    </div>
+
+    <!-- Lado derecho con imagen -->
+    <div class="side-images">
+        <img src="{{ url_for('static', filename='img/toyo.jpg') }}" alt="Imagen 3">
+        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Imagen 4">
+        <img src="{{ url_for('static', filename='img/171197.jpg') }}" alt="Imagen Odómetro">
+    </div>
+
+    <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
+</body>
+</html>
+

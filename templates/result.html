@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Resultado Predicción + Feature Importance</title>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+    h2, h3 {
+      margin-bottom: 10px;
+    }
+    .flex-container {
+      display: flex;
+      gap: 40px;
+      align-items: flex-start;
+      width: 100%;
+    }
+    .grafico {
+      flex: 1;
+      max-width: 700px;
+    }
+    /* Empuja el segundo gráfico (Feature Importance) hacia la derecha */
+    .flex-container .grafico:nth-child(2) {
+      margin-left: auto;
+      padding-left: 200px;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>Resultado</h2>
+  <p>{{ resultado|safe }}</p>
+
+  <div class="flex-container">
+    <!-- Precio vs Kilómetros -->
+    <div class="grafico">
+      <div id="graficaPrecio" style="width:100%;height:450px;"></div>
+    </div>
+
+    <!-- Feature Importance filtrada -->
+    <div class="grafico">
+      <div id="graficaFeatureImportance" style="width:100%;height:450px;"></div>
+    </div>
+  </div>
+
+  <script>
+    // Datos que vienen de Flask
+    const kms            = {{ curva_kms|default([])|tojson }};
+    const precios        = {{ curva_precios|default([])|tojson }};
+    const kmUsuario      = {{ kilometros|default(0) }};
+    const features       = {{ features|default([])|tojson }};
+    const importancias   = {{ importancias|default([])|tojson }};
+    const selMarca       = "{{ marca|default('') }}";
+    const selModelo      = "{{ modelo|default('') }}";
+    const selTransmision = "{{ transmision|default('') }}";
+    const selTraccion    = "{{ traccion|default('') }}";
+
+    // ——— 1) Gráfico Precio vs Kilómetros ———
+    function interpola(xs, ys, x) {
+      for (let i = 0; i < xs.length - 1; i++) {
+        if (xs[i] <= x && x <= xs[i+1]) {
+          return ys[i] + (ys[i+1] - ys[i]) * (x - xs[i]) / (xs[i+1] - xs[i]);
+        }
+      }
+      return x < xs[0] ? ys[0] : ys[ys.length - 1];
+    }
+
+    const maxP = 20;
+    const validos = kms.map((k,i)=>({km:k, precio:precios[i]}))
+                       .filter(o=> o.km >= 1000);
+    const idx = validos.findIndex(o=> o.km >= kmUsuario);
+    let start = Math.max(0, idx - Math.floor(maxP/2));
+    let end   = Math.min(validos.length, start + maxP);
+    if (end - start < maxP) start = Math.max(0, end - maxP);
+    const slice = validos.slice(start, end);
+    let xs = slice.map(o=>o.km), ys = slice.map(o=>o.precio);
+    if (!xs.includes(kmUsuario)) {
+      const pos = xs.findIndex(v=> v > kmUsuario);
+      const p   = interpola(kms, precios, kmUsuario);
+      if (pos === -1) { xs.push(kmUsuario); ys.push(p); }
+      else { xs.splice(pos,0,kmUsuario); ys.splice(pos,0,p); }
+    }
+    const kmR = Math.round(kmUsuario),
+          pR  = Math.round(interpola(kms, precios, kmUsuario));
+
+    const configPrecio = {
+      modeBarButtonsToRemove: [
+        'sendDataToCloud',
+        'lasso2d',
+        'select2d',
+        'zoomIn2d',
+        'zoomOut2d',        
+        'toggleSpikelines',
+        'hoverCompareCartesian',
+        'hoverClosestCartesian',
+        'resetScale2d',        
+        'pan2d',
+      ],
+      displaylogo: false
+    };
+
+    Plotly.newPlot('graficaPrecio', [
+      { x: xs, y: ys, mode: 'lines+markers', name: 'Estimado',
+        hovertemplate: '%{x:,.0f} km<br>$%{y:,.0f}<extra></extra>' },
+      { x: [kmR], y: [pR], mode: 'markers',
+        name: `${kmR.toLocaleString()} km`,
+        marker: { size: 14, symbol: 'star' },
+        hovertemplate: '%{x:,.0f} km<br>$%{y:,.0f}<extra></extra>' }
+    ], {
+      // title: 'Precio vs Kilómetros',  // <-- Eliminado el título aquí
+      xaxis: { title: 'Kilómetros', tickformat: ',.0f' },
+      yaxis: {
+        automargin: true,
+        title: { text: 'Precio (ARS)', standoff: 5 },
+        tickformat: ',.0f'
+      },
+      width: 950,
+      height: 550,
+      margin: { t: 50 }
+    }, configPrecio);
+
+    // ——— 2) Gráfico Feature Importance filtrada ———
+    const selected = features
+      .map((f,i) => ({ f, imp: importancias[i] }))
+      .filter(o =>
+        o.f === 'motor' ||
+        o.f === 'ano' ||
+        o.f === 'kilometros' ||
+        o.f === `marca_${selMarca}` ||
+        o.f === `modelo_${selModelo}` ||
+        o.f === `transmision_${selTransmision}` ||
+        o.f === `traccion_${selTraccion}`
+      );
+
+    const yVals = selected.map(o => {
+      if (o.f === 'ano') return 'Año';
+      return o.f.replace(/_/g,' ').replace(/\b\w/g,l=>l.toUpperCase());
+    });
+    const xVals = selected.map(o=>o.imp);
+
+    const traceFI = {
+      x: yVals,
+      y: xVals,
+      type: 'bar',
+      marker: { color: 'rgba(54,162,235,0.7)' },
+      hovertemplate: '%{x}<br>%{y:.2f}%<extra></extra>'
+    };
+
+    const layoutFI = {
+      // title: 'Importancia (%) de características seleccionadas', // <-- Eliminado el título aquí
+      xaxis: {
+        title: 'Característica',
+        tickangle: -45,
+        automargin: true
+      },
+      yaxis: {
+        title: '% Importancia'
+      },
+      width: 550,
+      height: 550,
+      margin: { t: 60, b: 150 }
+    };
+
+    const configFI = {
+      modeBarButtonsToRemove: [
+        'sendDataToCloud',
+        'lasso2d',
+        'select2d',
+        'zoom2d',
+        'zoomIn2d',
+        'zoomOut2d',
+        'autoScale2d',
+        'toggleSpikelines',
+        'hoverCompareCartesian',
+        'hoverClosestCartesian',
+        'resetScale2d',        
+        'toImage',
+        'pan2d', 
+      ],
+      displaylogo: false
+    };
+
+    Plotly.newPlot(
+      'graficaFeatureImportance',
+      [ traceFI ],
+      layoutFI,
+      configFI
+    );
+  </script>
+</body>
+</html>
+
+
+
+
+
+

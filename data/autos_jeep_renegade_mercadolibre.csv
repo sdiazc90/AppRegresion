@@ -1,0 +1,933 @@
+Marca,Modelo,Año,Versión,Color,Tipo de combustible,Puertas,Transmisión,Motor,Tipo de carrocería,Fecha publicación,Kilómetros,Precio
+Jeep,Renegade,2021,1.8 Sport At Plus 2021 (fran),Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,109.000 km,22700000
+Jeep,Renegade,2018,1.8 Sport 2018 (fran),Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,166.000 km,18900000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,48.000 km,13440000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,48.000 km,26989900
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,75.286 km,28900
+Jeep,Renegade,2020,1.8 Longitude At6 Año 2020 - Liv Motors,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,59.000 km,23000
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 29 días,52.000 km,24000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 35 días,114.000 km,16500
+Jeep,Renegade,2022,1.8 Longitude At6 Cactus Kicks Hrv 2008,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 49 días,49.000 km,32000000
+Jeep,Renegade,2021,1.8 Sport 64.000km 2021 (fran),Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 49 días,64.000 km,23500000
+Jeep,Renegade,2022,1.8 Longitude At6 Cross C4 Cactus Nivus Kicks,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 57 días,49.000 km,32000000
+Jeep,Renegade,2018,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,67.476 km,25190
+Jeep,Renegade,2023,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,31.314 km,27390
+Jeep,Renegade,2022,Sport 2022 42.275km,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,42.275 km,29500000
+Jeep,Renegade,2020,1.8 Sport At,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 46 días,68.000 km,21200
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,51.000 km,26200000
+Jeep,Renegade,2022,1.8 4x2 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,53.000 km,25900
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,84.737 km,21900
+Jeep,Renegade,2023,1.8 Sport Impecable Estado,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 29 días,88.000 km,24380
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 8 meses,83.000 km,21900000
+Jeep,Renegade,2020,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,72.900 km,27500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,82.400 km,23990000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,95.000 km,20800000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,36.000 km,29000000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,76.000 km,23500000
+Jeep,Renegade,2023,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 11 días,19.000 km,29500000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 56 días,80.901 km,29500000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,15.976 km,30000000
+Jeep,Renegade,2024,Sport 1.8 Caja Manual Año 2024,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,590 km,30000000
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 1 día,3.300 km,32000
+Jeep,Renegade,2017,1.8 4x2 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,110.000 km,17900
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,105.000 km,26900000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 24 días,88.000 km,21900000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,93.000 km,21490000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,93.000 km,21490000
+Jeep,Renegade,2019,1.8 4x2 Sport At L18,Verde,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 32 días,86.000 km,26000000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,100.500 km,21600
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,78.000 km,28400000
+Jeep,Renegade,2018,1.8 Sport At6 Carwestcaba,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,72.340 km,22900000
+Jeep,Renegade,2021,1.8 Sport-uslraiti,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,111.333 km,21900000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,192.000 km,20700000
+Jeep,Renegade,2020,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,60.000 km,24500000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,14.600 km,27990
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,62.000 km,20500
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,111.111 km,21000000
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,111.111 km,21000000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 41 días,18.000 km,24990
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 52 días,52.100 km,29900
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,129.000 km,25990000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,78.300 km,23500
+Jeep,Renegade,2021,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,98.000 km,14434900
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,98.000 km,23900
+Jeep,Renegade,2017,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,80.000 km,19500
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,55.100 km,23500000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 46 días,19.000 km,24990
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,67.726 km,22999
+Jeep,Renegade,2024,1.3 Serie-s At6,Negro,Nafta,5,Automática,1.3,SUV,Publicado hace 3 días,1.200 km,37299000
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 3 días,1.200 km,38290000
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 3 días,1.200 km,36299800
+Jeep,Renegade,2018,1.8 4x2 Sport At 2018 Rpm Moviles,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,67.000 km,23900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 29 días,71.000 km,23500000
+Jeep,Renegade,2021,1.8 Sport Usados,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 33 días,68.000 km,25500000
+Jeep,Renegade,2017,1.8 Sport At,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 35 días,118.000 km,16490
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 35 días,88.500 km,19700000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 54 días,100.000 km,25900000
+Jeep,Renegade,2020,1.8 Longitude At6 /,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 55 días,90.554 km,27500000
+Jeep,Renegade,2019,1.8 Sport At Plus /,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,57.400 km,24490000
+Jeep,Jeep,2019,Renegade 1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,58.435 km,24900000
+Jeep,Renegade,2017,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,108.000 km,20900000
+Jeep,Renegade,2024,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,21.000 km,26999
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,1.000 km,30490000
+Jeep,Renegade,2021,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,92.000 km,19900
+Jeep,Renegade,2018,1.8 Longitude At6 - Brian Avalos,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,89.500 km,21900000
+Jeep,Renegade,2022,1.8 4x2 Longitude At L18,Negro,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 21 días,90.200 km,30900000
+Jeep,Renegade,2017,1.8 Sport At,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,118.000 km,16490
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 40 días,86.800 km,22900000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,67.000 km,18500
+Jeep,Renegade,2022,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,49.254 km,31000000
+Jeep,Renegade,2020,1.8 Sport Us,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,68.500 km,20900000
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,2.500 km,30590000
+Jeep,Renegade,2019,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,101.000 km,18700
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,1.500 km,30490000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,81.000 km,21800000
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,76.000 km,21600000
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,105.000 km,20800000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,99.500 km,18000
+Jeep,Renegade,2019,1.8 4x2 Longitude At L18,Grafito,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 14 días,61.600 km,28700000
+Jeep,Renegade,2019,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,68.000 km,18000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,95.000 km,17000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,103.000 km,25500000
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 55 días,103.000 km,17000
+Jeep,Renegade,2022,1.8 Longitude At6 J.r,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 mes,49.254 km,32000000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,58.200 km,23988000
+Jeep,Renegade,2024,Sport Manual 0km Duster Kicks 2008 Hrv Ecospor,Gris,Nafta,5,Manual,1.8,Crossover,Publicado hace 11 meses,1.111 km,30900000
+Jeep,Renegade,2018,1.8 4x2 Sport At 2018 - Rpm Moviles,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,150.000 km,20900000
+Jeep,Renegade,2023,1.8 Sport Mt5 Fwd,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,31.000 km,22400
+Jeep,Renegade,2018,1.8 4x2 Longitude At L18,Gris plata,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 42 días,89.000 km,27900000
+Jeep,Renegade,2023,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,5.000 km,30599000
+Jeep,Renegade,2020,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,74.000 km,22600000
+Jeep,Renegade,2016,1.8 Sport 2016,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,69.234 km,19900000
+Jeep,Renegade,2022,2022 - Linea Nueva 1.8 - Sport // 35.600km,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 42 días,35.600 km,25000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,75.000 km,30000000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,84.000 km,20500
+Jeep,Renegade,2024,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,17.000 km,29500000
+Jeep,Renegade,2024,1.3 Serie-s At6,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 9 días,21.000 km,32500
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 32 días,76.000 km,17800
+Jeep,Renegade,2024,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,500 km,32000000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,105.000 km,21500000
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,1.400 km,27700
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 44 días,79.000 km,18900
+Jeep,Renegade,2018,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,95.700 km,18000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,107.000 km,12900
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,80.000 km,17750
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 34 días,95.500 km,17500
+Jeep,Renegade,2023,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,28.000 km,24300
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,148.000 km,15500
+Jeep,Trailhawk,2018,No disponible,Blanco,Diésel,5,Automática,2.4,SUV,Publicado hace 30 días,129.000 km,23000
+Jeep,Renegade,2020,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,51.000 km,21999
+Jeep,Renegade,2023,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 24 días,9.900 km,23990
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,29.000 km,26700
+Jeep,Renegade,2019,2019 1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,85.000 km,17800
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 5 días,101.000 km,18999
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,47.500 km,23000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,46.000 km,24900
+Jeep,Renegade,2017,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 36 días,150.000 km,15990
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 54 días,68.000 km,23500
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,136.000 km,21700000
+Jeep,Renegade,2017,1.8l Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,105.610 km,16000
+Jeep,Renegade,2017,"1.8 Sport Pluss Prinera Mano, Service Of",Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,37.000 km,23000000
+Jeep,Renegade,2020,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 5 días,62.000 km,22500
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,88.467 km,19300000
+Jeep,Renegade,2017,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,114.000 km,19500000
+Jeep,Renegade,2018,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,71.000 km,20200000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,83.000 km,21800
+Jeep,Renegade,2019,1.8 Sport Plus /// 2019 - 80.000km,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,80.000 km,20000
+Jeep,Renegade,2020,1.8 Sport At Plus/cuero,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,24.900 km,24300
+Jeep,Renegade,2017,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,47.000 km,21000
+Jeep,Renegade,2018,1.8 Sport At Plus // 4630000,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,122.000 km,21500000
+Jeep,Renegade,2020,1.8 Longitude At6 // 4630000,Marrón,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,137.000 km,25500000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 31 días,106.000 km,16999
+Jeep,Renegade,2018,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,74.800 km,20500
+Jeep,Renegade,2017,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,84.000 km,19900
+Jeep,Renegade,2020,2020 1.8 Longitude At6 // 4630000,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 6 meses,92.000 km,25900000
+Jeep,At,2018,9,Blanco,Diésel,4,Automática secuencial,2.0,SUV,Publicado hace 9 días,120.000 km,25000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,76.000 km,16900
+Jeep,Renegade,2018,Sport 1.8 At6 - Color Verde Militar - 2018,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,76.000 km,21700000
+Jeep,Renegade,2021,2.4 Longitude At,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 24 días,85.000 km,21000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,114.160 km,19800
+Jeep,Renegade,2021,1.8 4x2 Sport L16,Negro,Nafta,5,Manual,INYECCION MULTI PUNTO,SUV,Publicado hace 6 meses,40.600 km,28400000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,60.000 km,28990000
+Jeep,Renegade,2019,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,100.000 km,20800
+Jeep,Renegade,2023,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 6 días,38.000 km,27500000
+Jeep,Renegade,2018,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,110.000 km,19500
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,54.000 km,24900
+Jeep,Renegade,2018,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,80.000 km,19000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 43 días,137.000 km,15600
+Jeep,Renegade,2020,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 55 días,105.000 km,22000
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 56 días,5.300 km,27000
+Jeep,Renegade,2020,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,57.000 km,26000000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,75.000 km,17900
+Jeep,Renegade,2024,1.8 Sport At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,18.000 km,28500000
+Jeep,Renegade,2020,1.8 Sport At6 - 1era. Mano . Sept/2020,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,75.000 km,19000
+Jeep,Renegade,2022,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,40.000 km,31900000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,96.000 km,18000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,70.000 km,18000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 31 días,72.000 km,20500
+Jeep,Renegade,2018,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 35 días,69.100 km,17500
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 37 días,84.000 km,19000
+Jeep,Renegade,2016,2.4 L Longitude 4x4 2016,Plateado,Nafta,5,Automática,2.4,SUV,Publicado hace 38 días,122.000 km,20900
+Jeep,Renegade,2017,2.4 Longitude At,Rojo,Nafta,5,Automática,2.4,SUV,Publicado hace 45 días,117.000 km,20300
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,145.000 km,18000000
+Jeep,Renegade,2017,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,58.000 km,18000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,79.000 km,25000000
+Jeep,Renegade,2018,2.4 Longitude At,Azul,Nafta,5,Automática,2.4,SUV,Publicado hace 17 días,59.000 km,23800000
+Jeep,Renegade,2017,2.4 Longitude At,Gris,Nafta,5,Automática,2.4,SUV,Publicado hace 27 días,109.000 km,19000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 27 días,100.500 km,24800000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,80.000 km,21500
+Jeep,Renegade,2018,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,61.741 km,18500
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 46 días,115.000 km,17000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 46 días,60.000 km,24000
+Jeep,Renegade,2024,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 48 días,10.600 km,30900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 48 días,100.000 km,19500000
+Jeep,Renegade,2023,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 49 días,35.000 km,31500000
+Jeep,Renegade,2017,1.8 Sport At,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,91.000 km,18900
+Jeep,Renegade,2017,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,73.966 km,17900
+Jeep,Renegade,2018,1.8 Sport Plus Manual,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 7 meses,139.000 km,18500000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,71.000 km,20500
+Jeep,Renegade,2018,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,No disponible,Publicado hace 3 días,66.000 km,23100
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,17.200 km,32000000
+Jeep,Renegade,2022,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,26.000 km,32000000
+Jeep,Renegade,2021,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,93.000 km,27000000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,120.000 km,20000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 17 días,140.000 km,17900
+Jeep,Renegade,2018,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 18 días,84.000 km,23100
+Jeep,Renegade,2022,1.8 Sport,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,23.000 km,27500000
+Jeep,Renegade,2023,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 27 días,25.000 km,30000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 44 días,49.000 km,22000
+Jeep,Renegade,2017,1.8 Sport At / Permuto/ Financio,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 47 días,96.000 km,17900
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 mes,65.000 km,20000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,100.000 km,22000
+Jeep,Renegade,2022,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,32.000 km,30000000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,82.000 km,21500000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,85.000 km,21000000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,97.000 km,19900000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 17 días,160.000 km,16000
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 42 días,103.000 km,23500
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 49 días,73.000 km,22500000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 57 días,111.111 km,33500000
+Jeep,Renegade,2017,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,129.600 km,16850
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,76.000 km,24990000
+Jeep,Renegade,2022,1.8 Sport At Plus Tomo Menor Valor,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 6 meses,62.000 km,27000000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,89.200 km,28900000
+Jeep,Renegade,2024,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,15.200 km,29500000
+Jeep,Renegade,2019,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 51 días,75.000 km,21800000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,23.200 km,23000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,29.000 km,26900
+Jeep,Renegade,2018,Longitude At,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,97.000 km,22400000
+Jeep,Renegade,2017,2.4 4x4 Longitude At L16,blanca,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 6 meses,71.156 km,29600000
+Jeep,Renegade,2020,1.8 Sport At,Negro,Nafta,5,Automática,1.8,No disponible,Publicado hace 29 días,78.000 km,25900000
+Jeep,Renegade,2024,2024 2.4 Trailhawk At9 4x4,Gris oscuro,Nafta,5,Automática,No disponible,No disponible,Publicado hace 29 días,21.000 km,38900
+Jeep,Renegade,2018,1.8 Longitude At6,Rojo,Nafta,5,Automática secuencial,No disponible,SUV,Publicado hace 33 días,90.700 km,22990000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,No disponible,No disponible,No disponible,Publicado hace 32 días,65.000 km,26500000
+Jeep,Renegade,2022,1.8 Sport Plus Manual 1° Mano 22000km Año 2022,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 31 días,23.000 km,28000000
+Jeep,Renegade,2024,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 2 días,8.000 km,40000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,80.000 km,19000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,62.500 km,21400
+Jeep,Renegade,2018,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,155.000 km,19500000
+Jeep,Renegade,2019,2.4 Longitude At,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 1 mes,63.200 km,23300
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,50.000 km,18400
+Jeep,Renegade,2019,Longitude 1.8 At6 2019,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,73.000 km,26000000
+Jeep,Renegade,2023,Trailhawk 4x4. El Mejor...excelente Estado!,Gris,Nafta,5,Automática,1.3,Crossover,Publicado hace 25 días,42.300 km,41000
+Jeep,Renegade,2019,Longitude 1.8 At6 2019,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,73.000 km,26000000
+Jeep,Renegade,2023,Trailhawk 4x4. El Mejor...excelente Estado!,Gris,Nafta,5,Automática,1.3,Crossover,Publicado hace 25 días,42.300 km,41000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,21.500 km,25500000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,102.000 km,17800
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,79.000 km,24500000
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 35 días,67.000 km,22000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 42 días,72.000 km,26500000
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,12.500 km,27000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,38.000 km,23000000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,92.000 km,27500000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 34 días,64.000 km,21900
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 57 días,51.000 km,28000000
+Jeep,Renegade,2018,1.8 Sport Plus,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,140.000 km,22500000
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,52.000 km,30000000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,1.000 km,25800
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,99.000 km,19000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 55 días,23.132 km,25000000
+Jeep,Renegade,2017,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,110.000 km,18500
+Jeep,Renegade,2023,Sport 1.8 At { Unico Dueño - Exelente },Gris,Nafta,5,Automática secuencial,1.8,Rural,Publicado hace 33 días,27.000 km,25800
+Jeep,Renegade,2017,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,98.000 km,17900
+Jeep,Renegade,2024,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,6.000 km,23500
+Jeep,Renegade,2016,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 29 días,54.500 km,18900
+Jeep,Renegade,2016,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 3 días,160.000 km,19000000
+Jeep,Trailhwak,2018,Gasolera 4x4,Negro,Diésel,5,Automática,2.0,No disponible,Publicado hace 6 días,127.000 km,21000
+Jeep,Renegade,2016,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 48 días,136.000 km,17000000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 53 días,80.000 km,21500
+Jeep,Renegade,2021,2021 1.8 Sport At Plus,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 11 meses,56.000 km,23500
+Jeep,Renegade,2018,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,105.000 km,17000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 42 días,5.250 km,31500000
+Jeep,Renegade,2020,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,83.000 km,21000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,84.500 km,26391400
+Jeep,Renegade,2018,1.8 Sport Usada /fr,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,76.000 km,21499999
+Jeep,Renegade,2018,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,60.000 km,23500000
+Jeep,Renegade,2023,Sport Mt 2023,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 29 días,88.000 km,29499999
+Jeep,Renegade,2018,1.8 4x2 Longitude At L18,Blanco,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 46 días,132.621 km,22370000
+Jeep,Renegade,2024,1.8 Sport At -okm Patentada-permuto Yoni Autos,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,3.000 km,27900
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,42.700 km,23400
+Jeep,Renegade,2021,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 41 días,89.799 km,22500
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 45 días,94.700 km,20000
+Jeep,Renegade,2021,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,37.900 km,23600
+Jeep,Renegade,2024,1.8 Sport At6 Eg Automoviles,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,5.100 km,34500000
+Jeep,Renegade,2020,Sport Plus Automatica Con Cuero 2020 Negra,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 9 meses,83.000 km,24900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,130.000 km,19500
+Jeep,Renegade,2019,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,95.000 km,21900000
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,78.000 km,23990000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,20.000 km,27800
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,20.000 km,27800
+Jeep,Renegade,2020,2020 1.8 Sport Plus,No disponible,Nafta,5,Manual,1.8,SUV,Publicado hace 1 año,40.000 km,26800000
+Jeep,Renegade,2018,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,91.000 km,18500
+Jeep,Renegade,2021,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,95.000 km,19400
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,132.700 km,22500000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,16.780 km,28000000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,76.000 km,32899000
+Jeep,Renegade,2017,1.8 Sport At-carhaus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,79.900 km,17500
+Jeep,Renegade,2016,Automatica 1.8 - 2016 - Hermosa !!!!,Gris,Nafta,5,Automática,2.4,SUV,Publicado hace 6 meses,110.000 km,23500000
+Jeep,Renegade,2022,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,39.500 km,29000000
+Jeep,Renegade,2017,2.4 Longitude At,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 8 días,45.000 km,22000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,78.000 km,21500
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,36.000 km,23900
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,96.000 km,24500000
+Jeep,Renegade,2020,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 50 días,80.056 km,26000000
+Jeep,Renegade,2018,Sport 1.8 At6 2018 Gps Automotores,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,91.400 km,24300000
+Jeep,Renegade,2024,1.3 Serie-s At6 2025 8.800km,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 3 meses,8.400 km,32500
+Jeep,Renegade,2018,1.8 Sport At6 Carwestcaba,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,72.340 km,22900000
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,84.000 km,27500000
+Jeep,Renegade,2017,1.8 Sport At Carwestcaba,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,80.400 km,21900000
+Jeep,Renegade,2024,1.3 Serie-s At6,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 20 días,3.400 km,39000000
+Jeep,Renegade,2019,1.8 4x2 Sport 2019,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 48 días,100.500 km,17900
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,79.000 km,18500
+Jeep,Renegade,2017,1.8 Sport,Marrón,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,75.000 km,23000000
+Jeep,Renegade,2022,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 meses,16.000 km,28500000
+Jeep,Renegade,2023,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,35.125 km,29800000
+Jeep,Renegade,2024,1.8 Sport Automática 2024 Gris - Tute Cars V,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,13.016 km,27800
+Jeep,Renegade,2018,1.8 4x2 Sport 2018,Verde oscuro,Nafta,5,Automática,No disponible,SUV,Publicado hace 11 días,62.297 km,21220000
+Jeep,Renegade,2023,1.8 Sport At6 Carwestcaba,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,38.500 km,28900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,111.300 km,23300000
+Jeep,Renegade,2017,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,96.000 km,17500
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,119.600 km,16500
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,99.000 km,18800
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,100.000 km,24000000
+Jeep,Renegade,2020,1.8 Longitude At6 2020 1167468820,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,65.000 km,23900
+Jeep,Renegade,2018,1.8 Longitude At6 Carwestcaba,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,75.000 km,22900000
+Jeep,Renegade,2021,1.8 Sport At Imperdible!! Igual A Nuevo!,Gris,Nafta,4,Automática,1.8,SUV,Publicado hace 7 días,53.000 km,23800000
+Jeep,Renegade,2019,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,78.000 km,25500000
+Jeep,Renegade,2018,1.8 Sport,Marrón,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,175.000 km,15500
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,119.600 km,16500
+Jeep,Renegade,2022,1.8 Longitude At 2022 Urion Autos,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,59.450 km,28500000
+Jeep,Renegade,2021,1.8 4x2 Sport At 2021,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,73.225 km,25316400
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,80.901 km,29500000
+Jeep,Renegade,2017,Sport Manual 2017,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,105.000 km,15990
+Jeep,Renegade,2021,1.8 Sport La Plata 730,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,57.181 km,25962000
+Jeep,Renegade,2024,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,500 km,34000000
+Jeep,Renegade,2018,1.8 4x2 Sport 2018,Blanco,Nafta,5,Automática,No disponible,SUV,Publicado hace 19 días,85.296 km,22500000
+Jeep,Renegade,2020,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,62.000 km,21000
+Jeep,Renegade,2019,1.8 Longitude At6 La Plata 135,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,108.365 km,25493000
+Jeep,Renegade,2019,1.8 4x2 Sport At 2020 La Plata 982,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 53 días,43.163 km,25900000
+Jeep,Renegade,2019,1.8 Longitude At6 La Plata 135,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,108.365 km,25493000
+Jeep,Renegade,2019,1.8 4x2 Sport At 2020 La Plata 982,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 53 días,43.163 km,25900000
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,17.500 km,27250000
+Jeep,Renegade,2021,No disponible,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 meses,27.996 km,29500000
+Jeep,Renegade,2019,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,95.000 km,23400000
+Jeep,Exc.,2020,Estado. Serv. Ofic. Jeep Renegade Longitude At6.,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,73.423 km,26990000
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,84.000 km,19500
+Jeep,Renegade,2018,2.4 Longitude At,Azul,Nafta,5,Automática,2.4,SUV,Publicado hace 3 meses,97.000 km,23999900
+Jeep,Renegade,2018,1.8 Sport At Plus Da,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,57.000 km,22699900
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,75.000 km,24044000
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 47 días,60.000 km,27000
+Jeep,Renegade,2019,1.8 4x2 Longitude At 2019,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,99.000 km,22000
+Jeep,Renegade,2021,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,45.000 km,22500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,22.037 km,24900
+Jeep,Renegade,2020,2.4 Longitude At,Azul,Nafta,5,Automática,2.4,SUV,Publicado hace 19 días,60.000 km,24800
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,28.000 km,27500
+Jeep,Renegade,2021,1.8 Sport Mt 4x2 2021,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 8 meses,47.803 km,27700000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,73.433 km,23900
+Jeep,Renegade,2017,1.8 Sport At,Marrón,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,58.000 km,22900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,91.000 km,18500
+Jeep,Renegade,2019,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,132.000 km,23500000
+Jeep,Renegade,2017,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,96.000 km,18000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,62.000 km,22800000
+Jeep,Renegade,2020,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,51.000 km,23000
+Jeep,Renegade,2021,2021 Sport Mt 1.8 Gnc - 81.000 Km,Blanco,Nafta/GNC,5,Manual,1.8,SUV,Publicado hace 7 meses,81.000 km,23500
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,67.000 km,21500000
+Jeep,Renegade,2023,1.3 Trailhawk At9 4x4,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 14 días,13.000 km,49000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,50.000 km,22500000
+Jeep,Renegade,2017,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,95.400 km,18500
+Jeep,Renegade,2021,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 20 días,36.093 km,23000
+Jeep,Renegade,2022,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,34.000 km,26900000
+Jeep,Renegade,2022,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,32.000 km,25900
+Jeep,Renegade,2024,Serie S 1.3t At6 Tiptronic Año 2024,Blanco,Nafta,5,Automática secuencial,1.3,SUV,Publicado hace 32 días,6.700 km,36800000
+Jeep,Renegade,2018,1.8 Sport Wild,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 54 días,115.600 km,18000
+Jeep,Renegade,2022,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,42.000 km,27000000
+Jeep,Renegade,2023,1.3 Serie-s At6,Azul,Nafta,5,Automática,1.3,SUV,Publicado hace 3 meses,23.000 km,32900
+Jeep,Renegade,2023,2.4 Longitude At,Blanco,Nafta,5,Automática,2.4,SUV,Publicado hace 3 meses,1.000 km,46000000
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,83.000 km,23000000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,79.000 km,17500
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 47 días,61.000 km,26890000
+Jeep,Renegade,2019,1.8 4x2 Sport At L18,Gris oscuro,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 2 meses,120.000 km,24900000
+Jeep,Renegade,2020,1.8 L Sport Mt,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,37.500 km,22700
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,110.000 km,24000000
+Jeep,Renegade,2018,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,95.000 km,20950000
+Jeep,Renegade,2018,2.4 Longitude At,Rojo,Nafta,5,Automática,2.4,SUV,Publicado hace 3 días,90.000 km,21000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,82.000 km,17500
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,125.000 km,18500
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,90.000 km,19000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 31 días,56.000 km,28500000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 49 días,116.000 km,19500000
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,90.000 km,16900
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,39.000 km,27000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,61.000 km,25000000
+Jeep,Renegade,2019,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,62.000 km,24900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 41 días,123.000 km,24500000
+Jeep,Renegade,2017,1.8 4x2 Sport Plus At L17,Verde oscuro,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 2 meses,97.000 km,21900000
+Jeep,Renegade,2024,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,6.600 km,29300000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,119.000 km,16800
+Jeep,Excelente,2018,"Estado, Unico Conductor",Naranja,Diésel,5,Automática,2.0,SUV,Publicado hace 3 días,130.000 km,21500
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 12 días,82.900 km,22800000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,102.000 km,24200000
+Jeep,Renegade,2020,1.8 Sport At,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,66.000 km,27000000
+Jeep,Renegade,2023,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,44.800 km,30500000
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 24 días,60.000 km,29000000
+Jeep,Renegade,2017,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 33 días,53.000 km,17500
+Jeep,Renegade,2018,2.4 Longitude At,Gris,Nafta,5,Automática,2.4,SUV,Publicado hace 34 días,38.000 km,22000
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 36 días,83.000 km,22500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,112.000 km,18000
+Jeep,Renegade,2021,1.8 4x2 Sport L16,Negro,Nafta,5,Manual,INYECCION MULTI PUNTO,SUV,Publicado hace 40 días,51.950 km,25500000
+Jeep,Renegade,2020,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 53 días,80.056 km,26000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 1 mes,79.800 km,22900000
+Jeep,Renegade,2020,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,62.000 km,19800
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 6 meses,77.000 km,22500000
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,46.500 km,28499999
+Jeep,Renegade,2019,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,89.000 km,26500000
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,105.000 km,26500000
+Jeep,Renegade,2022,1.8 4x2 Longitude At L18,Blanco,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 6 meses,30.000 km,34500000
+Jeep,Renegade,2023,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,1.000 km,30000000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,65.000 km,19900
+Jeep,Renegade,2017,1.8 Sport At,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 23 días,147.600 km,16500
+Jeep,Renegade,2021,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,29.000 km,29900000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 33 días,63.200 km,25999999
+Jeep,Renegade,2022,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 43 días,35.000 km,24000
+Jeep,Renegade,2021,Sport 1.8 At6 4x2,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 47 días,73.000 km,24855000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 48 días,54.300 km,23730000
+Jeep,Renegade,2018,1.8 Sport At Plus 44520482,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,123.000 km,23750000
+Jeep,Renegade,2023,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,85.000 km,21000
+Jeep,Renegade,2024,1.8 Sport Plus,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 12 días,600 km,25500
+Jeep,Renegade,2020,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,110.000 km,22500
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,62.000 km,28500000
+Jeep,Renegade,2018,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,96.600 km,19000
+Jeep,Renegade,2018,1.8 Sport,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 20 días,47.000 km,21000
+Jeep,Renegade,2020,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,40.000 km,23900
+Jeep,Renegade,2021,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,79.000 km,25000000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,93.000 km,17000
+Jeep,Renegade,2018,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,65.000 km,17500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,50.000 km,22500
+Jeep,Renegade,2017,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 52 días,84.300 km,18000
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,50.000 km,28900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,108.000 km,21900000
+Jeep,Renegade,2023,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 12 días,36.000 km,31500000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 35 días,45.000 km,29900000
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 52 días,81.000 km,21500000
+Jeep,Renegade,2024,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,9.000 km,31990000
+Jeep,No disponible,2019,No disponible,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,77.927 km,22500000
+Jeep,Renegade,2023,1.8 Sport Mt 2023 88.000km,Negro,Nafta,5,Manual,1.8,No disponible,Publicado hace 29 días,88.000 km,29500000
+Jeep,Renegade,2016,No disponible,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 6 días,72.000 km,16000000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,51.500 km,24900000
+Jeep,Renegade,2022,1.8 Sport,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,60.000 km,22500
+Jeep,Renegade,2017,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 33 días,90.000 km,22000000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 59 días,104.000 km,15400
+Jeep,Renegade,2019,1.8 4x2 Longitude At L18,Gris,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 2 meses,70.000 km,26900000
+Jeep,Renegade,2021,Longitude 4x2 At 1.8 2021,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,60.000 km,29500000
+Jeep,Renegade,2017,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,33.000 km,21500
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,35.500 km,21500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,35.000 km,24000
+Jeep,Renegade,2017,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,102.000 km,23900000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,140.000 km,18000
+Jeep,Renegade,2017,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,58.500 km,20000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 38 días,116.000 km,23800000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,35.000 km,23000
+Jeep,Renegade,2024,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,18.659 km,28900000
+Jeep,Renegade,2017,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,93.000 km,20900000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,90.000 km,18000
+Jeep,Renegade,2020,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,130.000 km,22000
+Jeep,Renegade,2017,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 41 días,65.000 km,22000000
+Jeep,"Estado!,",2019,"Tomo Permutas, Financio!",Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,84.000 km,24000000
+Jeep,Renegade,2023,1.8 Sport Mt5 Fwd,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,45.000 km,24000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,50.000 km,26999999
+Jeep,Renegade,2021,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,50.000 km,23500
+Jeep,Renegade,2022,1.8 Longitude At6 2022,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,56.000 km,31000000
+Jeep,Renegade,2020,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,57.000 km,22000
+Jeep,Renegade,2016,2.4 Longitude At,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 28 días,95.000 km,18900
+Jeep,Renegade,2020,1.8 Sport At,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,75.000 km,26500000
+Jeep,Renegade,2020,1.8 4x2 Longitude At 2020,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,58.400 km,24800
+Jeep,Renegade,2018,1.8 4x2 Sport 2018,Rojo,Nafta,5,Automática,No disponible,SUV,Publicado hace 3 meses,82.000 km,19200
+Jeep,Renegade,2021,No disponible,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,75.500 km,26900000
+Jeep,Renegade,2019,Longitude 2019 1.8 130cv,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 6 meses,78.000 km,22000
+Jeep,Renegade,2022,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 52 días,43.000 km,13000000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,130.000 km,8900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,59.000 km,24500
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,130.000 km,23500000
+Jeep,Renegade,2023,1.3 Trailhawk At9 4x4 2023,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 14 días,42.000 km,45000
+Jeep,Renegade,2017,1.8 Sport Plus Mt 2017,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 33 días,85.000 km,20500000
+Jeep,Renegade,2022,Longitude 1.8 L At6 Negro 2022 Af302,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 9 meses,34.000 km,31500
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,56.000 km,16000000
+Jeep,Renegade,2023,1.3 Trailhawk At9 4x4,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 28 días,11.111 km,46900000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,38.000 km,27000000
+Jeep,Renegade,2022,1.8 Sport Mt5 Fwd,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,67.300 km,29500000
+Jeep,Renegade,2022,1.8 Longitude At6 2022,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,28.400 km,32000
+Jeep,Renegade,2022,1.8 Longitude At6 2022,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,28.400 km,32000
+Jeep,Renegade,2019,1.8 Longitude At6 2019 46655831,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,74.000 km,20700
+Jeep,Renegade,2022,1.8 Longitude At6 2022,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,66.000 km,28000000
+Jeep,Renegade,2018,2.4 Trailhawk At9 4x4 Charliebrokers,Blanco,Nafta,5,Automática,2.4,SUV,Publicado hace 19 días,180.000 km,21900
+Jeep,Renegade,2016,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,99.000 km,20000000
+Jeep,Renegade,2021,1.8 Sport At Plus 4x2,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 8 meses,70.000 km,26900000
+Jeep,Renegade,2017,1.8 4x2 Sport At L18,Blanco,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 8 días,122.000 km,24500000
+Jeep,Renegade,2016,1.8 Sport Mt 2016,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,132.000 km,15600
+Jeep,Renegade,2020,1.8 Longitude At6 Vtv 60.000 Kms,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,60.000 km,23500
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Gris,Nafta,5,Automática,2.0,Hatchback,Publicado hace 31 días,3.826 km,39000000
+Jeep,Renegade,2023,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,35.000 km,29000000
+Jeep,Renegade,2023,1.8 Sport At6 2023 Ro,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,6.380 km,30990000
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,79.700 km,23300000
+Jeep,Renegade,2024,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,10.500 km,24900
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,149.000 km,17500
+Jeep,Renegade,2019,1.8 4x2 Sport 2019,Gris,Nafta,5,Manual,1.8,Crossover,Publicado hace 32 días,66.000 km,22500000
+Jeep,Renegade,2019,Trailhawk 2.0 Diesel 9at 4x4 2019,Negro,Diésel,5,Automática,2.4,SUV,Publicado hace 1 año,50.000 km,36490000
+Jeep,Renegade,2017,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,96.000 km,9500
+Jeep,Renegade,2017,1.8 Sport At,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 29 días,102.400 km,16500
+Jeep,Renegade,2018,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,131.000 km,21000
+Jeep,Renegade,2022,1.8 Longitude At6 2022,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,28.400 km,32000
+Jeep,Renegade,2018,1.8 4x2 Sport At 2018,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,76.000 km,22500000
+Jeep,Renegade,2017,Sport 1.8 At 2017,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,110.000 km,17500
+Jeep,Renegade,2017,1.8 Sport Gris Automatica 2017 - Tute Cars A,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,167.789 km,19500
+Jeep,Renegade,2018,1.8 Sport 4x2 Mt 2018,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 8 meses,97.000 km,20000000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,52.000 km,29800000
+Jeep,Renegade,2021,1.8 4x2 Longitude At L18,Gris plata,Nafta,5,Automática,INYECCION MULTI PUNTO,SUV,Publicado hace 1 día,61.378 km,29000000
+Jeep,Renegade,2019,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,70.000 km,18500
+Jeep,Renegade,2018,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,31.000 km,22000
+Jeep,Renegade,2022,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 41 días,51.000 km,21800
+Jeep,Renegade,2017,1.8 4x2 Sport At La Plata 198,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 53 días,43.424 km,22725000
+Jeep,Renegade,2020,1.8 Sport 2020,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,54.400 km,24500000
+Jeep,Renegade,2023,1.8 Sport Mt5 Fwd,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,27.589 km,31500000
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,83.000 km,22000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,79.000 km,24590
+Jeep,Jeep,2023,Renegade 1.8 Longitude At6 En Garantía De Fabrica.,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,52.757 km,31000000
+Jeep,Renegade,2024,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,14.900 km,29000000
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 12 días,70.000 km,18000
+Jeep,Renegade,2022,1.8 Longitude At6 Edición 80th Aniversary 2022,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 31 días,37.000 km,28500000
+Jeep,Renegade,2020,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,80.056 km,26000000
+Jeep,Renegade,2021,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,70.000 km,20499
+Jeep,Renegade,2021,Sport Automatico,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 12 días,55.000 km,25500000
+Jeep,Renegade,2018,2.4 Trailhawk At9 4x4,Naranja,Diésel,5,Automática,2.4,SUV,Publicado hace 22 días,98.000 km,24000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 49 días,100.000 km,20000000
+Jeep,Renegade,2021,1.8 Sport Wild,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,46.500 km,28500000
+Jeep,Renegade,2020,2.4 Trailhawk At9 4x4,Negro,Diésel,5,Automática,2.4,SUV,Publicado hace 6 días,44.000 km,34990
+Jeep,Renegade,2019,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 20 días,84.000 km,19500
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,113.000 km,21500000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 52 días,51.000 km,29500000
+Jeep,Renegade,2017,1.8 Sport,Rojo,Nafta/GNC,5,Manual,1.8,SUV,Publicado hace 58 días,156.000 km,15700000
+Jeep,Renegade,2019,1.8 Sport 2019,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,98.000 km,22600000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,40.000 km,22500
+Jeep,Renegade,2022,1.8 Longitude At6,Azul,Nafta/GNC,5,Automática,1.8,SUV,Publicado hace 7 días,74.000 km,29000
+Jeep,Renegade,2020,1.8 Sport At,Gris,Nafta,5,Automática secuencial,1.8,SUV,Publicado hace 36 días,63.000 km,22500
+Jeep,Renegade,2022,1.8 Longitude 128cv At L19 2022,Blanco,Nafta,5,Automática,1.8,Rural,Publicado hace 11 días,77.000 km,28800000
+Jeep,Renegade,2017,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,70.000 km,22900000
+Jeep,Renegade,2019,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,41.000 km,26500000
+Jeep,Renegade,2022,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 54 días,60.000 km,25500000
+Jeep,Renegade,2020,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,48.000 km,26500000
+Jeep,Renegade,2020,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,48.000 km,26500000
+Jeep,Renegade,2024,1.8 Sport At6 Eg Automoviles,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,5.000 km,34500000
+Jeep,Renegade,2019,1.8 Longitude At6 Unica Impecable Argemotors,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,68.000 km,26000000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,60.000 km,21000
+Jeep,Renegade,2022,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 27 días,53.200 km,22900
+Jeep,Renegade,2021,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,57.000 km,22000
+Jeep,Trailhawk,2019,2.0 Automatico,Blanco,Diésel,5,Automática,2.4,SUV,Publicado hace 3 meses,90.000 km,27000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,90.000 km,23500000
+Jeep,Renegade,2019,Trailhawk 2.0 4x4,Blanco,Diésel,4,Automática,2.0,SUV,Publicado hace 54 días,121.000 km,26500
+Jeep,Renegade,2017,1.8 Sport At,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,88.000 km,20000
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,100.000 km,26000000
+Jeep,Renegade,2021,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,100.000 km,21000000
+Jeep,Renegade,2018,No disponible,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,95.000 km,21990000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,89.285 km,22100000
+Jeep,Renegade,2019,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,57.295 km,22800
+Jeep,Renegade,2020,2020 1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 8 meses,57.000 km,25500000
+Jeep,Renegade,2019,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,77.000 km,24950000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,78.000 km,16700
+Jeep,Renegade,2016,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 36 días,83.000 km,22000000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,97.000 km,21900000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,88.000 km,23500000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,85.000 km,21500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,35.300 km,27200000
+Jeep,Renegade,2020,2.4 Longitude At,Azul,Nafta,5,Automática,2.4,SUV,Publicado hace 19 días,80.000 km,30000000
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 46 días,90.000 km,21800
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 55 días,97.000 km,17900
+Jeep,Renegade,2022,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,56.000 km,28000000
+Jeep,Renegade,2018,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,90.000 km,18500
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,32.150 km,27499999
+Jeep,Renegade,2018,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,140.000 km,16700
+Jeep,Renegade,2021,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 35 días,62.000 km,25800000
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,77.000 km,19500
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,109.000 km,19000
+Jeep,Renegade,2024,2024 1.8 Sport At Plus,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 6 meses,12.500 km,32500000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta/GNC,5,Manual,1.8,SUV,Publicado hace 1 día,96.000 km,24900000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,44.100 km,21000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,62.000 km,19500
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 56 días,89.000 km,23900000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,78.000 km,17900
+Jeep,Renegade,2018,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,110.000 km,22990000
+Jeep,Renegade,2018,2018 1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 año,82.000 km,19500
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,13.900 km,32900000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 10 días,36.000 km,31500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,101.000 km,23900000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,118.000 km,16700
+Jeep,Renegade,2018,1.8 Sport At Plus,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,10.000 km,25000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,33.000 km,24500
+Jeep,Renegade,2024,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 35 días,5.400 km,27500
+Jeep,Renegade,2019,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 50 días,59.000 km,19500
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 55 días,31.000 km,24600
+Jeep,Renegade,2022,1.8 Sport At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,40.000 km,23999
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,80.901 km,29500000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,43.000 km,23900
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta/GNC,5,Manual,1.8,SUV,Publicado hace 48 días,98.200 km,22000000
+Jeep,Renegade,2018,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,71.000 km,22700000
+Jeep,Renegade,2017,1.8 Sport At,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,110.000 km,17300
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,95.000 km,20000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,42.000 km,23500
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 6 días,116.000 km,25000000
+Jeep,Renegade,2020,2.4 Longitude At,Azul,Nafta,5,Automática,2.4,SUV,Publicado hace 6 días,61.000 km,29000000
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,90.000 km,29500000
+Jeep,Renegade,2019,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,140.000 km,23000000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 41 días,75.000 km,24500
+Jeep,Renegade,2016,1.8 Sport,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 12 días,130.000 km,18500
+Jeep,Renegade,2016,2.4 Longitude At,Negro,Nafta,5,Automática,2.4,SUV,Publicado hace 56 días,102.500 km,22000000
+Jeep,Renegade,2016,1.8 Sport Plus,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,135.000 km,19500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Marrón,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,99.000 km,19000
+Jeep,Renegade,2019,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 9 días,69.000 km,22900000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,61.000 km,29500000
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,142.000 km,24000000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,46.000 km,32000000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,86.000 km,21950000
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,116.000 km,16900
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,31.000 km,21900
+Jeep,Renegade,2017,2.4 Trailhawk At9 4x4,Blanco,Diésel,5,Automática,2.4,SUV,Publicado hace 1 día,96.700 km,22000
+Jeep,Renegade,2024,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,1.000 km,32000000
+Jeep,Renegade,2023,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 9 días,18.000 km,31500000
+Jeep,Renegade,2023,1.3t Trailhawk At9 4x4,Gris,Diésel,5,Automática,2.4,SUV,Publicado hace 12 días,46.721 km,46000000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,60.000 km,24000000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,27.000 km,23000
+Jeep,Renegade,2022,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 52 días,32.000 km,28000000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 54 días,2.700 km,33500000
+Jeep,Renegade,2018,2018,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,57.000 km,22900
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,70.000 km,24500000
+Jeep,Renegade,2018,2018,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,113.000 km,19500
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,60.500 km,20500000
+Jeep,Renegade,2020,1.8 Sport At,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,68.000 km,24900000
+Jeep,Renegade,2016,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 11 días,102.000 km,20490000
+Jeep,Renegade,2022,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,25.000 km,31500000
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 2 meses,4.400 km,33000
+Jeep,Renegade,2017,1.8 Sport At,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,78.000 km,24600000
+Jeep,Renegade,2020,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,79.000 km,21500
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,73.000 km,24900000
+Jeep,Renegade,2021,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 9 días,87.000 km,26400000
+Jeep,Renegade,2019,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,125.000 km,23000000
+Jeep,Renegade,2018,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,150.000 km,17000
+Jeep,No disponible,2016,No disponible,Blanco,Nafta,4,Manual,1.8,Cabriolet,Publicado hace 27 días,127.000 km,21500000
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 35 días,107.000 km,17900
+Jeep,Renegade,2020,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,78.000 km,30500000
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,75.000 km,25900000
+Jeep,Renegade,2018,1.8 Longitude At6,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,78.000 km,21700
+Jeep,Renegade,2016,1.8l Sport 2016,Gris,Nafta,5,Manual,1.8,Rural,Publicado hace 32 días,108.000 km,20800000
+Jeep,Renegade,2024,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,14.000 km,24500
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,80.000 km,22000000
+Jeep,Renegade,2020,1.8 Sport 2020 4x4,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,50.000 km,23900000
+Jeep,Renegade,2020,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 23 días,50.000 km,21500
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 36 días,55.000 km,29500000
+Jeep,Renegade,2016,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 48 días,112.000 km,19000000
+Jeep,Renegade,2018,Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,45.000 km,22500000
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 32 días,84.000 km,19900
+Jeep,Renegade,2018,1.8 Sport Plus,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,35.000 km,24500000
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,84.000 km,19500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,115.000 km,20000
+Jeep,Renegade,2019,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,76.000 km,22900000
+Jeep,Renegade,2017,1.8 Sport At,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,100.000 km,17500
+Jeep,Renegade,2018,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,84.000 km,21400
+Jeep,Renegade,2022,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,32.000 km,28200000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,58.000 km,21800000
+Jeep,Renegade,2018,1.8 Sport 2018,Gris oscuro,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,87.000 km,21368000
+Jeep,Renegade,2021,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 39 días,103.000 km,26000000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 53 días,73.000 km,22000
+Jeep,Renegade,2018,Sport At 2018,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 54 días,64.000 km,22000000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,36.000 km,22200
+Jeep,Renegade,2017,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,88.000 km,23500000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,48.000 km,21000000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 32 días,58.500 km,21500
+Jeep,Renegade,2018,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,60.000 km,24000000
+Jeep,Renegade,2020,1.8 Sport 2020 Cc,Gris,Nafta,4,Manual,1.8,SUV,Publicado hace 32 días,63.200 km,26000000
+Jeep,Renegade,2021,1.8 Sport 2021 Cc,Negro,Nafta,4,Manual,1.8,SUV,Publicado hace 32 días,46.500 km,28500000
+Jeep,Renegade,2023,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,27.000 km,29000000
+Jeep,Renegade,2022,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,62.000 km,29000000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 7 meses,1.000 km,33000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,110.000 km,24900000
+Jeep,Renegade,2019,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,86.000 km,23999999
+Jeep,Renegade,2017,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 41 días,26.000 km,22000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,49.000 km,22500
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 48 días,50.000 km,22000
+Jeep,Renegade,2023,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 49 días,17.696 km,23500
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,35.000 km,25000
+Jeep,Vende,2019,Jeep Renegade 1.8 Sport 2019 Permuto!!!,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,101.000 km,18800
+Jeep,Renegade,2020,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,25.000 km,30000
+Jeep,Renegade,2023,1.3 Trailhawk At9 4x4,Negro,Nafta,5,Automática,1.3,SUV,Publicado hace 41 días,23.900 km,39900
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,42.000 km,32500000
+Jeep,Renegade,2018,1.8 Sport,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,61.000 km,17900
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,53.000 km,24000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 57 días,78.000 km,23000
+Jeep,Renegade,2021,Sport 1.8 Mt 2021 Servicios Oficiales Al Día!!,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,50.000 km,20500
+Jeep,Renegade,2017,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,57.000 km,18500
+Jeep,Renegade,2017,1.8 Sport At Plus,Marrón,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,75.000 km,17900
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,32.000 km,26800000
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,62.500 km,21500
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,41.000 km,23500
+Jeep,Renegade,2021,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 36 días,58.000 km,29400000
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 40 días,55.000 km,28000000
+Jeep,Renegade,2022,2022 1.8 Longitude At6,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 1 año,23.958 km,25500
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 11 días,77.000 km,17200
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 18 días,134.200 km,20000000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,57.500 km,22700
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,51.500 km,26500000
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,95.000 km,20000000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,120.000 km,23900000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,5.000 km,28000
+Jeep,Renegade,2017,1.8 Sport At,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 56 días,57.000 km,20000
+Jeep,Renegade,2021,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 59 días,51.000 km,21000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,80.000 km,18500
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 6 días,62.700 km,21500
+Jeep,Renegade,2023,1.3 Serie-s At6,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 8 días,22.700 km,39699999
+Jeep,Renegade,2024,1.3 Trailhawk At9 4x4,Negro,Nafta,5,Automática,1.3,SUV,Publicado hace 2 meses,8.000 km,45500000
+Jeep,Renegade,2017,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,79.800 km,18700
+Jeep,Renegade,2020,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,63.000 km,21500
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,95.000 km,17300
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,41.000 km,29000000
+Jeep,Renegade,2018,1.8 Sport Wild,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 6 días,60.000 km,18500
+Jeep,Renegade,2017,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 9 días,125.000 km,19500000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,75.000 km,19990000
+Jeep,Renegade,2020,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,60.250 km,21900
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,42.000 km,20000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 43 días,143.000 km,20000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 mes,90.000 km,22000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,85.000 km,19500
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 9 meses,102.000 km,18700
+Jeep,Renegade,2021,2022 1.8 Longitude At6 Patentada 2021,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 años,10.500 km,28500
+Jeep,Renegade,2019,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,40.000 km,19500
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 21 días,27.500 km,29500000
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,51.000 km,24000
+Jeep,Renegade,2019,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 59 días,18.000 km,23999
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,104.200 km,23000000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,30.000 km,23500
+Jeep,Renegade,2017,2017 1.8 Sport At,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 1 año,111.111 km,19999999
+Jeep,Renegade,2021,"Sport 1.8.- Unico Dueño, Impecable Estado",Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 1 año,65.000 km,21000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,108.000 km,21000000
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 12 días,145.000 km,19000000
+Jeep,Renegade,2021,Sport 1.8 At6 Automatica,Negro,Nafta,5,Automática,1.8,Monovolumen,Publicado hace 15 días,61.000 km,21500
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 16 días,35.000 km,32000000
+Jeep,Renegade,2022,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 18 días,19.000 km,25500
+Jeep,Renegade,2023,1.3 Trailhawk At9 4x4,Gris,Nafta,5,Automática,1.3,SUV,Publicado hace 22 días,500 km,39000
+Jeep,Renegade,2016,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 35 días,100.700 km,16000000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 57 días,125.000 km,15500
+Jeep,Renegade,2018,1.8 Sport Plus At6,Marrón,Nafta,5,Automática,1.8,SUV,Publicado hace 2 años,100.000 km,19500
+Jeep,Renegade,2018,1.8 Sport At,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,64.500 km,21500
+Jeep,Renegade,2020,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,36.000 km,22500
+Jeep,Renegade,2021,Sport 1.8 Mt5 Fwd,Gris,Nafta/GNC,5,Manual,1.8,SUV,Publicado hace 10 días,61.000 km,22600
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,90.000 km,21000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,90.000 km,18000
+Jeep,Renegade,2019,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,119.000 km,24000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 45 días,95.500 km,21490
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,120.000 km,16000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,91.000 km,17900
+Jeep,Renegade,2020,2020 1.8 Sport,No disponible,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,90.000 km,21000
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,83.000 km,30000000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 10 días,7.000 km,29500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,101.000 km,23300000
+Jeep,Renegade,2017,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,65.000 km,18500
+Jeep,Renegade,2022,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 22 días,51.000 km,22500
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 23 días,70.000 km,22000
+Jeep,Renegade,2024,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 26 días,10.500 km,38500000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 23 días,70.000 km,22000
+Jeep,Renegade,2024,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 26 días,10.500 km,38500000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,79.000 km,18500
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 29 días,102.000 km,23900000
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 50 días,44.000 km,32000000
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 54 días,90.000 km,23000000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,72.000 km,27000000
+Jeep,Renegade,2018,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,88.000 km,17900
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,91.000 km,20500
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,42.000 km,29000000
+Jeep,Renegade,2024,Sport At6,Negro,Nafta,5,Automática secuencial,1.8,SUV,Publicado hace 7 días,32.000 km,30000000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,37.000 km,23000
+Jeep,Renegade,2024,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,10.100 km,31000000
+Jeep,Renegade,2018,1.8 Sport,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 11 días,74.000 km,22000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,69.000 km,22500000
+Jeep,Renegade,2017,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,109.000 km,19500000
+Jeep,Renegade,2018,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,86.000 km,18900
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,62.000 km,24500
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 20 días,58.000 km,22500000
+Jeep,Renegade,2016,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,82.000 km,21000000
+Jeep,Renegade,2024,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 27 días,8.000 km,35500000
+Jeep,Renegade,2018,1.8 Longitude At6 - 64.000 Km,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 45 días,64.000 km,20500
+Jeep,Renegade,2017,1.8 Sport At,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 49 días,95.000 km,18500
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,107.000 km,17300
+Jeep,Renegade,2021,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,45.000 km,27500000
+Jeep,Renegade,2021,Sport 1.8 Tm,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,42.300 km,26500000
+Jeep,Renegade,2018,1.8 Longitude At6,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,67.000 km,19800
+Jeep,Renegade,2016,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 4 meses,67.000 km,17500
+Jeep,Renegade,2018,No disponible,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 5 meses,75.000 km,22900000
+Jeep,No disponible,2020,No disponible,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 6 meses,68.000 km,20000
+Jeep,Renegade,2019,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,39.000 km,24500000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 días,70.000 km,19600
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,62.000 km,25900000
+Jeep,Renegade,2018,1.8 Sport Plus,Azul,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,68.000 km,18500
+Jeep,Renegade,2018,1.8 Sport At Plus,Verde,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,100.000 km,17200
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,91.500 km,20500000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 27 días,172.000 km,16000
+Jeep,Renegade,2024,1.8 Sport Mt5 Fwd,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 40 días,36.000 km,28000000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 48 días,61.000 km,17500
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,40.000 km,27900
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,128.000 km,25000000
+Jeep,Renegade,2016,2016 1.8 Sport,No disponible,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,139.900 km,15800
+Jeep,Renegade,2024,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,12.500 km,15000
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,137.000 km,17500
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 11 días,16.000 km,32500000
+Jeep,Renegade,2019,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 14 días,70.000 km,22500000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,119.000 km,22000000
+Jeep,Renegade,2016,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 16 días,60.000 km,17000
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,83.000 km,15900
+Jeep,Renegade,2018,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 27 días,52.000 km,24500
+Jeep,Renegade,2024,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 43 días,111.111 km,29000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 52 días,70.000 km,18500
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 56 días,57.000 km,24500
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,62.500 km,25580000
+Jeep,Renegade,2020,Sport,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,104.000 km,24770000
+Jeep,Renegade,2024,2024 1.8 Sport At6,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 9 meses,1.000 km,30999999
+Jeep,Renegade,2020,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,73.500 km,26000000
+Jeep,Renegade,2016,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,78.500 km,17500
+Jeep,Renegade,2017,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 5 días,38.000 km,18750
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,56.000 km,22000000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,74.000 km,25500
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,30.000 km,30000000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,65.000 km,24900000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,90.000 km,18999000
+Jeep,Renegade,2017,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,126.320 km,17500
+Jeep,Renegade,2018,2.4 Trailhawk At9 4x4,Gris,Diésel,5,Automática,2.4,SUV,Publicado hace 12 días,90.000 km,23400
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,93.000 km,18500
+Jeep,Renegade,2019,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,83.000 km,18500
+Jeep,Renegade,2018,1.8 Longitude At6,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 14 días,70.000 km,23000000
+Jeep,Renegade,2020,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,55.000 km,20500
+Jeep,Renegade,2021,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 16 días,44.000 km,30000000
+Jeep,Renegade,2017,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 42 días,74.000 km,19000000
+Jeep,Renegade,2024,1.8 Sport Mt5 Fwd,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 57 días,3.300 km,24000
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,56.000 km,25000000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,101.000 km,20924400
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,124.605 km,23947900
+Jeep,Renegade,2019,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,79.300 km,21500000
+Jeep,Renegade,2018,1.8 Sport At. 2018,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 18 días,144.000 km,22500
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,55.000 km,24000
+Jeep,Renegade,2016,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 45 días,115.000 km,21500000
+Jeep,Renegade,2017,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,90.500 km,19500000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,36.000 km,25000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,37.800 km,21500
+Jeep,Renegade,2022,Sport 1.8 At6 Con Gnc,Negro,Nafta/GNC,5,Automática,1.8,Monovolumen,Publicado hace 29 días,31.000 km,32000000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,58.000 km,21000000
+Jeep,Automática,2021,No disponible,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,54.000 km,24000000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 3 días,63.000 km,28000
+Jeep,Renegade,2022,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 15 días,85.000 km,28000000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,130.000 km,20000000
+Jeep,Renegade,2019,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 28 días,73.000 km,18000
+Jeep,Renegade,2019,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 37 días,88.169 km,23000
+Jeep,Renegade,2018,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,64.000 km,18200
+Jeep,Renegade,2018,1.8 Longitude At6 2018 Cuero Automatica Full,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,59.000 km,22000
+Jeep,Jeep,2016,Renegade!! Excelente Estado!!,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,98.000 km,21000000
+Jeep,Renegade,2017,Sport Plus Automatica 4x2,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 8 meses,90.000 km,20100000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,122.000 km,17200
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 51 días,81.000 km,21000
+Jeep,Renegade,2018,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 33 días,122.000 km,17200
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 51 días,81.000 km,21000
+Jeep,Renegade,2022,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 4 meses,44.900 km,25400
+Jeep,Renegade,2021,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,40.600 km,22000
+Jeep,Renegade,2018,1.8 Sport Plus,Verde,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,96.000 km,17000
+Jeep,Renegade,2022,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 4 días,68.000 km,28000000
+Jeep,Renegade,2023,1.8 Sport At Plus,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 5 días,9.000 km,31000000
+Jeep,Renegade,2017,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,82.000 km,17800
+Jeep,Renegade,2018,1.8 Sport Plus,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 8 días,152.000 km,24500000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 8 días,21.000 km,24000
+Jeep,Renegade,2019,1.8 Longitude At6,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 9 días,28.000 km,27000
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 10 días,42.000 km,29000000
+Jeep,Renegade,2018,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,51.000 km,24000000
+Jeep,Renegade,2024,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 10 días,4.500 km,24500
+Jeep,Renegade,2022,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 13 días,20.000 km,32000000
+Jeep,Renegade,2019,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,46.000 km,24500000
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta/GNC,5,Automática,1.8,SUV,Publicado hace 18 días,60.000 km,26500000
+Jeep,Renegade,2023,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,51.000 km,24000
+Jeep,Renegade,2024,1.8 Sport At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,13.200 km,26800
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 25 días,95.000 km,20500
+Jeep,Renegade,2019,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 26 días,72.500 km,22300
+Jeep,Renegade,2017,"1,8 Automatica. Excelente Estado",Gris,Nafta,4,Automática,1.8,SUV,Publicado hace 31 días,50.000 km,20000
+Jeep,Renegade,2017,1.8 Sport At Plus,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 42 días,103.000 km,20500000
+Jeep,Renegade,2018,1.8 Sport Plus,Azul,Nafta,5,Automática,1.8,Rural,Publicado hace 52 días,100.000 km,20000
+Jeep,Renegade,2017,1.8 Sport At,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 59 días,105.000 km,17300
+Jeep,Renegade,2017,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,84.000 km,21000000
+Jeep,Renegade,2019,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,41.000 km,23000000
+Jeep,Renegade,2018,2018 1.8 Sport,No disponible,Nafta,5,Manual,1.8,SUV,Publicado hace 8 meses,79.000 km,20990000
+Jeep,Renegade,2020,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 2 días,98.000 km,31000000
+Jeep,Renegade,2022,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,33.000 km,29000000
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,59.000 km,25000
+Jeep,Renegade,2024,1.3t Longitude At6 Fwd,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 12 días,9.658 km,29800
+Jeep,Renegade,2016,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,76.000 km,18000
+Jeep,Renegade,2020,No disponible,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 18 días,63.000 km,22000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,83.000 km,19000
+Jeep,Renegade,2018,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 21 días,99.000 km,20000
+Jeep,Renegade,2018,1.8 Sport At Plus,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 22 días,80.000 km,22000000
+Jeep,Sin,2017,Uso Nafta Infinita,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 29 días,16.000 km,23000000
+Jeep,Renegade,2024,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 36 días,5.800 km,30990000
+Jeep,Renegade,2018,1.8 Sport,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 46 días,80.000 km,19000000
+Jeep,Renegade,2017,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 48 días,72.000 km,21000000
+Jeep,Renegade,2018,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 50 días,81.500 km,21800000
+Jeep,Renegade,2018,1.8 Sport Plus,Rojo,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,245.000 km,23000000
+Jeep,Renegade,2019,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 3 meses,40.000 km,23000
+Jeep,Renegade,2017,1.8 Sport - Único Por Su Estado,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 8 meses,25.000 km,21000
+Jeep,Renegade,2017,1.8 Sport At Plus,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 1 día,121.000 km,22500000
+Jeep,Renegade,2023,1.8 Sport At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 4 días,23.000 km,30000000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,70.000 km,24000000
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,114.000 km,16600
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 7 días,70.000 km,24000000
+Jeep,Renegade,2016,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 13 días,114.000 km,16600
+Jeep,Renegade,2018,1.8 Sport Wild,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,87.000 km,18000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,95.000 km,18500
+Jeep,Renegade,2018,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 20 días,127.000 km,17000
+Jeep,Renegade,2021,1.8 Sport,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 26 días,53.000 km,26000000
+Jeep,Renegade,2023,1.3 Serie-s At6,Blanco,Nafta,5,Automática,1.3,SUV,Publicado hace 28 días,11.000 km,35000000
+Jeep,Renegade,2021,1.8 Longitude At6,Azul,Nafta,5,Automática,1.8,SUV,Publicado hace 42 días,32.000 km,28600000
+Jeep,Renegade,2020,1.8 Sport,Gris,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,72.000 km,23000000
+Jeep,Renegade,2020,2020 1.8 Sport,No disponible,Nafta,5,Manual,1.8,SUV,Publicado hace 5 meses,50.000 km,21600
+Jeep,Renegade,2022,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 7 meses,27.000 km,30000
+Jeep,Renegade,2017,1.8 Sport At Plus,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 10 días,110.000 km,17200
+Jeep,Renegade,2019,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 15 días,27.000 km,20500
+Jeep,Renegade,2021,1.8 Longitude At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 19 días,81.500 km,23300
+Jeep,Renegade,2018,No disponible,Gris,Nafta,5,Manual,1.8 130CV,SUV,Publicado hace 22 días,70.000 km,21000000
+Jeep,Renegade,2023,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 24 días,42.500 km,28000000
+Jeep,Renegade,2020,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 1 día,100.000 km,22000000
+Jeep,Renegade,2021,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 9 días,29.700 km,28000000
+Jeep,Renegade,2019,1.8 Sport Plus,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 19 días,49.100 km,23500000
+Jeep,Renegade,2021,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 25 días,48.000 km,22000
+Jeep,Renegade,2018,1.8 Sport At Plus,Plateado,Nafta,5,Automática,1.8,SUV,Publicado hace 28 días,95.000 km,23500000
+Jeep,Renegade,2018,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 6 meses,51.000 km,20000
+Jeep,Renegade,2017,2017 1.8 Sport At,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 9 meses,99.000 km,16500
+Jeep,Renegade,2023,1.8 Sport,Negro,Nafta,5,Manual,1.8,SUV,Publicado hace 3 días,37.000 km,32000000
+Jeep,Renegade,2018,1.8 Sport At Plus,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 7 días,37.000 km,22000
+Jeep,Renegade,2024,1.8 Sport At6,Blanco,Nafta,5,Automática,1.8,SUV,Publicado hace 23 días,3.300 km,31500000
+Jeep,Renegade,2018,1.8 Longitude At6,Rojo,Nafta,5,Automática,1.8,SUV,Publicado hace 44 días,101.000 km,18500
+Jeep,Renegade,2020,1.8 Longitude At6,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 55 días,57.000 km,22500
+Jeep,Renegade,2024,2024 1.8 Sport At Plus,No disponible,Nafta,5,Automática,1.8,SUV,Publicado hace 1 año,1.000 km,18500000
+Jeep,Renegade,2021,1.8 Longitude At6,Negro,Nafta,5,Automática,1.8,SUV,Publicado hace 2 meses,16.500 km,32700000
+Jeep,Renegade,2018,1.8 Sport Plus,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 días,95.000 km,25000000
+Jeep,Renegade,2017,1.8 Sport,Blanco,Nafta,5,Manual,1.8,SUV,Publicado hace 2 meses,103.245 km,18590
+Jeep,Renegade,2017,1.8 Sport At,Gris,Nafta,5,Automática,1.8,SUV,Publicado hace 39 días,95.000 km,17000
+Jeep,Renegade,2016,1.8 Sport Maderomotors,Plateado,Nafta,5,Manual,1.8,SUV,Publicado hace 3 meses,70.000 km,17900
