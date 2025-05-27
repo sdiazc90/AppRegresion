@@ -11,6 +11,15 @@ venv/
 .DS_Store
 Thumbs.db
 
+# Ignorar todos los CSV en cualquier carpeta
+**/*.csv
+
+# Asegurar que no se ignore el directorio
+!data/
+!data/autos_limpios.csv
+
+# Pero permitir este CSV específico
+!data/datos/autos_limpios.csv
 
 # Ignorar datos temporales o cachés
 data/cache_*.pkl
@@ -20,4 +29,5 @@ data/tmp_*.pkl
 !data/mejor_modelo_xgb.pkl
 !data/columnas_modelo.pkl
 !data/scaler.pkl
-!data/autos_limpios.csv
+
+
