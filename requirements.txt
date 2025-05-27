@@ -2,5 +2,5 @@ Flask==2.3.2
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.3.2
-xgboost==1.7.6
+xgboost
 gunicorn==20.1.0
