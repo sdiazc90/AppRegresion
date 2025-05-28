@@ -1,4 +1,4 @@
-name: Ping app to avoid sleeping
+name: Ping app to avoid sleeping 2
 
 on:
   schedule:
@@ -9,5 +9,8 @@ jobs:
   ping:
     runs-on: ubuntu-latest
     steps:
-      - name: Ping the app
-        run: curl -m 60 https://appregresion.onrender.com
+      - name: Ping the app with headers
+        run: |
+          curl -s -o /dev/null -w "%{http_code}" \
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            https://appregresion.onrender.com
