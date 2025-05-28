@@ -19,6 +19,13 @@
             height: 100vh;
         }
 
+        /* Precarga la imagen de hover desde CSS */
+        body::after {
+            content: "";
+            display: none;
+            background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
+        }
+
         .side-images {
             width: 400px;
             display: flex;
@@ -73,7 +80,8 @@
             margin: 0px auto;
         }
 
-        .form select, .form input[type="number"] {
+        .form select,
+        .form input[type="number"] {
             background-color: #4F4F4F;
             color: #FFFFFF;
             border: none;
@@ -179,6 +187,13 @@
         <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro">
     </div>
 
+    <script>
+        // Precarga con JavaScript por si acaso
+        const preloadImg = new Image();
+        preloadImg.src = "{{ url_for('static', filename='images/botonON.JPG') }}";
+    </script>
+
     <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
 </body>
 </html>
+
