@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Predicción de precio de autos usados</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <!-- En producción tu Flask se encargará del url_for para este CSS -->
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
 
     <style>
         body {
@@ -74,8 +73,7 @@
             margin: 0px auto;
         }
 
-        .form select,
-        .form input[type="number"] {
+        .form select, .form input[type="number"] {
             background-color: #4F4F4F;
             color: #FFFFFF;
             border: none;
@@ -91,22 +89,21 @@
         .btn-ignition {
             width: 150px;
             height: 150px;
-            background-image: url('/static/images/botonOFF2.png');
+            background-image: url('{{ url_for('static', filename='images/botonOFF2.png') }}');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
             border: none;
             cursor: pointer;
-            transition: transform 0.8s ease;
+            transition: background-image 1.0s ease, transform 0.8s ease;
             margin-top: 0px;
             position: relative;
             left: 10px;
             top: -13px;
         }
 
-        /* Quité el hover para background-image aquí */
-
         .btn-ignition:hover {
+            background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
             transform: scale(1.05);
         }
 
@@ -123,9 +120,9 @@
 <body>
     <!-- Lado izquierdo con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Cartón" />
-        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Mercedes" />
-        <img src="{{ url_for('static', filename='images/Batimovil-Tim-Burton.jpg') }}" alt="Batimóvil" />
+        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Cartón">
+        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Mercedes">
+        <img src="{{ url_for('static', filename='images/Batimovil-Tim-Burton.jpg') }}" alt="Batimóvil">
     </div>
 
     <!-- Formulario central -->
@@ -137,7 +134,7 @@
             <select id="marca" name="marca" required>
                 <option value="">Seleccione una marca</option>
                 {% for marca in marcas %}
-                <option value="{{ marca }}">{{ marca }}</option>
+                    <option value="{{ marca }}">{{ marca }}</option>
                 {% endfor %}
             </select>
 
@@ -164,12 +161,12 @@
             <label for="ano">Año:</label>
             <select name="ano" required>
                 {% for año in range(2024, 1989, -1) %}
-                <option value="{{ año }}">{{ año }}</option>
+                    <option value="{{ año }}">{{ año }}</option>
                 {% endfor %}
             </select>
 
             <label for="kilometros">Kilómetros:</label>
-            <input type="number" name="kilometros" min="0" required />
+            <input type="number" name="kilometros" min="0" required>
 
             <button type="submit" class="btn-ignition"></button>
         </form>
@@ -177,24 +174,11 @@
 
     <!-- Lado derecho con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='images/lexus.jpg') }}" alt="Lexus" />
-        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Multipla" />
-        <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro" />
+        <img src="{{ url_for('static', filename='images/lexus.jpg') }}" alt="Lexus">
+        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Multipla">
+        <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro">
     </div>
 
-    <script>
-        // Cambiar imagen de fondo al hacer hover con JS (funciona sin importar si url_for se procesa o no)
-        const btnIgnition = document.querySelector('.btn-ignition');
-
-        btnIgnition.addEventListener('mouseenter', () => {
-            btnIgnition.style.backgroundImage = "url('/static/images/botonON.jpg')";
-            btnIgnition.style.transform = "scale(1.05)";
-        });
-
-        btnIgnition.addEventListener('mouseleave', () => {
-            btnIgnition.style.backgroundImage = "url('/static/images/botonOFF2.png')";
-            btnIgnition.style.transform = "scale(1)";
-        });
-    </script>
+    <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
 </body>
 </html>
