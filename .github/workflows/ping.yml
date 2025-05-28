@@ -2,7 +2,7 @@ name: Ping app to avoid sleeping
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Cada 10 minutos
+    - cron: '*/4 * * * *'  # Cada 4 minutos
   workflow_dispatch:
 
 jobs:
