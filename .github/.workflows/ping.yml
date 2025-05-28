@@ -10,4 +10,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Ping the app
-        run: curl https://appregresion.onrender.com/
+        run: curl https://appregresion.onrender.com
