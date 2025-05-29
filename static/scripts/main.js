@@ -3,26 +3,34 @@ $(document).ready(function () {
     $('#modelo, #motor, #transmision, #traccion').prop('disabled', true);
 
     // 2) Cuando se selecciona una marca
-   // Cuando cambia la marca
-$('#marca').change(function () {
-    const marcaSeleccionada = $(this).val();
-    console.log('Marca seleccionada:', marcaSeleccionada);
+    $('#marca').change(function () {
+        const marcaSeleccionada = $(this).val();
+        console.log('Marca seleccionada:', marcaSeleccionada);
 
-    // Limpiar selects sin añadir opción "Seleccione..."
-    $('#modelo, #motor, #transmision, #traccion').empty().prop('disabled', true);
+        // Limpiar selects sin añadir opción "Seleccione..."
+        $('#modelo, #motor, #transmision, #traccion').empty().prop('disabled', true);
 
-    if (marcaSeleccionada) {
-        $.post('/get_modelos', { marca: marcaSeleccionada.toLowerCase() }, function (modelos) {
-            console.log('Modelos recibidos:', modelos);
-            modelos.forEach(m => {
-                const display = m.charAt(0).toUpperCase() + m.slice(1).toLowerCase();
-                $('#modelo').append(`<option value="${m}">${display}</option>`);
+        if (marcaSeleccionada) {
+            $.post('/get_modelos', { marca: marcaSeleccionada.toLowerCase() }, function (modelos) {
+                console.log('Modelos recibidos:', modelos);
+                // Vaciar y añadir opción "Seleccione un modelo"
+                $('#modelo').empty().append('<option value="">Seleccione un modelo</option>');
+
+                modelos.forEach(m => {
+                    const display = m.charAt(0).toUpperCase() + m.slice(1).toLowerCase();
+                    $('#modelo').append(`<option value="${m}">${display}</option>`);
+                });
+                $('#modelo').prop('disabled', false);
+
+                if (modelos.length > 0) {
+                    // Auto seleccionar el primer modelo
+                    $('#modelo').val(modelos[0]);
+                    // Disparar el cambio para cargar motores, transmisiones y tracciones
+                    $('#modelo').trigger('change');
+                }
             });
-            $('#modelo').prop('disabled', false);
-        });
-    }
-});
-
+        }
+    });
 
     // 3) Cuando se selecciona un modelo
     $('#modelo').change(function () {
@@ -30,8 +38,7 @@ $('#marca').change(function () {
         console.log('Modelo seleccionado:', modeloSeleccionado);
 
         // Reseteo de los dropdowns dependientes
-        // Reseteo de los dropdowns dependientes
-$('#motor, #transmision, #traccion').empty().prop('disabled', true);
+        $('#motor, #transmision, #traccion').empty().prop('disabled', true);
 
         if (modeloSeleccionado) {
             // Motores
@@ -44,26 +51,24 @@ $('#motor, #transmision, #traccion').empty().prop('disabled', true);
             });
 
             // Transmisiones
-           $.post('/get_transmisiones', { modelo: modeloSeleccionado }, function (transmisiones) {
-    console.log('Transmisiones recibidas:', transmisiones);
-    transmisiones.forEach(t => {
-        const display = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase();
-        $('#transmision').append(`<option value="${t}">${display}</option>`);
-    });
-    $('#transmision').prop('disabled', false);
-});
-
+            $.post('/get_transmisiones', { modelo: modeloSeleccionado }, function (transmisiones) {
+                console.log('Transmisiones recibidas:', transmisiones);
+                transmisiones.forEach(t => {
+                    const display = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase();
+                    $('#transmision').append(`<option value="${t}">${display}</option>`);
+                });
+                $('#transmision').prop('disabled', false);
+            });
 
             // Tracciones
             $.post('/get_tracciones', { modelo: modeloSeleccionado }, function (tracciones) {
-    console.log('Tracciones recibidas:', tracciones);
-    tracciones.forEach(t => {
-        const display = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase();
-        $('#traccion').append(`<option value="${t}">${display}</option>`);
-    });
-    $('#traccion').prop('disabled', false);
-});
-
+                console.log('Tracciones recibidas:', tracciones);
+                tracciones.forEach(t => {
+                    const display = t.charAt(0).toUpperCase() + t.slice(1).toLowerCase();
+                    $('#traccion').append(`<option value="${t}">${display}</option>`);
+                });
+                $('#traccion').prop('disabled', false);
+            });
         }
     });
 });

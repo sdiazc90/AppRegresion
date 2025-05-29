@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Predicción de precio de autos usados</title>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/main.css') }}" />
 
     <style>
         body {
@@ -17,13 +17,6 @@
             justify-content: center;
             align-items: flex-start;
             height: 100vh;
-        }
-
-        /* Precarga la imagen de hover desde CSS */
-        body::after {
-            content: "";
-            display: none;
-            background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
         }
 
         .side-images {
@@ -94,6 +87,16 @@
             text-align-last: center;
         }
 
+        .btn-container {
+            display: flex;
+            gap: 10px;
+            align-items: center;
+            margin-top: 0px;
+            position: relative;
+            left: 40px;
+            top: -11px;
+        }
+
         .btn-ignition {
             width: 150px;
             height: 150px;
@@ -104,14 +107,54 @@
             border: none;
             cursor: pointer;
             transition: background-image 1.0s ease, transform 0.8s ease;
-            margin-top: 0px;
-            position: relative;
-            left: 10px;
-            top: -11px;
         }
 
         .btn-ignition:hover {
             background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
+            transform: scale(1.05);
+        }
+
+        .btn-emergency-container {
+    display: inline-flex; /* para ajustarse al contenido */
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    /* Sin width ni height fijos para ajustarse */
+    padding: 1;
+    margin: 0;
+    left: 5px;  
+    margin-left: 20px; /* mueve a la derecha respecto al botón ignition */
+    margin-top: 40px; /* sube o baja el botón */
+
+
+}
+.btn-emergency-wrapper {
+    padding: 5px; /* o lo que necesites */
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+        .btn-emergency {            
+            width: 40px;
+            height: 40px;
+            background-image: url('{{ url_for('static', filename='images/boton_eme_off.png') }}');
+            background-size: cover;
+            background-color: transparent;
+            background-size: contain;
+            background-position: center;
+            background-repeat: no-repeat;
+            border: none;
+            cursor: pointer;
+            transition: background-image 1.0s ease, transform 0.8s ease;
+        }
+
+        .btn-emergency:hover {
+            background-image: url('{{ url_for('static', filename='images/boton_eme_on.png') }}');
+            background-color: transparent; /* fondo sigue transparente en hover */
             transform: scale(1.05);
         }
 
@@ -126,14 +169,12 @@
     </style>
 </head>
 <body>
-    <!-- Lado izquierdo con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Cartón">
-        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Mercedes">
-        <img src="{{ url_for('static', filename='images/Batimovil-Tim-Burton.jpg') }}" alt="Batimóvil">
+        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Cartón" />
+        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Mercedes" />
+        <img src="{{ url_for('static', filename='images/Batimovil-Tim-Burton.jpg') }}" alt="Batimóvil" />
     </div>
 
-    <!-- Formulario central -->
     <div class="form">
         <h1>Predictor de precio de usados</h1>
         <h2 class="subtitulo">Sergio Díaz Colina</h2>
@@ -174,21 +215,24 @@
             </select>
 
             <label for="kilometros">Kilómetros:</label>
-            <input type="number" name="kilometros" min="0" required>
+            <input type="number" name="kilometros" min="0" required />
 
-            <button type="submit" class="btn-ignition"></button>
+            <div class="btn-container">
+                <button type="submit" class="btn-ignition"></button>
+                <div class="btn-emergency-container">
+                    <a href="{{ url_for('documentacion') }}" class="btn-emergency" aria-label="Emergency"></a>
+                </div>
+            </div>
         </form>
     </div>
 
-    <!-- Lado derecho con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='images/lexus.jpg') }}" alt="Lexus">
-        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Multipla">
-        <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro">
+        <img src="{{ url_for('static', filename='images/lexus.jpg') }}" alt="Lexus" />
+        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Multipla" />
+        <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro" />
     </div>
 
     <script>
-        // Precarga con JavaScript por si acaso
         const preloadImg = new Image();
         preloadImg.src = "{{ url_for('static', filename='images/botonON.JPG') }}";
     </script>
@@ -196,4 +240,6 @@
     <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
 </body>
 </html>
+
+
 

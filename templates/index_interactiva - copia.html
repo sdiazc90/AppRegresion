@@ -19,6 +19,13 @@
             height: 100vh;
         }
 
+        /* Precarga la imagen de hover desde CSS */
+        body::after {
+            content: "";
+            display: none;
+            background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
+        }
+
         .side-images {
             width: 400px;
             display: flex;
@@ -52,13 +59,13 @@
             color: #FFFFFF;
             margin-bottom: 0px;
             text-align: center;
-	    margin-top: 0px;
- 	    font-size: 24px; 
+            margin-top: 0px;
+            font-size: 24px;
         }
 
         .form h2.subtitulo {
-            color: #2B2A2A; /* Cambia este valor para personalizar el color */
-            font-size: 10px;
+            color: #2B2A2A;
+            font-size: 14px;
             margin-top: 0;
             margin-bottom: 0px;
             text-align: center;
@@ -73,7 +80,8 @@
             margin: 0px auto;
         }
 
-        .form select, .form input[type="number"] {
+        .form select,
+        .form input[type="number"] {
             background-color: #4F4F4F;
             color: #FFFFFF;
             border: none;
@@ -89,7 +97,7 @@
         .btn-ignition {
             width: 150px;
             height: 150px;
-            background-image: url('{{ url_for("static", filename="img/botonOFF2.png") }}');
+            background-image: url('{{ url_for('static', filename='images/botonOFF2.png') }}');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
@@ -99,11 +107,11 @@
             margin-top: 0px;
             position: relative;
             left: 10px;
-            top: -13px;
+            top: -11px;
         }
 
         .btn-ignition:hover {
-            background-image: url('{{ url_for("static", filename="img/botonON.jpg") }}');
+            background-image: url('{{ url_for('static', filename='images/botonON.JPG') }}');
             transform: scale(1.05);
         }
 
@@ -118,11 +126,11 @@
     </style>
 </head>
 <body>
-    <!-- Lado izquierdo con imagen -->
+    <!-- Lado izquierdo con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Imagen 1">
-        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Imagen 2">
-        <img src="{{ url_for('static', filename='img/Batimovil-Tim-Burton.jpg') }}" alt="Imagen Batimovil">
+        <img src="{{ url_for('static', filename='images/carton.jpg') }}" alt="Cartón">
+        <img src="{{ url_for('static', filename='images/mercedes.jpg') }}" alt="Mercedes">
+        <img src="{{ url_for('static', filename='images/Batimovil-Tim-Burton.jpg') }}" alt="Batimóvil">
     </div>
 
     <!-- Formulario central -->
@@ -158,7 +166,7 @@
                 <option value="">Seleccione tipo de tracción</option>
             </select>
 
-            <label for="año">Año:</label>
+            <label for="ano">Año:</label>
             <select name="ano" required>
                 {% for año in range(2024, 1989, -1) %}
                     <option value="{{ año }}">{{ año }}</option>
@@ -172,12 +180,18 @@
         </form>
     </div>
 
-    <!-- Lado derecho con imagen -->
+    <!-- Lado derecho con imágenes estáticas -->
     <div class="side-images">
-        <img src="{{ url_for('static', filename='img/toyo.jpg') }}" alt="Imagen 3">
-        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Imagen 4">
-        <img src="{{ url_for('static', filename='img/171197.jpg') }}" alt="Imagen Odómetro">
+        <img src="{{ url_for('static', filename='images/lexus.jpg') }}" alt="Lexus">
+        <img src="{{ url_for('static', filename='images/multipla.jpg') }}" alt="Multipla">
+        <img src="{{ url_for('static', filename='images/171197.jpg') }}" alt="Odómetro">
     </div>
+
+    <script>
+        // Precarga con JavaScript por si acaso
+        const preloadImg = new Image();
+        preloadImg.src = "{{ url_for('static', filename='images/botonON.JPG') }}";
+    </script>
 
     <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
 </body>

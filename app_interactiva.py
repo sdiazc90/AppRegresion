@@ -184,6 +184,12 @@ def mostrar_importancias():
         tabla=df.to_html(index=False)
     )
 
+# Ruta para la página de documentación
+@app.route('/documentacion')
+def documentacion():
+    return render_template('documentacion.html')
+
+
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port, debug=True)
