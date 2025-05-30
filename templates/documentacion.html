@@ -111,7 +111,9 @@
             </ul>
             <iframe src="static/plots/precio_modelo_selectivo.html"></iframe>
             <p>Finalmente la cantidad de muestras es:</p>
-            <iframe src="static/plots/numero_muestras_marcas.html"></iframe>
+            
+            <iframe src="static/plots/numero_muestras_marcas.html" style="width: 90%; max-width: 900px; height: 600px; border: none;"></iframe>
+
         </div>
     </div>
 
@@ -152,8 +154,10 @@
     </div>
 
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
-    <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
+    
 <script>
+let iframesRecargados = false; // Flag global para controlar si ya se hizo
+
 document.querySelectorAll('.accordion-header').forEach((header, index) => {
     header.addEventListener('click', () => {
         const wasActive = header.classList.contains('active');
@@ -167,8 +171,8 @@ document.querySelectorAll('.accordion-header').forEach((header, index) => {
             const content = header.nextElementSibling;
             content.classList.add('show');
 
-            // Solo si es la sección 2 (índice 1)
-            if (index === 1) {
+            // Solo si es la sección 2 (índice 1) y no se han recargado aún
+            if (index === 1 && !iframesRecargados) {
                 const iframes = content.querySelectorAll('iframe');
                 iframes.forEach((iframe, i) => {
                     if (i < iframes.length - 1) { // recarga todos EXCEPTO el último
@@ -176,14 +180,18 @@ document.querySelectorAll('.accordion-header').forEach((header, index) => {
                         iframe.setAttribute('src', src);
                         setTimeout(() => {
                             iframe.setAttribute('src', src);
-                        }, 500);
+                        }, 50);
                     }
                 });
+
+                // Marcar como ya recargados
+                iframesRecargados = true;
             }
         }
     });
 });
 </script>
+
 
 
 
