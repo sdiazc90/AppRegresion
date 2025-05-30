@@ -233,9 +233,13 @@
     </div>
 
     <script>
-        const preloadImg = new Image();
-        preloadImg.src = "{{ url_for('static', filename='images/botonON.JPG') }}";
-    </script>
+    const preloadImg = new Image();
+    preloadImg.src = "{{ url_for('static', filename='images/botonON.JPG') }}";
+
+    // Precargar imagen del botón de emergencia (hover)
+    const preloadEmerg = new Image();
+    preloadEmerg.src = "{{ url_for('static', filename='images/boton_eme_on.png') }}";
+</script>
 
     <script src="{{ url_for('static', filename='scripts/main.js') }}"></script>
 </body>
