@@ -155,24 +155,39 @@
     </div>
 
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
-    
 <script>
-window.addEventListener('DOMContentLoaded', () => {
-    // Seleccionamos los contenedores de los acordeones 1 y 2 (índices 0 y 1)
-    const acordeones = document.querySelectorAll('.accordion-content');
-
-    // Recargamos iframes solo en los acordeones 0 y 1
-    [0, 1].forEach(index => {
-        const iframes = acordeones[index].querySelectorAll('iframe');
-        iframes.forEach(iframe => {
-            const src = iframe.getAttribute('src');
-            iframe.setAttribute('src', src);
+document.addEventListener("DOMContentLoaded", function () {
+    // Inicialización de acordeones
+    document.querySelectorAll('.accordion-header').forEach((header) => {
+        header.addEventListener('click', () => {
+            const content = header.nextElementSibling;
+            header.classList.toggle('active');
+            content.classList.toggle('show');
         });
     });
+
+    // Verificamos si ya se hizo la doble recarga
+    if (!sessionStorage.getItem("iframesRecargados")) {
+        // Acordeones a recargar: 0 y 1
+        [0, 1].forEach((i) => {
+            const header = document.querySelectorAll('.accordion-header')[i];
+            const content = header.nextElementSibling;
+            const iframes = content.querySelectorAll('iframe');
+            iframes.forEach((iframe) => {
+                const src = iframe.getAttribute('src');
+                // Recargar dos veces
+                iframe.setAttribute('src', src);
+                setTimeout(() => {
+                    iframe.setAttribute('src', src);
+                }, 0); // 0 ms delay = casi inmediato
+            });
+        });
+
+        // Marcamos como recargado en esta sesión
+        sessionStorage.setItem("iframesRecargados", "true");
+    }
 });
 </script>
-
-
 </body>
 </html>
 
