@@ -157,37 +157,36 @@
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-    // Inicialización de acordeones
-    document.querySelectorAll('.accordion-header').forEach((header) => {
+    const recargaRealizada = JSON.parse(sessionStorage.getItem("acordeonesRecargados") || "{}");
+
+    document.querySelectorAll('.accordion-header').forEach((header, index) => {
         header.addEventListener('click', () => {
             const content = header.nextElementSibling;
+            const isActive = header.classList.contains('active');
             header.classList.toggle('active');
             content.classList.toggle('show');
+
+            // Solo para acordeones 0 y 1, y solo si no se ha recargado aún en esta sesión
+            if ((index === 0 || index === 1) && !recargaRealizada[index]) {
+                const iframes = content.querySelectorAll('iframe');
+                iframes.forEach((iframe) => {
+                    const src = iframe.getAttribute('src');
+                    // Recarga doble
+                    iframe.setAttribute('src', src);
+                    setTimeout(() => {
+                        iframe.setAttribute('src', src);
+                    }, 0);
+                });
+
+                // Marcar este acordeón como ya recargado
+                recargaRealizada[index] = true;
+                sessionStorage.setItem("acordeonesRecargados", JSON.stringify(recargaRealizada));
+            }
         });
     });
-
-    // Verificamos si ya se hizo la doble recarga
-    if (!sessionStorage.getItem("iframesRecargados")) {
-        // Acordeones a recargar: 0 y 1
-        [0, 1].forEach((i) => {
-            const header = document.querySelectorAll('.accordion-header')[i];
-            const content = header.nextElementSibling;
-            const iframes = content.querySelectorAll('iframe');
-            iframes.forEach((iframe) => {
-                const src = iframe.getAttribute('src');
-                // Recargar dos veces
-                iframe.setAttribute('src', src);
-                setTimeout(() => {
-                    iframe.setAttribute('src', src);
-                }, 0); // 0 ms delay = casi inmediato
-            });
-        });
-
-        // Marcamos como recargado en esta sesión
-        sessionStorage.setItem("iframesRecargados", "true");
-    }
 });
 </script>
+
 </body>
 </html>
 
