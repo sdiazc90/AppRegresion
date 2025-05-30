@@ -10,7 +10,7 @@
         body {
             font-family: Arial, sans-serif;
             margin: auto;
-            max-width: 90%;
+            max-width: 100%;
         }
         h1 {
             text-align: center;
@@ -60,7 +60,14 @@
             height: 700px;
             border: none;
             display: block;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
+        }
+        #treemap-iframe {
+        width: 100%;
+        height: 450px;
+        border: none;
+        display: block;
+        margin-bottom: 10px;
         }
         /* Imagenes responsivas */
         img {
@@ -135,8 +142,7 @@
             
             <iframe src="static/plots/violin_precios_marcas.html" loading="lazy"></iframe>
             <p>Además una alta dispersión de precio entre modelos.</p>
-            
-            <iframe src="static/plots/treemap_marcas_modelos.html"   loading="lazy" ></iframe>
+            <iframe id="treemap-iframe" src="static/plots/treemap_marcas_modelos.html" loading="lazy"></iframe>            
             <p>Y como en promedio los vehículos usados Jeep son los más caros, a diferencia de los Citroen y Renault. Incluso si estas últimas las comparamos con modelos de la misma gama de otra Marca.</p>
             
             <iframe src="static/plots/correlacion_mapa.html" style="height: 500px;" loading="lazy"></iframe>
