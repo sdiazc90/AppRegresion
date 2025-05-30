@@ -160,19 +160,24 @@ document.querySelectorAll('.accordion-header').forEach(header => {
         // Cerrar todas las secciones
         document.querySelectorAll('.accordion-header').forEach(h => h.classList.remove('active'));
         document.querySelectorAll('.accordion-content').forEach(c => c.classList.remove('show'));
-        // Si no estaba activa, abrirla y redibujar iframes
+        // Si no estaba activa, abrir y recargar iframes dos veces
         if (!wasActive) {
             header.classList.add('active');
             const content = header.nextElementSibling;
             content.classList.add('show');
             content.querySelectorAll('iframe').forEach(iframe => {
-                if (iframe.contentWindow) {
-                    iframe.contentWindow.postMessage('redraw-plotly', '*');
-                }
+                const src = iframe.getAttribute('src');
+                // Primera recarga
+                iframe.setAttribute('src', src);
+                // Segunda recarga tras 500ms
+                setTimeout(() => {
+                    iframe.setAttribute('src', src);
+                }, 500);
             });
         }
     });
 });
+
 </script>
 <script>
     window.addEventListener('message', function(event) {
