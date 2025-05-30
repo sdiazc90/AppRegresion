@@ -112,7 +112,10 @@
             <iframe src="static/plots/precio_modelo_selectivo.html"></iframe>
             <p>Finalmente la cantidad de muestras es:</p>
             
-            <iframe src="static/plots/numero_muestras_marcas.html"style="width: 90%; max-width: 900px; height: 600px; border: none; display: block;"></iframe>
+            <iframe 
+  src="static/plots/numero_muestras_marcas.html" 
+  style="width: 100%; max-width: 1200px; height: 600px; border: none; display: block; overflow-x: hidden;">
+</iframe>
 
           
 
@@ -183,7 +186,7 @@ document.querySelectorAll('.accordion-header').forEach((header, index) => {
                         iframe.setAttribute('src', src);
                         setTimeout(() => {
                             iframe.setAttribute('src', src);
-                        }, 50);
+                        }, 10);
                     }
                 });
 
