@@ -157,31 +157,27 @@
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
     
 <script>
-let iframesRecargados = false; // Evita recargar múltiples veces innecesarias
-
 document.querySelectorAll('.accordion-header').forEach((header, index) => {
     header.addEventListener('click', () => {
         const content = header.nextElementSibling;
         const isActive = header.classList.contains('active');
 
-        // Mostrar u ocultar el acordeón
+        // Alternar estado del acordeón individual
         header.classList.toggle('active');
         content.classList.toggle('show');
 
-        // Recargar iframes cuando se abre la sección 0 (acordeón 1)
-        if ((index === 0 || index === 1) && !isActive && !iframesRecargados) {
+        // Recargar iframes en acordeones 1 y 2 al abrirlos (índices 0 y 1)
+        if ((index === 0 || index === 1) && !isActive) {
             const iframes = content.querySelectorAll('iframe');
             iframes.forEach((iframe) => {
                 const src = iframe.getAttribute('src');
-                iframe.setAttribute('src', src); // Recarga el iframe
+                iframe.setAttribute('src', src);
             });
-
-            // Marcar que ya se recargó para evitar repetirlo
-            iframesRecargados = true;
         }
     });
 });
 </script>
+
 </body>
 </html>
 
