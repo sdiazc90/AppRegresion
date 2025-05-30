@@ -158,39 +158,33 @@
 <script>
 let iframesRecargados = false; // Flag global para controlar si ya se hizo
 
+<script>
 document.querySelectorAll('.accordion-header').forEach((header, index) => {
     header.addEventListener('click', () => {
-        const wasActive = header.classList.contains('active');
+        const content = header.nextElementSibling;
+        const isActive = header.classList.contains('active');
 
-        // Cerrar todos los headers y contenidos
-        document.querySelectorAll('.accordion-header').forEach(h => h.classList.remove('active'));
-        document.querySelectorAll('.accordion-content').forEach(c => c.classList.remove('show'));
+        // Toggle estado actual del acordeón individual
+        header.classList.toggle('active');
+        content.classList.toggle('show');
 
-        if (!wasActive) {
-            header.classList.add('active');
-            const content = header.nextElementSibling;
-            content.classList.add('show');
-
-            // Solo si es la sección 2 (índice 1) y no se han recargado aún
-            if (index === 1 && !iframesRecargados) {
-                const iframes = content.querySelectorAll('iframe');
-                iframes.forEach((iframe, i) => {
-                    if (i < iframes.length - 1) { // recarga todos EXCEPTO el último
-                        const src = iframe.getAttribute('src');
+        // Si quieres recargar los iframes solo al abrir la sección 2
+        if (index === 1 && !isActive) {
+            const iframes = content.querySelectorAll('iframe');
+            iframes.forEach((iframe, i) => {
+                if (i < iframes.length - 1) {
+                    const src = iframe.getAttribute('src');
+                    iframe.setAttribute('src', src);
+                    setTimeout(() => {
                         iframe.setAttribute('src', src);
-                        setTimeout(() => {
-                            iframe.setAttribute('src', src);
-                        }, 5);
-                    }
-                });
-
-                // Marcar como ya recargados
-                iframesRecargados = true;
-            }
+                    }, 500);
+                }
+            });
         }
     });
 });
 </script>
+
 
 
 
