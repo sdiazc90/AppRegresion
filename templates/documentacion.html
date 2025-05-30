@@ -157,26 +157,21 @@
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
     
 <script>
-document.querySelectorAll('.accordion-header').forEach((header, index) => {
-    header.addEventListener('click', () => {
-        const content = header.nextElementSibling;
-        const isActive = header.classList.contains('active');
+window.addEventListener('DOMContentLoaded', () => {
+    // Seleccionamos los contenedores de los acordeones 1 y 2 (índices 0 y 1)
+    const acordeones = document.querySelectorAll('.accordion-content');
 
-        // Alternar estado del acordeón individual
-        header.classList.toggle('active');
-        content.classList.toggle('show');
-
-        // Recargar iframes en acordeones 1 y 2 al abrirlos (índices 0 y 1)
-        if ((index === 0 || index === 1) && !isActive) {
-            const iframes = content.querySelectorAll('iframe');
-            iframes.forEach((iframe) => {
-                const src = iframe.getAttribute('src');
-                iframe.setAttribute('src', src);
-            });
-        }
+    // Recargamos iframes solo en los acordeones 0 y 1
+    [0, 1].forEach(index => {
+        const iframes = acordeones[index].querySelectorAll('iframe');
+        iframes.forEach(iframe => {
+            const src = iframe.getAttribute('src');
+            iframe.setAttribute('src', src);
+        });
     });
 });
 </script>
+
 
 </body>
 </html>
