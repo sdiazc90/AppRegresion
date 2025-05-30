@@ -49,7 +49,11 @@
         .accordion-header.active::after {
             transform: rotate(90deg);
         }
-        /* Para que el gráfico tome ancho completo y sea responsive */
+        /* Ajuste de márgenes en párrafos */
+        .accordion-content p {
+            margin: 0.5em 0;
+        }
+        /* Iframes responsivos */
         iframe {
             width: 100%;
             height: 700px;
@@ -57,18 +61,14 @@
             display: block;
             margin-bottom: 20px;
         }
-        /* Ajuste de margen de párrafos */
-        .accordion-content p {
-            margin: 0.5em 0;
-        }
     </style>
 
-    <!-- Plotly.js desde CDN -->
+    <!-- Carga Plotly.js solo una vez desde CDN -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
 
-    <!-- Enlace al inicio -->
+    <!-- Botón volver al índice -->
     <div style="margin: 20px; text-align: left;">
         <a href="/" style="text-decoration: none; font-size: 18px; color: #007BFF; font-weight: bold;">
             &#8592; Volver al inicio
@@ -77,64 +77,97 @@
 
     <h1>Documentación del Proyecto</h1>
 
-    <!-- Sección 1 -->
+    <!-- Sección 1: Obtención y limpieza de datos -->
     <div class="accordion">
         <div class="accordion-header">1) Obtención y limpieza de datos</div>
         <div class="accordion-content">
-            <p>Los datos se obtuvieron mediante scraping de MercadoLibre …</p>
+            <p>Los datos se obtuvieron mediante scraping de MercadoLibre para las diez marcas mas vendidas en Argentina con sus respectivos modelos mas vendidos.</p>
             <img src="static/images/MSA.png" alt="Gráfico MSA" style="max-width: 40%; height: auto; margin-top: 10px;" />
-            <!-- iframe generado con include_plotlyjs='cdn' y responsive -->
+            <p>Se extrajeron mas de 52000 publicaciones con características como:</p>
+            <ul>
+                <li>Marca</li>
+                <li>Modelo</li>
+                <li>Año</li>
+                <li>Tracción</li>
+                <li>Color</li>
+                <li>Tipo de combustible</li>
+                <li>Puertas</li>
+                <li>Transmisión</li>
+                <li>Motor</li>
+                <li>Tipo de carrocería</li>
+                <li>Fecha publicación</li>
+                <li>Kilómetros</li>
+                <li>Precio</li> 
+            </ul>
+            <p>Luego se procede a limpiar estos datos en los siguientes pasos:</p>
+            <ul>
+                <li>Elimino duplicados</li>
+                <li>Normalizacion de datos (minusculas, tildes, dieresis, exclamaciones, etc).</li>
+                <li>Mapeo y agrupacion de Color, Puertas, Transmisión, Tipo de carrocería, Tracción y Tipo de combustible.</li>
+                <li>Corrección de datos incoherentes como Motores de cilindradas inexistentes.</li>
+                <li>Kilómetros: se eliminan los outliers y se imputan mediante algoritmo MICE.</li>
+                <li>Fecha de publicación: se eliminan los que tengan fechas mayores a 365 días de publicación, por presuponerlos desactualizados.</li>
+                <li>Precio: se transforma los precios en dólares a pesos argentinos y se eliminan los outliers —no se imputan por ser la variable a predecir—; la lógica en torno al precio es que un auto usado no puede valer más que el modelo 0 kilómetros y luego se eliminan outliers agrupados por modelo y año.</li>
+            </ul>
             <iframe src="static/plots/precio_modelo_selectivo.html"></iframe>
             <p>Finalmente la cantidad de muestras es:</p>
             <iframe src="static/plots/numero_muestras_marcas.html"></iframe>
         </div>
     </div>
 
-    <!-- Sección 2 -->
+    <!-- Sección 2: Análisis de Datos -->
     <div class="accordion">
         <div class="accordion-header">2) Análisis de Datos</div>
-        <div class="accordion-content">
-            <p>En esta sección se muestran algunas gráficas de los datos limpios</p>
+        <div class="accordion-content" style="overflow-x: auto; padding-bottom: 20px;">
+            <p>En esta seccion se muestran algunas graficas de los datos limpios</p>
+
             <iframe src="static/plots/precio_medio_marcas.html"></iframe>
-            <p>Se puede ver un pico de Jeep en 2015 …</p>
+            <p>Se puede ver un pico de Jeep en 2015 y antes de los años 2000, esto es real, ya que de esos años no hay modelos de gama "baja" (compass, renegade) publicados, ni en ML, ni en otras páginas por lo que la media es elevada, al haber solo Wrangler y/o Grand-Cherokee.</p>
+            
             <iframe src="static/plots/violin_precios_marcas.html"></iframe>
             <p>Además una alta dispersión de precio entre modelos.</p>
+            
             <iframe src="static/plots/treemap_marcas_modelos.html"></iframe>
-            <p>Y como en promedio los vehículos usados Jeep son los más caros …</p>
+            <p>Y como en promedio los vehículos usados Jeep son los más caros, a diferencia de los Citroen y Renault. Incluso si estas últimas las comparamos con modelos de la misma gama de otra Marca.</p>
+            
             <iframe src="static/plots/correlacion_mapa.html" style="height: 500px;"></iframe>
         </div>
     </div>
 
-    <!-- Sección 3 -->
+    <!-- Sección 3: Entrenamiento de Modelo -->
     <div class="accordion">
         <div class="accordion-header">3) Entrenamiento de Modelo</div>
         <div class="accordion-content">
-            <p>Finalmente para entrenar modelos de Machine Learning utilizamos tres …</p>
-            <img src="static/images/r2_modelosconeleccion_sin_tuneo.png" alt="R2 sin tuneo" style="max-width: 60%; height: auto;" />
-            <p>Luego pasamos a tunear hiperparámetros de los dos mejores.</p>
-            <img src="static/images/r2_modelosconeleccion_con_tuneo.png" alt="R2 con tuneo" style="max-width: 60%; height: auto;" />
+            <p>Finalmente para entrenar modelos de Machine Learning utilizamos tres. Con su respectivo proceso de seleccion de variables, encoding, split y Cross Validation:</p>
+            <ul>
+                <li>Regresión lineal (baseline)</li>
+                <li>Random Forest</li>
+                <li>XGBoost</li>
+            </ul>
+            <img src="static/images/r2_modelosconeleccion_sin_tuneo.png" alt="Gráfico R2 sin tuneo" style="max-width: 60%; height: auto;" />
+            <p>Luego pasamos a tunear hiperparametros de los dos mejores.</p>
+            <img src="static/images/r2_modelosconeleccion_con_tuneo.png" alt="Gráfico R2 con tuneo" style="max-width: 60%; height: auto;" />
+            <p>Finalmente el mejor modelo con busqueda de hiperparametros es XGBoost.</p>
         </div>
     </div>
 
-    <!-- Script acordeón + redibujo Plotly al abrir -->
+    <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
     <script>
         document.querySelectorAll('.accordion-header').forEach(header => {
             header.addEventListener('click', () => {
                 const wasActive = header.classList.contains('active');
-                // Cerrar todo
+                // Cerrar todas las secciones
                 document.querySelectorAll('.accordion-header').forEach(h => h.classList.remove('active'));
                 document.querySelectorAll('.accordion-content').forEach(c => c.classList.remove('show'));
-                // Si no estaba abierto, ábrelo
+                // Si no estaba activa, abrirla y redibujar iframes
                 if (!wasActive) {
                     header.classList.add('active');
                     const content = header.nextElementSibling;
                     content.classList.add('show');
-                    // Forzar redibujo de cada iframe Plotly
                     content.querySelectorAll('iframe').forEach(iframe => {
-                        // Ajustar dimensiones actuales para disparar resize
+                        // Forzar que Plotly redibuje al cambiar de oculto a visible
                         iframe.style.width  = iframe.clientWidth  + 'px';
                         iframe.style.height = iframe.clientHeight + 'px';
-                        // Disparar evento resize dentro del iframe
                         if (iframe.contentWindow) {
                             iframe.contentWindow.dispatchEvent(new Event('resize'));
                         }
