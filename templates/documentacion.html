@@ -153,29 +153,38 @@
 
     <!-- Script de funcionamiento del acordeón y redibujo Plotly -->
     <script>
-        document.querySelectorAll('.accordion-header').forEach(header => {
-            header.addEventListener('click', () => {
-                const wasActive = header.classList.contains('active');
-                // Cerrar todas las secciones
-                document.querySelectorAll('.accordion-header').forEach(h => h.classList.remove('active'));
-                document.querySelectorAll('.accordion-content').forEach(c => c.classList.remove('show'));
-                // Si no estaba activa, abrirla y redibujar iframes
-                if (!wasActive) {
-                    header.classList.add('active');
-                    const content = header.nextElementSibling;
-                    content.classList.add('show');
-                    content.querySelectorAll('iframe').forEach(iframe => {
-                        // Forzar que Plotly redibuje al cambiar de oculto a visible
-                        iframe.style.width  = iframe.clientWidth  + 'px';
-                        iframe.style.height = iframe.clientHeight + 'px';
-                        if (iframe.contentWindow) {
-                            iframe.contentWindow.dispatchEvent(new Event('resize'));
-                        }
-                    });
-                }
-            });
+    document.querySelectorAll('.accordion-header').forEach(header => {
+        header.addEventListener('click', () => {
+            const wasActive = header.classList.contains('active');
+            // Cerrar todas las secciones
+            document.querySelectorAll('.accordion-header').forEach(h => h.classList.remove('active'));
+            document.querySelectorAll('.accordion-content').forEach(c => c.classList.remove('show'));
+            // Si no estaba activa, abrirla y redibujar iframes
+            if (!wasActive) {
+                header.classList.add('active');
+                const content = header.nextElementSibling;
+                content.classList.add('show');
+                content.querySelectorAll('iframe').forEach(iframe => {
+                    if (iframe.contentWindow) {
+                        iframe.contentWindow.postMessage('redraw-plotly', '*');
+                    }
+                });
+            }
         });
-    </script>
+    });
+</script>
+<script>
+    window.addEventListener('message', function(event) {
+        if (event.data === 'redraw-plotly') {
+            if (typeof Plotly !== 'undefined') {
+                Array.from(document.getElementsByClassName('plotly-graph-div')).forEach(function(g) {
+    Plotly.Plots.resize(g);
+});
+
+            }
+        }
+    });
+</script>
 
 </body>
 </html>
