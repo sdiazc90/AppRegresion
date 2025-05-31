@@ -153,31 +153,46 @@
     <div class="accordion">
         <div class="accordion-header">3) Entrenamiento de Modelo</div>
         <div class="accordion-content">
-            <p>Finalmente para entrenar modelos de Machine Learning utilizamos tres. Con su respectivo proceso de seleccion de variables, encoding, split y Cross Validation:</p>
+            <p>Finalmente entrenamos tres modelos de Machine Learning. Con su respectivo proceso de seleccion de variables significativas, one hot encoding para variables categoricas, split train/test, entrenamiento por Cross Validation y testing:</p>
             <ul>
                 <li>Regresión lineal (baseline)</li>
                 <li>Random Forest</li>
                 <li>XGBoost</li>
             </ul>
-            <img src="static/images/r2_modelosconeleccion_sin_tuneo.png" alt="Gráfico R2 sin tuneo" style="max-width: 60%; height: 400px;" />
-            <p>Luego pasamos a tunear hiperparametros de los dos mejores.</p>
-            <img src="static/images/r2_modelosconeleccion_con_tuneo.png" alt="Gráfico R2 con tuneo" style="max-width: 60%; height: 400px;" />
+            <img src="static/images/r2_modelosconeleccion_sin_tuneo.png" alt="Gráfico R2 sin tuneo" style="max-width: 50%; height: 400px;" />
+            <p>Finalmente realizamos una búsqueda de hiperparámetros óptimos mediante RandomSearch para los dos mejores modelos.</p>
+            <img src="static/images/r2_modelosconeleccion_con_tuneo.png" alt="Gráfico R2 con tuneo" style="max-width: 50%; height: 400px;" />
             <p>Finalmente el mejor modelo con busqueda de hiperparametros es XGBoost.</p>
         </div>
     </div>
 
-    <!-- Script de funcionamiento del acordeón -->
-    <script>
-    document.addEventListener("DOMContentLoaded", function () {
-        document.querySelectorAll('.accordion-header').forEach((header) => {
-            header.addEventListener('click', () => {
-                const content = header.nextElementSibling;
-                header.classList.toggle('active');
-                content.classList.toggle('show');
-            });
+<!-- Script de funcionamiento del acordeón -->
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    // Cargar gráficos al abrir la página
+    document.querySelectorAll('iframe').forEach((iframe) => {
+        const srcOriginal = iframe.src;
+        iframe.src = srcOriginal + '?nocache=' + new Date().getTime(); 
+    });
+
+    // Código existente para el acordeón
+    document.querySelectorAll('.accordion-header').forEach((header) => {
+        header.addEventListener('click', () => {
+            const content = header.nextElementSibling;
+            header.classList.toggle('active');
+            content.classList.toggle('show');
+
+            // Cargar gráficos al abrir el acordeón
+            if (content.classList.contains('show')) {
+                content.querySelectorAll('iframe').forEach((iframe) => {
+                    const srcOriginal = iframe.src.split('?')[0]; // Eliminar parámetros de la URL
+                    iframe.src = srcOriginal + '?nocache=' + new Date().getTime(); 
+                });
+            }
         });
     });
-    </script>
+});
+</script>
 
 </body>
 </html>
