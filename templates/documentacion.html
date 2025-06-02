@@ -96,34 +96,11 @@
     <div class="accordion">
         <div class="accordion-header">1) Obtención y limpieza de datos</div>
         <div class="accordion-content">
-            <p>Los datos se obtuvieron mediante scraping de MercadoLibre para las diez marcas mas vendidas en Argentina con sus respectivos modelos mas vendidos.</p>
+            <p>Se obtuvo mediante scraping de MercadoLibre para las diez marcas mas vendidas en Argentina con sus respectivos modelos mas vendidos.</p>
             <img src="static/images/MSA.png" alt="Gráfico MSA" style="max-width: 40%; height: auto; margin-top: 10px;" />
-            <p>Se extrajeron mas de 52000 publicaciones con características como:</p>
-            <ul>
-                <li>Marca</li>
-                <li>Modelo</li>
-                <li>Año</li>
-                <li>Tracción</li>
-                <li>Color</li>
-                <li>Tipo de combustible</li>
-                <li>Puertas</li>
-                <li>Transmisión</li>
-                <li>Motor</li>
-                <li>Tipo de carrocería</li>
-                <li>Fecha publicación</li>
-                <li>Kilómetros</li>
-                <li>Precio</li> 
-            </ul>
-            <p>Luego se procede a limpiar estos datos en los siguientes pasos:</p>
-            <ul>
-                <li>Elimino duplicados</li>
-                <li>Normalizacion de datos (minusculas, tildes, dieresis, exclamaciones, etc).</li>
-                <li>Mapeo y agrupacion de Color, Puertas, Transmisión, Tipo de carrocería, Tracción y Tipo de combustible.</li>
-                <li>Corrección de datos incoherentes como Motores de cilindradas inexistentes.</li>
-                <li>Kilómetros: se eliminan los outliers y se imputan mediante algoritmo MICE.</li>
-                <li>Fecha de publicación: se eliminan los que tengan fechas mayores a 365 días de publicación, por presuponerlos desactualizados.</li>
-                <li>Precio: se transforma los precios en dólares a pesos argentinos y se eliminan los outliers —no se imputan por ser la variable a predecir—; la lógica en torno al precio es que un auto usado no puede valer más que el modelo 0 kilómetros y luego se eliminan outliers agrupados por modelo y año.</li>
-            </ul>
+            <p>Se extrajeron mas de 52000 publicaciones y se limpian mediante el flujo:</p>
+            <img src="static/images/Adatos.JPG" alt="Flujo datos" style="max-width: 100%" />
+             <p>Precios por modelo para datos limpios:</p>
             <iframe src="static/plots/precio_modelo_selectivo.html" loading="lazy"></iframe>
 
             <p>Finalmente la cantidad de muestras es:</p>
@@ -153,8 +130,9 @@
     <div class="accordion">
         <div class="accordion-header">3) Entrenamiento de Modelo</div>
         <div class="accordion-content">
-            <p>Finalmente entrenamos tres modelos de Machine Learning. Con su respectivo proceso de seleccion de variables significativas, one hot encoding para variables categoricas, split train/test (80/20), entrenamiento por Cross Validation y testing:</p>
-            <ul>
+            <p>Finalmente entrenamos tres modelos de regresión de Machine Learning, mediante el flujo:</p>
+             <img src="static/images/Captura.JPG" alt="Flujo entrenamiento" style="max-width: 100%" />
+             <ul>
                 <li>Regresión lineal (baseline)</li>
                 <li>Random Forest</li>
                 <li>XGBoost</li>
@@ -162,7 +140,7 @@
             <img src="static/images/r2_modelosconeleccion_sin_tuneo.png" alt="Gráfico R2 sin tuneo" style="max-width: 50%; height: 400px;" />
             <p>Finalmente realizamos una búsqueda de hiperparámetros óptimos mediante RandomSearch para los dos mejores modelos.</p>
             <img src="static/images/r2_modelosconeleccion_con_tuneo.png" alt="Gráfico R2 con tuneo" style="max-width: 50%; height: 400px;" />
-            <p>Finalmente el mejor modelo con busqueda de hiperparametros es XGBoost.</p>
+            <p>Finalmente el mejor modelo de regresion es XGBoost.</p>
         </div>
     </div>
 
