@@ -1,7 +1,0 @@
-# Ignorar todo data/
-data/
-
-# Pero permitir sólo estos archivos grandes que tu app necesita:
-!data/mejor_modelo_xgb.pkl
-!data/columnas_modelo.pkl
-!data/scaler.pkl

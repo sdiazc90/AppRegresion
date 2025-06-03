@@ -80,7 +80,10 @@
 
     <!-- Carga Plotly.js solo una vez desde CDN -->
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.3.2/papaparse.min.js"></script>
+
 </head>
+
 <body>
 
     <!-- Botón volver al índice -->
@@ -144,6 +147,16 @@
         </div>
     </div>
 
+	<!-- Sección 4: Ver datos limpios -->
+	<div class="accordion">
+    	<div class="accordion-header">4) Muestras Aleatorias del CSV</div>
+    	<div class="accordion-content">
+        <button id="mostrar-muestras">Mostrar 7 muestras aleatorias</button>
+        <div id="tabla-muestras" style="margin-top: 15px;"></div>
+    	</div>
+	</div>
+
+
 <!-- Script de funcionamiento del acordeón -->
 <script>
 document.addEventListener("DOMContentLoaded", function () {
@@ -170,6 +183,75 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 });
+</script>
+<script>
+let datosCSV = [];
+
+Papa.parse("/data/autos_limpios.csv", {
+    download: true,
+    header: true,
+    complete: function(results) {
+        datosCSV = results.data;
+        console.log("CSV cargado con éxito");
+    },
+    error: function(err) {
+        console.error("Error al cargar el CSV:", err);
+    }
+});
+
+
+// Función para mostrar 7 muestras aleatorias
+function mostrarMuestras() {
+    if (datosCSV.length === 0) return;
+
+    // Selecciona 7 aleatorias
+    const muestras = [];
+    const usados = new Set();
+    while (muestras.length < 7 && usados.size < datosCSV.length) {
+        const index = Math.floor(Math.random() * datosCSV.length);
+        if (!usados.has(index)) {
+            usados.add(index);
+            muestras.push(datosCSV[index]);
+        }
+    }
+
+    // Crear tabla
+    const tabla = document.createElement('table');
+    tabla.style.width = '100%';
+    tabla.style.borderCollapse = 'collapse';
+    tabla.border = "1";
+
+    // Cabecera
+    const columnas = Object.keys(muestras[0]);
+    const thead = tabla.createTHead();
+    const headerRow = thead.insertRow();
+    columnas.forEach(col => {
+        const th = document.createElement('th');
+        th.innerText = col;
+        th.style.border = "1px solid #ccc";
+        th.style.padding = "5px";
+        headerRow.appendChild(th);
+    });
+
+    // Filas
+    const tbody = tabla.createTBody();
+    muestras.forEach(fila => {
+        const row = tbody.insertRow();
+        columnas.forEach(col => {
+            const cell = row.insertCell();
+            cell.innerText = fila[col];
+            cell.style.border = "1px solid #ccc";
+            cell.style.padding = "5px";
+        });
+    });
+
+    // Insertar en el div
+    const contenedor = document.getElementById('tabla-muestras');
+    contenedor.innerHTML = ''; // Limpiar anterior
+    contenedor.appendChild(tabla);
+}
+
+document.getElementById('mostrar-muestras').addEventListener('click', mostrarMuestras);
 </script>
 
 </body>

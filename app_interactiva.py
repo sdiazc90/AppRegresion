@@ -29,6 +29,10 @@ app = Flask(
     static_folder=STATIC_DIR
 )
 
+@app.route('/data/<path:filename>')
+def serve_data_file(filename):
+    return send_from_directory(DATA_DIR, filename)
+
 # Página inicial
 @app.route('/')
 def home():
